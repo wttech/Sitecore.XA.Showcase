@@ -1,0 +1,27 @@
+﻿---
+ID: "e28d3c43-8a38-46f8-9646-73e3bc5a8412"
+Parent: "916f8129-a22a-49fa-affc-1317d517a75f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/media/file-list/Data/Text 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161005T104201Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Showing images</h2>
+        <p>In this example we can see File List component configured to display</p>
+        <ul>
+            <li>List title</li>
+            <li>Image title</li>
+            <li>Image file</li>
+        </ul>

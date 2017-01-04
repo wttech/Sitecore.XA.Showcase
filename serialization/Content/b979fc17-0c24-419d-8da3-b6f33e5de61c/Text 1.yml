@@ -1,0 +1,22 @@
+﻿---
+ID: "859779a3-1406-4494-a5b5-150f2b1fff48"
+Parent: "b979fc17-0c24-419d-8da3-b6f33e5de61c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/contact-page-2/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T115518Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Choose the best way to contact us</h2>
+        <h2></h2>

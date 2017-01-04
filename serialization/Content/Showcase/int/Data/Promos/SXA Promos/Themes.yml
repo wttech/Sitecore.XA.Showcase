@@ -1,0 +1,26 @@
+﻿---
+ID: "45201d95-56f2-4326-8f37-398e6b5977ed"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/Themes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Change the look and feel of your site with just a few clicks. Branding was never as easy as it is. All mobile responsive; every time.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{E0665CB5-D6FE-4683-9B35-BFC8A5E0A5AA}\" ></image>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161103T102619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin 
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: "<link linktype=\"internal\" querystring=\"\" target=\"\" id=\"{BFB957A2-4153-4191-97C4-D376E1A0E402}\" />"

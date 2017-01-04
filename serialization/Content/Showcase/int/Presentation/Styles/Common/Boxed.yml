@@ -1,0 +1,30 @@
+﻿---
+ID: "f5692e8c-d245-4a59-9112-4ece2d7cf5c9"
+Parent: "636a28ad-68e8-4f42-8ea8-ea36d6cfe46a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Common/Boxed
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: boxed
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: |
+    {C25766C8-9AFD-4D28-87FE-147774F6806D}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
+    {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081154Z

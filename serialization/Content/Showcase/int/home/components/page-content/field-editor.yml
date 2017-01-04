@@ -1,0 +1,28 @@
+﻿---
+ID: "30949328-bf2f-43a9-a7a9-639fa93c8ef5"
+Parent: "1ca5fac6-2b87-4aa7-8cd5-3e7095d44cbe"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/field-editor"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Field Editor
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Field Editor
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T065833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

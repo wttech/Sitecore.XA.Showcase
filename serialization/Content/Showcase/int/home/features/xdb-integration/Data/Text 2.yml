@@ -1,0 +1,23 @@
+﻿---
+ID: "fce15116-3890-4a37-9fd2-31f36eb94966"
+Parent: "72c6558d-ef96-4e77-aa91-3070604314d9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/xdb-integration/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T084952Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>SXA components come xDB ready. Personalization and A/B/n testing is not only possible using SXA components, but SXA brings a huge amount of power to your xDB solution.</p>
+        <p>By utilizing testing at a <a href="~/link.aspx?_id=F20F7A73245B4284B50930EA4541F97E&amp;_z=z">Partial Design</a> level you can perform tests on content that are not just on one page, but potentially on all your pages. For example, a purchase button can be tested for all products to yield statistical relevance faster.</p>
+        <p>All of this can be done by the user in the Sitecore Experience Editor.</p>

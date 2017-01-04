@@ -1,0 +1,22 @@
+﻿---
+ID: "d86b9960-3920-44ed-be12-17ba229f2861"
+Parent: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T094017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Fruits can be presented in so many ways. Please welcome: two detailed lists, two lists with thumbnails, even a carousel, and this is not our last word. Each list in this chapter is rendered using the same component that works on a single set of data, but they look differently, don't they? </p>
+        <p>Credit goes to rendering variants! They control what content is outputted for each and every item in the list and they provide their own styling. Combining it with the styling that can be assigned on a component level, you get an unlimited number of new applications for SXA components. Variants are like a magic wand, that transforms simple components into multi-purpose Swiss army knives.</p>

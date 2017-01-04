@@ -1,0 +1,22 @@
+﻿---
+ID: "e536b1c3-f30c-45d9-8639-8b538ae23ba3"
+Parent: "12f55b86-63cf-40f2-8a89-a0217ddc0475"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/partial-designs/Data/Text 7"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T133608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Extensible &amp; reusable</h2>
+        <p>You can increase the speed of creating new partials and pages by taking advantage of SXA partials inheritance feature. This allows you to extend existing partials whilst not interrupting the existing ones. Every partial can be reused any number of times with usage of <a href="~/link.aspx?_id=2DBC94CDC8E84127B3BCE9598D15C6EB&amp;_z=z">Page Designs</a>.</p>

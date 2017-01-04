@@ -1,0 +1,20 @@
+﻿---
+ID: "9924fa48-728f-49de-8d40-e5677e28ed3d"
+Parent: "2d8c785b-3c5a-41bf-a08b-58c43b1a986a"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/about-us-2/Data/Image 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T142500Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: "<image mediaid=\"{BBE38CE4-D9D9-48FD-9B5E-2135E1C39C3C}\" />"

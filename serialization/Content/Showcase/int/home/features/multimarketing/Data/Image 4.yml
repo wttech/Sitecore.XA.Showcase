@@ -1,0 +1,20 @@
+﻿---
+ID: "0a14f9c5-cd1f-47a8-8d74-4cc6ff2d5a1e"
+Parent: "06997514-1838-4d16-96c4-b221f070899a"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/Showcase/int/home/features/multimarketing/Data/Image 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T114333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: "<image mediaid=\"{BF7C5671-0F67-43CC-B04D-C2FAFF003BB0}\" />"

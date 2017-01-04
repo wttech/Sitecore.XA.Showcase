@@ -1,0 +1,26 @@
+﻿---
+ID: "868b51e0-7d74-4461-a1fc-93cd71d1e15c"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/Multi Marketing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "<span style=\"font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; font-size: 15px; font-style: normal; font-weight: normal;\">With multiple markets and multi-lingual support it is easy to spread the word about your greatness to the customers who speak in all languages.&nbsp;</span>"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{2CDC6320-D033-4971-A89D-F09BF6D28BD2}\" ></image>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161103T100852Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin 
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: "<link linktype=\"internal\" querystring=\"\" target=\"\" id=\"{212F164F-82BA-4A35-9E6D-FD558D7B1EA5}\" />"

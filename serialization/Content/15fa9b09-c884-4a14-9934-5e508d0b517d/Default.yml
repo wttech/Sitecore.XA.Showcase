@@ -1,0 +1,14 @@
+﻿---
+ID: "dd325bd4-d5a7-4359-a69b-5cb49f5f2ae2"
+Parent: "15fa9b09-c884-4a14-9934-5e508d0b517d"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Box/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z

@@ -1,0 +1,20 @@
+﻿---
+ID: "7ff1ecd7-33c4-49de-9aaa-85a5801ec809"
+Parent: "1cc71f9a-6d33-4cbf-9c8c-05e4fb40f757"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: /sitecore/content/Showcase/int/Data/File Lists/Documents/PDF Document
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T140018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
+      Hint: File
+      Value: "<file mediaid=\"{E7A6BCE2-EA42-4984-AFCE-D9C0D77CA7B8}\" src=\"-/media/E7A6BCE2EA424984AFCED9C0D77CA7B8.ashx\" />"

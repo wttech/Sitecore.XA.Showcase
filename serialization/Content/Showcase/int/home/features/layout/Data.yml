@@ -1,0 +1,14 @@
+﻿---
+ID: "ff226443-9544-432d-a79d-262fa18ef610"
+Parent: "deeaec7b-2901-4028-96c8-567ba7396b20"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/features/layout/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T101433Z

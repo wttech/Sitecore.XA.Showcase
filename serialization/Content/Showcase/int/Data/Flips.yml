@@ -1,0 +1,14 @@
+﻿---
+ID: "5c57c7ce-c77c-43f3-b9bf-115d10a4aed3"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "8d84f263-a22a-4967-9cce-cc12407e05fc"
+Path: /sitecore/content/Showcase/int/Data/Flips
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081202Z

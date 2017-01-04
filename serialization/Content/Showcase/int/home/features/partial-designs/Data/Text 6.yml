@@ -1,0 +1,22 @@
+﻿---
+ID: "ea7a0576-2fac-439d-8782-b29d0280626c"
+Parent: "12f55b86-63cf-40f2-8a89-a0217ddc0475"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/partial-designs/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T132743Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Do you want to have slightly different headers on specific pages? There is no need to create a number of redundant Partial Designs. By taking advantage of Partials inheritance, you can create one Base Partial Design with - for example - Navigation Component, and then create other Partials on the top of that one and fill in the differences with different logos, etc.</p>
+        <p>The idea is to avoid the creation of numerous templates with only minor differences. This has been a major problem for CMS systems. With Partials inheritance, you can maintain the shared aspects of your design in one place and easily propagate those changes to all the different page types that the authors are creating. This is an essential part of maintaining an enterprise CMS system, and it's all available to you right there in the Sitecore interface!</p>

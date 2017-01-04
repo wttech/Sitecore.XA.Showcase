@@ -1,0 +1,25 @@
+﻿---
+ID: "b77a7b75-3464-4445-8fa2-d34fe9b51936"
+Parent: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data/Text 7"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T101726Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>I'm a content editor</h3>
+        <p>You don't need to search for variants. They will find you when you need them!</p>
+        <p>Drag and drop a new component on your page. If it has variants, you will be asked to select one from the drop-down. No worries, if you skip this step, the top one from the list will be used. I'm pretty sure your administrator ordered them in a way that the most popular one is on the top.</p>
+        <p>&nbsp;</p>
+        <img height="200" alt="variant-picker" width="550" src="-/media/F6B68805607542D5914C77515C3F729C.ashx">

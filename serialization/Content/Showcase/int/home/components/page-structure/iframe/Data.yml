@@ -1,0 +1,14 @@
+﻿---
+ID: "a92e70ea-a78c-4165-bd86-3e66aedd0cea"
+Parent: "32275747-3af6-4d64-aae9-30ebc44e173c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/iframe/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T122619Z

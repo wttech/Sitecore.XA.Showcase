@@ -1,0 +1,14 @@
+﻿---
+ID: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
+Parent: "065dce2f-b46c-47d0-9661-248220f9f49c"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T093904Z

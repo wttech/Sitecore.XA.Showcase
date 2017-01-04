@@ -1,0 +1,14 @@
+﻿---
+ID: "9a9a7526-ce65-4f8e-8fdd-d426fb042df6"
+Parent: "b333726a-837a-4a2c-81c8-ba5a0fb6c3de"
+Template: "add22f05-6b4c-4344-95ad-9a1a9ba6a216"
+Path: /sitecore/content/Showcase/int/home/components/composites/carousel/Data/Hero
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T123307Z

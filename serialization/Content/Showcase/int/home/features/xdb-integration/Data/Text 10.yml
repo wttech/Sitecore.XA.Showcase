@@ -1,0 +1,20 @@
+﻿---
+ID: "309c8f48-2090-4074-a58f-597c91128c0a"
+Parent: "72c6558d-ef96-4e77-aa91-3070604314d9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/xdb-integration/Data/Text 10"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T092002Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: Customize the visitor experience by defining conditions and rules for delivering content tailored to each customer.

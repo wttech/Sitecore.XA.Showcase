@@ -1,0 +1,27 @@
+﻿---
+ID: "705c2ec2-7d72-4629-9ffc-fc150685c694"
+Parent: "c5920eed-1d28-41f6-ab1c-422ad4410380"
+Template: "9d77c212-a828-4792-8e72-749f19c0154d"
+Path: /sitecore/content/Showcase/int/Data/Galleries/Example/California
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1194ed4a-378b-4d43-adba-a46e6082e004"
+      Hint: ImageTitle
+      Value: California
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T133826Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
+      Hint: Image
+      Value: "<link linktype=\"media\" target=\"\" id=\"{0DAE9BE7-700F-42EC-BFA6-975FFF3C60AB}\" />"

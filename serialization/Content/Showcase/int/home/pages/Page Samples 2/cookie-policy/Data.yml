@@ -1,0 +1,14 @@
+﻿---
+ID: "d17ad7fb-5562-40cd-a26a-3f18b2289292"
+Parent: "eec83a49-fd17-4465-9fac-739138af4283"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 2/cookie-policy/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T155401Z

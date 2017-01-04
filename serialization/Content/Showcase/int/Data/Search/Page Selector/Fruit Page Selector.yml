@@ -1,0 +1,29 @@
+﻿---
+ID: "667379a4-cddf-4338-a504-2a92155ebd6b"
+Parent: "43a214ea-5726-489a-bdad-4884428d8cf7"
+Template: "c4354a50-7a46-4df0-89ab-dd02db6d15cb"
+Path: /sitecore/content/Showcase/int/Data/Search/Page Selector/Fruit Page Selector
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T152807Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6e8ae3cb-eafc-49a1-a1f2-efe2e9b04acd"
+      Hint: PreviousLabel
+      Value: <
+    - ID: "85c8ab08-22ca-41bf-9673-f7d1f25174a7"
+      Hint: NextLabel
+      Value: >
+    - ID: "c431b494-cbb5-4bbd-8276-3d9be420fc92"
+      Hint: LastLabel
+      Value: >>
+    - ID: "cd2000f5-5ad5-44f0-8c83-5a87ea9812ac"
+      Hint: FirstLabel
+      Value: <<

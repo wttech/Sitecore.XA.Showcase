@@ -1,0 +1,24 @@
+﻿---
+ID: "d8ab1217-c879-44f8-ac99-cd1d5d6a587e"
+Parent: "74e5169c-3ac8-414e-ba0c-2f64da5369de"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Extensible/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T110405Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-suitcase fa-3x"></i></p>
+        <p style="text-align: center;">Have brilliant and innovative idea? Our engineers love them.</p>
+        <h3 style="text-align: center;">I want to stand out!</h3>
+        <p style="text-align: center;">You are in the right place, send us an email at sales@cognifide.com</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

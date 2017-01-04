@@ -1,0 +1,18 @@
+﻿---
+ID: "15752fe1-e15d-4171-96b9-db695caadc72"
+Parent: "36ebfcb2-0d28-4ccf-8aae-287c867012e0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Positions/Position Center
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "position-center"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081156Z

@@ -1,0 +1,17 @@
+﻿---
+ID: "f2e8d2c5-13c6-4334-b2cb-798a05802291"
+Parent: "43a214ea-5726-489a-bdad-4884428d8cf7"
+Template: "c4354a50-7a46-4df0-89ab-dd02db6d15cb"
+Path: /sitecore/content/Showcase/int/Data/Search/Page Selector/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

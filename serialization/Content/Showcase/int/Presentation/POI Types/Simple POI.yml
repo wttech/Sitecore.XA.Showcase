@@ -1,0 +1,23 @@
+﻿---
+ID: "a098c69c-90f6-4646-8b08-3ee1149b4a68"
+Parent: "e00f126d-f0dd-4094-afc6-7f6fa16b24c1"
+Template: "c58ee915-aa14-49bf-bee4-c821cac26913"
+Path: /sitecore/content/Showcase/int/Presentation/POI Types/Simple POI
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z
+    - ID: "57e50235-ce3e-4f31-846e-2646cbba69f8"
+      Hint: Icon
+      Value: "<image mediaid=\"{6827739A-87B1-4EDC-95C8-08AE69AE04CA}\" alt=\"pin_red\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b348a1bf-27be-4713-915a-4811bc987e37"
+      Hint: FieldNames
+      Value: "{3A20FDD5-39C3-4ACD-919E-0EE6E4263827}"

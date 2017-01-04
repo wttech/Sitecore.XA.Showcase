@@ -1,0 +1,22 @@
+﻿---
+ID: "2031fc1e-3e44-4d41-aced-c34e5a8a7e11"
+Parent: "95ad1fd1-da51-4f58-8a58-d0cca9c106fc"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Showcase/int/Presentation/Available Renderings/StickyNotes
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{619D4185-E73C-4C51-8407-3927E4812B98}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081200Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

@@ -1,0 +1,23 @@
+﻿---
+ID: "c79fa8e2-9bb3-4ea7-a1f5-2c1e1a4dafa5"
+Parent: "b9aa2669-c8a7-4641-bd91-6b4e0625be08"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/search/Data/Text 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161212T161612Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="text-align: center;"><img src="/~/icon/People/48x48/package_new.png" alt="search box"></p>
+        <h2 style="text-align: center;">Complete</h2>
+        <p style="text-align: center;">Powerful and fully functional search solution available out of the box.</p>

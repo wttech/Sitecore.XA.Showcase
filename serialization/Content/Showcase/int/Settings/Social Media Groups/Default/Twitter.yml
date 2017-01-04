@@ -1,0 +1,27 @@
+﻿---
+ID: "110c6c14-de1d-49b8-84ce-e23d2cf1d21f"
+Parent: "b56a6929-f03f-437f-a81e-d08f85b04e94"
+Template: "3de7aa7e-961a-4b90-98f2-01ac2be92ec5"
+Path: /sitecore/content/Showcase/int/Settings/Social Media Groups/Default/Twitter
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081200Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: "<a href=\"https://twitter.com/share\" class=\"twitter-share-button\" data-text=\"%ShareText%\" data-lang=\"en\">Tweet</a>"
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: "<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=\"//platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>"
+    - ID: "66509977-761c-499c-ac9b-65830516ee11"
+      Hint: ShareTextProperty
+      Value: Title

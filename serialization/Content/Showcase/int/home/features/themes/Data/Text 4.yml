@@ -1,0 +1,23 @@
+﻿---
+ID: "9f80b304-f156-4038-8f20-7de593eab27f"
+Parent: "d0b43357-95b8-4630-a87b-13006ad0f8e8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/themes/Data/Text 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T103618Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>The platform is prepared to be styled in any way the customer designs might require it to look. Themes allow for taking an existing site and changing it over completely with a very limited effort. Multiple sets of CSS files can be attached to any given site to make it possible to deliver an easy site re-branding by a simple theme switch.</p>
+        <p>This also means that you can easily copy a theme and work on it to create, e.g. site re-branding, Christmas or an event-specific theme and apply it to your site when the time comes, without the hassle of chasing images all over your media library.</p>
+        <br>

@@ -1,0 +1,24 @@
+﻿---
+ID: "39102b6d-693a-4561-b1cf-08a879382432"
+Parent: "19629021-948e-4f5e-8c45-96fe1c2e2654"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: /sitecore/content/Showcase/int/home/search/filter
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Filter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Filter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T072909Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

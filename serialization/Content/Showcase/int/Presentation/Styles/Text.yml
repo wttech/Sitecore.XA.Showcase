@@ -1,0 +1,14 @@
+﻿---
+ID: "2eedd3af-0a69-4135-ba08-4326756cb336"
+Parent: "76e6a243-ea9f-490c-841a-de23a543485d"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161121T105813Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "5942d0e6-dd9d-4393-b6ea-d63116f88251"
+Parent: "ceb84254-f452-4e22-97f6-5e6007e7c173"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/components/composites/flip/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T102310Z

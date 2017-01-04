@@ -1,0 +1,51 @@
+﻿---
+ID: "f830ab03-d7b3-414a-824d-5c6cf7c3795f"
+Parent: "76c0b01b-8e2e-467e-a75e-ea2380c32af7"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Title and Breadcrumb
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{54F3C581-FD30-4C60-B9A3-7BF73ADBCC85}"
+              p:before="*"
+              s:ds=""
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="FieldNames={FC3BB6D6-7D4B-4D31-B43E-546EA6160A68}&amp;Styles"
+              s:ph="/main/container-1" />
+            <r
+              uid="{8926C7A8-2E7F-46ED-9952-A31CDFFE3F27}"
+              p:after="r[@uid='{54F3C581-FD30-4C60-B9A3-7BF73ADBCC85}']"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles&amp;BreadcrumbRoot={2C1DB24E-0C8E-49FC-9569-F587509C3FD9}&amp;Separator=&gt;&amp;IsNavigation&amp;Filter"
+              s:ph="/main/container-1" />
+            <r
+              uid="{B1014276-5ED5-412B-ADBE-8EF1CF0E4605}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="BackgroundImage&amp;Styles={65568ACE-DCEC-4D1F-B798-F77121DF4352}|{98953AFA-41A7-4FAF-BF56-1AC53608C1E7}|{2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T132328Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "title-and-breadcrumb"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

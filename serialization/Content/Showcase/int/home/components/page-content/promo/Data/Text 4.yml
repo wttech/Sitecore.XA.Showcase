@@ -1,0 +1,22 @@
+﻿---
+ID: "98597e2a-bacf-43b9-b1f4-7cc666fb6785"
+Parent: "1ed9a554-43e4-4119-8e88-767d1fc1081e"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/promo/Data/Text 4"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T121925Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>There is no better way of showing your call to action than using a promo box with a nice image. Thanks to our variant idea we can design any promo box configuration you can imagine and with extensible promo component you can insert any other components into your call to action.</p>
+        <p>With extensible promo you can prepare promoted box in any layout you can imagine! Take a look at the examples.</p>

@@ -1,0 +1,24 @@
+﻿---
+ID: "aa904ace-2093-4615-a716-79b99258df32"
+Parent: "2df2cee9-f589-462c-84d8-73a7de375d90"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Theme Change/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T094508Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;"><img alt="wireframe" src="-/media/4F1F95B7A72B47DC84761CF8E323D854.ashx?h=281&amp;w=743" style="height: 281px; width: 743px;"></div>
+        <h3 style="text-align: center;">Bring your site to life</h3>
+        <div>&nbsp;</div>
+        <p style="text-align: center;"><span style="font-size: 15px; line-height: 1.41;">with just a theme change</span></p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

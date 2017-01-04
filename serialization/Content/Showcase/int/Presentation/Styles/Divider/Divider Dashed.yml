@@ -1,0 +1,22 @@
+﻿---
+ID: "9e5c75d6-0ffa-4898-ae04-20e9350bd9c9"
+Parent: "cd923abd-8356-4664-9164-1b801daa3b5f"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Divider/Divider Dashed
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "divider-dashed"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{5B9272A5-E147-4C16-B9F7-41CCDCB4CB5D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081155Z

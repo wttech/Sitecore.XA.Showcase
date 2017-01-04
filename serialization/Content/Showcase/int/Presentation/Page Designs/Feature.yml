@@ -1,0 +1,22 @@
+﻿---
+ID: "8af68b79-167c-430a-9c09-7404a7b35e56"
+Parent: "223005a0-c566-4c24-95ef-5359c7aa89bf"
+Template: "ebcffae1-b6b4-4b50-b722-155e869fc430"
+Path: /sitecore/content/Showcase/int/Presentation/Page Designs/Feature
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+      Hint: PartialDesigns
+      Type: Treelist
+      Value: |
+        {8EA0F1C3-E74E-44C2-BCB6-DB3C69CCC200}
+        {D4883743-732E-473E-ABC1-635CD45D9C0E}
+        {79E983F4-B16B-4739-B6FC-4BFDC2D18C63}
+        {43492582-129C-4C7C-9B32-7D310C3D049F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T084845Z

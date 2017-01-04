@@ -1,0 +1,43 @@
+﻿---
+ID: "0a6852ca-c15b-46e3-a7e1-8eafc99d5ca3"
+Parent: "b9d1f82a-3ec5-4e14-9eaf-c065b04e3c91"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Showcase/int/Data/Tabs/Example/Tabs
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
+              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}"
+              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T072408Z
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: "<p><em class=\"fa fa-folder-o fa-2x\"></em> <strong>Tabs</strong></p>"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: Integer luctus ante eu metus posuere, quis tincidunt tellus malesuada. Vestibulum pulvinar nisi metus, a congue turpis tempus sed. Vestibulum sagittis odio tortor. Pellentesque gravida lacus at lorem tristique suscipit. Nullam congue lorem lectus, ac euismod nisi maximus in. Aenean lectus lorem, pretium eget leo nec, commodo condimentum est. Integer sed ligula quam. Proin ut aliquam justo. Curabitur mollis porttitor nisl, fringilla rhoncus nunc pellentesque vel. Mauris posuere tortor ac mauris blandit.

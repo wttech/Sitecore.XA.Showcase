@@ -1,0 +1,27 @@
+﻿---
+ID: "44e0f1ad-b00e-428c-b4fa-63f20c1ebad6"
+Parent: "bfc819ba-a042-4835-9336-3d576b7440e0"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Journey/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T103736Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-bus fa-3x"></i></p>
+        <p><br>
+        </p>
+        <h2 style="text-align: center;">Every journey begins with a single step.</h2>
+        <p><br>
+        </p>
+        <p style="text-align: center;">Or a jump.</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

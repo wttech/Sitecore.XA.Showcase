@@ -1,0 +1,44 @@
+﻿---
+ID: "6f0306a1-61dd-4af1-8a82-5bc4fec2c22e"
+Parent: "76c0b01b-8e2e-467e-a75e-ea2380c32af7"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Children List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DB48A1EC-6634-4795-8204-E36DACEB8747}"
+              p:before="*"
+              s:ds=""
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-1" />
+            <r
+              uid="{9557E1DB-B087-4CF2-9B06-CF60A34939A3}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T073240Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "children-list"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

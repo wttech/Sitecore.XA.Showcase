@@ -1,0 +1,17 @@
+﻿---
+ID: "3b740703-bf1f-4a63-a48b-622d0b1e8716"
+Parent: "b1e225b7-d5d4-4e1a-9c43-748adbe9f80e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Showcase/Navigation Decoration/Navigation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T094207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

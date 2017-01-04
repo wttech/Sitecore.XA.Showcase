@@ -1,0 +1,17 @@
+﻿---
+ID: "76badf41-4c61-4d81-8ae4-fb98c0a2ea18"
+Parent: "d4883743-732e-473e-abc1-635cd45d9c0e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Header/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161103T143744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin 

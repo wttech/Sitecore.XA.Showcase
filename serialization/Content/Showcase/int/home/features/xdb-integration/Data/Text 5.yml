@@ -1,0 +1,22 @@
+﻿---
+ID: "00ab7ed3-dae5-4330-9ac4-d75a4056351a"
+Parent: "72c6558d-ef96-4e77-aa91-3070604314d9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/xdb-integration/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T085613Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>A good digital strategy is never complete. It should be continually tested and honed. With Sitecore Experience Marketing, you can start a one-one-one conversation with each of your customers and create a personalized experience.</p>
+        <p>Refine your digital strategy by running tests, analyzing the results, and improving your messaging and calls to action based on the outcome.</p>

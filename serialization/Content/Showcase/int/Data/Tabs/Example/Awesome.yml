@@ -1,0 +1,45 @@
+﻿---
+ID: "ce23fac4-1c2e-44f3-a92d-b31e3eb6f124"
+Parent: "b9d1f82a-3ec5-4e14-9eaf-c065b04e3c91"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Showcase/int/Data/Tabs/Example/Awesome
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window.png"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
+              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}"
+              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T072415Z
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: "<p><em class=\"fa fa-thumbs-o-up fa-2x\"></em> <strong>Awesome</strong></p>"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        Sed tempus lorem ac enim tincidunt maximus. Mauris auctor lectus quis erat tristique tincidunt at a libero. Vivamus sit amet enim elementum, congue tellus at, hendrerit ipsum. Nam ornare porta elit vel ultrices. Donec justo magna, euismod vel felis sed, tincidunt lobortis dui. Praesent efficitur euismod nulla in scelerisque.
+        Sed ante quam, sagittis nec faucibus at, commodo nec velit. Integer vitae lorem vel mi maximus semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis congue vel velit.

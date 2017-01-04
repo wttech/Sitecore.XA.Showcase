@@ -1,0 +1,20 @@
+﻿---
+ID: "3609ac59-52a6-425b-a91a-963b631adbb5"
+Parent: "3ea0b772-fe6b-41d5-837c-00e90d81d8bf"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/navigation/link/Data/Text 16
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T111342Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p><span style=\"font-size: 14px; line-height: 1.5;\">You can even point to documents in your media library, but this is something we'd recommend using the Media Link component for (described below).</span></p>"

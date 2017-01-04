@@ -1,0 +1,14 @@
+﻿---
+ID: "06997514-1838-4d16-96c4-b221f070899a"
+Parent: "212f164f-82ba-4a35-9e6d-fd558d7b1ea5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/features/multimarketing/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T105457Z

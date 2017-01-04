@@ -1,0 +1,31 @@
+﻿---
+ID: "f25e6fc0-7e6f-4c71-8096-5c9f54c9e58c"
+Parent: "141fa9fd-a646-4cd3-ab0e-0301e43568be"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Showcase/int/Presentation/Styles/Image/carousel-image-full-size"
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "image-full-size"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: |
+    {5A21C781-8E74-4DD0-8261-8CCDA1BF0454}
+    {51C13F03-8364-4F61-B860-2EC6CA7439B3}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Full width image
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081155Z

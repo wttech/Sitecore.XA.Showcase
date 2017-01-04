@@ -1,0 +1,14 @@
+﻿---
+ID: "2edac760-4bf9-49de-8bab-2b17e8b1082c"
+Parent: "18a47e5d-be3c-477f-9cff-45ab66908f8e"
+Template: "f3c0661e-f9a9-444c-a26d-44bf2a68a186"
+Path: /sitecore/content/Showcase/int/Data/Search/Results Count/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z

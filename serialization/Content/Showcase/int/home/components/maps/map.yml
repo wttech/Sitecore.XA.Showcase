@@ -1,0 +1,24 @@
+﻿---
+ID: "fb89a168-1ba1-42b0-8e4b-a55da40f9c39"
+Parent: "87e99796-a71a-415e-bfcd-2911a0c585c5"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: /sitecore/content/Showcase/int/home/components/maps/map
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Map
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Map
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T064637Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

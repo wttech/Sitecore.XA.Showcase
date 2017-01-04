@@ -1,0 +1,14 @@
+﻿---
+ID: "f803d059-3328-4d41-870f-03f43a3d119e"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/Showcase/int/Data/Promos
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081157Z

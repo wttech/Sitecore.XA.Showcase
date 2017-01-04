@@ -1,0 +1,24 @@
+﻿---
+ID: "eef05a36-c367-4f69-96a3-34158d06444c"
+Parent: "3d6f58cf-a2c5-4ba7-a86c-bf98c690ced8"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Flexible/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T105758Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-thumbs-o-up fa-3x"></i></p>
+        <p style="text-align: center;">We only give you components that matter.</p>
+        <h3 style="text-align: center;">I want only those!</h3>
+        <p style="text-align: center;">Super cool, send us an email at sales@cognifide.com</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

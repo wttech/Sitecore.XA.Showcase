@@ -1,0 +1,22 @@
+﻿---
+ID: "f7bbead7-307e-441e-abee-7d310e62ded9"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T140436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Just like a jigsaw</h2>
+        <p>In SXA, you build reusable pieces of content, but also reusable chunks of layout called "partials". These can then be placed together, just like a jigsaw, to create your finished layouts. This enables you to manage things like headers and footers in one place, but also more advanced things like product detail page structures, landing pages and so on. Content can then be placed into these structures for each page.</p>

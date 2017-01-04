@@ -1,0 +1,20 @@
+﻿---
+ID: "53633438-fda6-4824-9dce-52201cb0947e"
+Parent: "1ba32391-1547-4d78-950b-963f30fb8af7"
+Template: "7a3a53e0-6a01-44ff-8ba5-2be46e201fe6"
+Path: /sitecore/content/Showcase/int/Data/Search/Load More/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "de3d2735-e01c-4f2c-b9df-ba67e1bd0065"
+      Hint: LoadMoreLabel
+      Value: Load More

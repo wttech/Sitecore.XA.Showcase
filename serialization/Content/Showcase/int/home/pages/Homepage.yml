@@ -1,0 +1,27 @@
+﻿---
+ID: "21ff2130-5c0b-4149-bc20-a903764307b6"
+Parent: "f5e84096-557f-4b53-b873-959c7aa03245"
+Template: "553bdbd5-d78d-4643-9b9d-954198ec4285"
+Path: /sitecore/content/Showcase/int/home/pages/Homepage
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 45
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{DF3A4F2D-F48F-4449-8DF7-D5210E180CFA}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161104T094005Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home Pages
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

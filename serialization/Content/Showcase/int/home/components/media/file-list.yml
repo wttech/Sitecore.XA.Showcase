@@ -1,0 +1,110 @@
+﻿---
+ID: "149d6760-977a-47ed-b2e2-495a67111634"
+Parent: "0e449363-b378-4ca9-b1a2-1bff15906615"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/media/file-list"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-75"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: File List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{138570B0-C35A-4C07-9DC0-5AB9B87F0458}"
+              p:before="*"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
+            <r
+              uid="{254F7BC2-F37C-4B18-9E4B-864A026937B0}"
+              p:after="r[@uid='{138570B0-C35A-4C07-9DC0-5AB9B87F0458}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1" />
+            <r
+              uid="{7B7E6E06-62EE-46A9-B8D7-A4BB40FDAA55}"
+              p:after="r[@uid='{254F7BC2-F37C-4B18-9E4B-864A026937B0}']"
+              s:ds=""
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=2&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1" />
+            <r
+              uid="{D363670B-584E-4773-9F06-DCEC69E5915A}"
+              p:after="r[@uid='{7B7E6E06-62EE-46A9-B8D7-A4BB40FDAA55}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1/column-2-2" />
+            <r
+              uid="{42755001-8D90-476D-A696-D495E120B9FB}"
+              p:after="r[@uid='{D363670B-584E-4773-9F06-DCEC69E5915A}']"
+              s:ds="{05C4205D-2F67-4BB3-8C7F-D3498949CDE1}"
+              s:id="{67B0BBCC-6926-4468-84E0-55B6A32B8BB6}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={AAA4B1E6-3C4C-454B-A1F1-9E9F29489B7B}&amp;Styles={30108873-2255-41EB-A301-17392516BA8D}&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1/column-2-2" />
+            <r
+              uid="{5FB98A3F-37BA-4D71-9E42-08269F959982}"
+              p:after="r[@uid='{42755001-8D90-476D-A696-D495E120B9FB}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1/column-1-2" />
+            <r
+              uid="{C5EC7718-6C74-42A6-B0CF-DBE6ED2D4C16}"
+              p:after="r[@uid='{5FB98A3F-37BA-4D71-9E42-08269F959982}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1/column-2-1" />
+            <r
+              uid="{B206D784-487E-49B6-8723-50B837CA010D}"
+              p:after="r[@uid='{C5EC7718-6C74-42A6-B0CF-DBE6ED2D4C16}']"
+              s:ds="{1CC71F9A-6D33-4CBF-9C8C-05E4FB40F757}"
+              s:id="{67B0BBCC-6926-4468-84E0-55B6A32B8BB6}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={6712E921-55A8-4F3C-8676-D623E084EB06}&amp;Styles={B1A5240A-1720-441D-8301-FBC59E543425}&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1/column-2-1" />
+            <r
+              uid="{FC508C13-B104-46FF-B80A-43B1216D7AA5}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1/column-1-1" />
+          </d>
+        </r>
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: File List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T135354Z
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Ability to display list of different files</li>
+            <li>Configurable list of file properties which can be displayed</li>
+            <li>Possibility to create download link for each file</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: <p>This component shows a list of items that are files stored in Sitecore. Depending on the options that you select fields such as file title, download link, file extension thumbnail or image can be shown. These can then be styled any way you want.</p>

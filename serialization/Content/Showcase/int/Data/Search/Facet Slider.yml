@@ -1,0 +1,14 @@
+﻿---
+ID: "d7985a7a-8345-4ca3-8834-237d6e679ccf"
+Parent: "2614794c-6aa4-47c2-b5d3-38ab4dca2eb0"
+Template: "ebb0b13d-ccf4-4bdf-8d3c-e2fdb4bb0240"
+Path: /sitecore/content/Showcase/int/Data/Search/Facet Slider
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081205Z

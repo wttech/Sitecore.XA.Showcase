@@ -1,0 +1,27 @@
+﻿---
+ID: "8ef40296-070c-470e-89db-1c66b6d81a5f"
+Parent: "a6494612-f743-4162-8c46-e01a9d1e772b"
+Template: "9192e4e3-a8d2-42e3-a762-fd1dc339917f"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/page-list/first-example-article"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: First Example Article
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: First Example Article
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T073347Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat orem ipsum dolor sit amet, consectetur adipisicing elit. Incididunt ut labore et dolore magna aliqua. Ut enim ad et dolore magna exercitation ullamco lesse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non sadips ipsums proident, sunt in commodo consequat orem ipsum dolor sits.<br>

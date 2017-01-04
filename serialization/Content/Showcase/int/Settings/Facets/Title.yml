@@ -1,0 +1,24 @@
+﻿---
+ID: "c63c48ed-8888-43d5-ac44-f93182741efb"
+Parent: "f3b5f9bc-90b6-4c94-8f79-bdff26a630d7"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Showcase/int/Settings/Facets/Title
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Title Facet
+    - ID: "5de17054-0141-4e58-935b-fec623a60806"
+      Hint: DisplayName
+      Value: Title Facet

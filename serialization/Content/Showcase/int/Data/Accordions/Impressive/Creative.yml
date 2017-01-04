@@ -1,0 +1,30 @@
+﻿---
+ID: "aac8871d-07e7-41a4-9917-1ee4823828ee"
+Parent: "32f80d51-420f-421c-84ed-7e275ca67f72"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Showcase/int/Data/Accordions/Impressive/Creative
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "http://sxa_showcase/temp/iconcache/office/32x32/photo_landscape.png"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T132820Z
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: "<img alt=\"\" height=\"352\" width=\"850\" src=\"-/media/9DF5CE4501104EF4B79FEABDF7F23991.ashx\">"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: "<img alt=\"\" height=\"352\" width=\"50\" src=\"-/media/A0996B62038A4556AF5168AB460BC50E.ashx\">"

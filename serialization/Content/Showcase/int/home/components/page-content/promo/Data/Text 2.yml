@@ -1,0 +1,23 @@
+﻿---
+ID: "ab1653be-7e63-4ea9-b3b0-ab6b4c4cef84"
+Parent: "1ed9a554-43e4-4119-8e88-767d1fc1081e"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/promo/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T121359Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Show off your products</h2>
+        <p>With promo boxes you can easily distinguish your product form the site and get more users attention. And it costs you only a few clicks!</p>
+        <p>Promo is sometimes referred to as <strong>Call To Action</strong>, so they need a link and shall shout to the user: <strong>click me</strong>!</p>

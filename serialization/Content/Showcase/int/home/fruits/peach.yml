@@ -1,0 +1,42 @@
+﻿---
+ID: "b972d128-684f-4971-87e0-7683de206f8d"
+Parent: "ea18dc2a-b757-4295-98e9-5b4cb1df7fcc"
+Template: "bda146e9-1cd3-4955-a2da-6676f677562f"
+Path: /sitecore/content/Showcase/int/home/fruits/peach
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Peach
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09c123c7-22a3-47d2-b408-3bdaa4df2063"
+      Hint: Size
+      Value: Medium
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Peach
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T121835Z
+    - ID: "2b1baf7c-945e-4c95-954d-77ac14b27b0f"
+      Hint: Image
+      Value: "<image mediaid=\"{3B6BD270-3A44-4EC9-9C85-0D4CF4092EE9}\" ></image>"
+    - ID: "56dfc093-8266-473a-bd2f-1e8e03544b21"
+      Hint: Taste
+      Value: Sweet and a bit sour
+    - ID: "5b19e26c-c7cc-4edb-ad90-01e959df9cbd"
+      Hint: Colour
+      Value: Red
+    - ID: "7fb9f70c-1397-453a-a578-d441942b04aa"
+      Hint: Benefit
+      Value: One medium peach contains 2% or more daily value of vitamins E and K, niacin, folate, iron, choline, potassium, magnesium, phosphorus, manganese, zinc and copper.
+    - ID: "9411de04-be7e-4cfb-92a8-9d4890a9f57a"
+      Hint: Calories
+      Value: 39
+    - ID: "e51e7153-016d-4cd6-a35a-39a355ac7e84"
+      Hint: Price
+      Value: 2

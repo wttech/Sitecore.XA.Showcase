@@ -1,0 +1,14 @@
+﻿---
+ID: "fc1ea9fb-9971-403b-9098-7264a46d92a9"
+Parent: "d125960e-53a4-4cc0-8860-1b5af6e63343"
+Template: "e1cf805e-7f49-4ec9-a25a-182dc798cb5f"
+Path: /sitecore/content/Showcase/int/Settings/Redirects
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081159Z

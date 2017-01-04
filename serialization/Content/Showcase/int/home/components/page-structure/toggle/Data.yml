@@ -1,0 +1,14 @@
+﻿---
+ID: "4b67b9b8-3515-4670-b753-10e69be0f845"
+Parent: "ca930241-d86a-4b14-bb86-6e9061248e32"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T141814Z

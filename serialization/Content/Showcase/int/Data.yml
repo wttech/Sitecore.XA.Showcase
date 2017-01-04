@@ -1,0 +1,14 @@
+﻿---
+ID: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Parent: "dc00ec1b-9747-438d-bf45-fd9e7b4cca70"
+Template: "5ecd34f4-b36f-4533-9643-df41cd8b5036"
+Path: /sitecore/content/Showcase/int/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081146Z

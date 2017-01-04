@@ -1,0 +1,14 @@
+﻿---
+ID: "750ca4bc-c218-42bd-93f6-e18add38d6a0"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "83db28a0-f7f6-42fc-ad48-d0a2d4b644d6"
+Path: /sitecore/content/Showcase/int/Data/Galleries
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081201Z

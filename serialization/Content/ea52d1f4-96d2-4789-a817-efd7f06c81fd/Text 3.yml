@@ -1,0 +1,22 @@
+﻿---
+ID: "67df203d-265d-4f31-86fc-e18f44e853ea"
+Parent: "ea52d1f4-96d2-4789-a817-efd7f06c81fd"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/meet-the-team/Data/Text 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T170307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3 style="color: #222222; margin: 0px 0px 10px; padding: 0px; border: 0px; text-align: justify;">Loaded with awesomeness</h3>
+        <p style="color: #747474; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 5px 0px; border: 0px; text-align: justify;">Sitecore Experience Accelerator is full of great features. Ask for a demo and see them in action.&nbsp;<span style="margin: 0px; padding: 0px; border: 0px;">We promise to leave you amazed.</span></p>

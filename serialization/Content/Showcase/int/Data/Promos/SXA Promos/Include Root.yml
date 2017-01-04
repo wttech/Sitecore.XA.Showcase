@@ -1,0 +1,23 @@
+﻿---
+ID: "5450d470-ee43-4fce-b1d2-4f5921f8336d"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/Include Root
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Choose whether to include root page in the navigation or not.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{30B8FD18-C579-4658-A5CA-E15CB46158EA}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" ></image>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T085303Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

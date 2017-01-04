@@ -1,0 +1,26 @@
+﻿---
+ID: "719be735-3b61-41bf-b966-0a0f614159d9"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/xDB Integration
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "<span style=\"font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; font-size: 15px; font-style: normal; font-weight: normal;\">Is your site designed to keep your customers for life? Our components are written with xDB in mind to enable you to leverage the full potential of the Sitecore Experience Platform!</span>"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{7059F6FF-D8E9-4EE6-A578-412F1DDFDBB9}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161103T103210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin 
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: "<link linktype=\"internal\" querystring=\"\" target=\"\" id=\"{CFA59D77-A0ED-416F-8455-33A0C565CAA6}\" />"

@@ -1,0 +1,14 @@
+﻿---
+ID: "bfc819ba-a042-4835-9336-3d576b7440e0"
+Parent: "5c57c7ce-c77c-43f3-b9bf-115d10a4aed3"
+Template: "5ef07850-4c04-4b83-9daf-efd752cfaba8"
+Path: /sitecore/content/Showcase/int/Data/Flips/Journey
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T103729Z

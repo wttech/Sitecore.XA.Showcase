@@ -1,0 +1,76 @@
+﻿---
+ID: "33fdbf3f-f9df-41a8-a2db-3e9e33bd35b0"
+Parent: "4348ba92-97bc-414b-bed4-0a776e962f5c"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/other/events/event-list"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Event List
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{74E36DAC-0B22-457A-BB32-296506F14903}"
+              p:before="*"
+              s:ds="{6B92A4BA-15A4-445A-86B7-D1B9B0554EAF}"
+              s:id="{52E40C93-F091-47C1-84DD-491DBCDC54B5}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;Styles&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:ph="/main/sxa-component-content/row-2-1/column-2-1" />
+            <r
+              uid="{4FAF3848-30DD-431D-B007-5CC10D1BB793}"
+              p:after="r[@uid='{74E36DAC-0B22-457A-BB32-296506F14903}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:ph="/main/sxa-component-content/row-2-1/column-1-1" />
+            <r
+              uid="{A57CD063-A0AC-43E6-AC1E-E5844B61D123}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={AA4EAF2D-FCD9-4452-A5B1-16FCBA5AC743}&amp;ColumnWidth2={AA4EAF2D-FCD9-4452-A5B1-16FCBA5AC743}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1" />
+          </d>
+        </r>
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Event List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T064537Z
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+        <li>Present information about your events with a list or a calendar</li>
+        <li>Use Event List to manage events in-place</li>
+        <li>Choose from five calendar view modes</li>
+        <li>Configure calendar view to be fixed or interactive</li>
+        <li>Display events from an external source</li>
+        </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
+      Hint: SummaryTitle
+      Value: Event List
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: |
+        <p>SXA is shipped with two components dedicated for presenting information about events: <strong>Event List</strong> and <strong>Event Calendar</strong>.</p>
+        <p><strong>Event List</strong> displays an enumeration of events. For each entry it shows the name and date of the occurrence, accompanied by any other details like venue, description or a web link. The list of events is editable and you can directly update the information displayed on it when in authoring mode. Each event is represented as a content item in Sitecore, so these can be easily managed, ordered, and undergo a publishing workflow.</p>

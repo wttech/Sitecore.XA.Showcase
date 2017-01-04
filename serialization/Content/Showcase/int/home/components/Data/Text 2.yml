@@ -1,0 +1,20 @@
+﻿---
+ID: "b8d1826b-3f77-41ab-8b15-119ebf336c55"
+Parent: "2f900fbe-7ab4-4745-bf85-50fc73f29fec"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/Data/Text 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161212T165459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p><a href=\"~/link.aspx?_id=32363D783B9446778D6D0FA80CCE75A1&amp;_z=z\">Composites<br></a><a href=\"~/link.aspx?_id=6455A728459B4D83B14FB392794ED6C0&amp;_z=z\">Context</a></p><p><a href=\"~/link.aspx?_id=DB9064FDFFE74CFC9FBCE53D4AC1596F&amp;_z=z\">Engagement</a></p><p><a href=\"~/link.aspx?_id=87E99796A71A415EBFCD2911A0C585C5&amp;_z=z\">Maps</a></p><p><a href=\"~/link.aspx?_id=0E449363B3784CA9B1A21BFF15906615&amp;_z=z\">Media</a></p><p><a href=\"~/link.aspx?_id=ADA2EC1A5AE54299A9CE12137D3DFD27&amp;_z=z\">Navigation</a></p><p><a href=\"~/link.aspx?_id=1CA5FAC62B874AA78CD53E7095D44CBE&amp;_z=z\">Page Content</a></p><p><a href=\"~/link.aspx?_id=94A7C094B1C14C588704BCAA2F5190EC&amp;_z=z\">Page Structure</a></p><p><a href=\"~/link.aspx?_id=D66D63CDD70A4E25B1B0874FB482BE3A&amp;_z=z\">Security</a></p><p><a href=\"~/link.aspx?_id=1DF6019D763640AB95F17A3F347DE178&amp;_z=z\">Taxonomy</a></p><p><a href=\"~/link.aspx?_id=6F647235A43C4F6585356BDCD23ABA5A&amp;_z=z\">Other</a></p>"

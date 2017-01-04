@@ -1,0 +1,14 @@
+﻿---
+ID: "af924037-a0dd-4717-bc6f-3f980b04359e"
+Parent: "2c1db24e-0c8e-49fc-9569-f587509c3fd9"
+Template: "d7bffbe5-dad8-4137-85de-28013313f72f"
+Path: /sitecore/content/Showcase/int/home/Overlays
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081157Z

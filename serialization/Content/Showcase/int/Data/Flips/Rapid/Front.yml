@@ -1,0 +1,26 @@
+﻿---
+ID: "e985c879-007e-4470-b17d-ca9fa3457f51"
+Parent: "670520d2-b95c-4d29-8989-9e92288ba51a"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Rapid/Front
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T101957Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-paper-plane-o"></i></span><br>
+        <br>
+        <br>
+        Rapid delivery<br>
+        <br>
+        </p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

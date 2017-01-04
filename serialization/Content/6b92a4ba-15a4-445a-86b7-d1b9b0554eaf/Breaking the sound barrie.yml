@@ -1,0 +1,33 @@
+﻿---
+ID: "f099972f-1551-4284-8260-516399a7c574"
+Parent: "6b92a4ba-15a4-445a-86b7-d1b9b0554eaf"
+Template: "62c2b7d0-1c34-4aa6-b3d3-5d612c0891bd"
+Path: /sitecore/content/Showcase/int/Data/Events/Air and Space Events/Breaking the sound barrier
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: Breaking the sound barrier
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T085034Z
+    - ID: "62bafe3f-b288-429a-928e-b6a516a198b6"
+      Hint: EventPlace
+      Value: 45,000 ft above
+    - ID: "79825619-c640-4892-98a8-9c4b112673d5"
+      Hint: EventDescription
+      Value: Chuck Yeager becomes the first person to fly faster than the speed of sound.
+    - ID: "9e47d308-2e9c-413a-ac93-3c51c52e74d2"
+      Hint: EventStart
+      Value: 20161018T220000Z
+    - ID: "c9999f64-a453-46a6-ae47-c423599986a7"
+      Hint: EventEnd
+      Value: 20170705T220000Z

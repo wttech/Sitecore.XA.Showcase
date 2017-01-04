@@ -1,0 +1,23 @@
+﻿---
+ID: "43c72666-2436-4e7a-9372-1171560dcce6"
+Parent: "ff226443-9544-432d-a79d-262fa18ef610"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/layout/Data/Text 32
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T122436Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Check me on mobile</h2>
+        <p>Now it's time for you to experience the responsiveness! This page is a perfect example to start with. If you don't have any mobile device around, just grab the edge of your browser and narrow it down to see what happens.</p>
+        <p>For those who don't like experimenting, we have this captured. The four columns right above this section, will be rendered on mobile devices as shown on the right.</p>

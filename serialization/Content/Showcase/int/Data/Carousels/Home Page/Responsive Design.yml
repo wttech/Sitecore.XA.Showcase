@@ -1,0 +1,29 @@
+﻿---
+ID: "c61ea656-ae31-4080-8270-318eb93dffca"
+Parent: "2cc08d27-3ec8-4edf-9371-f614530d403d"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/Data/Carousels/Home Page/Responsive Design
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window_width.png"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T083222Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: "<image mediaid=\"{941FC2D5-BB70-4901-B34A-5DFEE365212A}\" ></image>"
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: |
+        <h3>Mobile responsive themes</h3>
+        <h3>Out of the box with SXA.</h3>
+    - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
+      Hint: SlideLink
+      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{BFB957A2-4153-4191-97C4-D376E1A0E402}\" />"

@@ -1,0 +1,23 @@
+﻿---
+ID: "e7b15402-352a-44e4-9ec7-fddfcbfdc5c1"
+Parent: "91aae2c4-951e-41f4-abdc-56d3546b56cb"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/plain-html/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T120546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Third-party widgets</h2>
+        <p>Include your favorite third-party widgets, like online surveys or presentations.</p>
+        <p>There are lots of embeddable components available on the Web that can be included in your pages to enrich your visitor experience.</p>

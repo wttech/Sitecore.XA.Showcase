@@ -1,0 +1,128 @@
+﻿---
+ID: "ca930241-d86a-4b14-bb86-6e9061248e32"
+Parent: "94a7c094-b1c1-4c58-8704-bcaa2f5190ec"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Toggle
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8E6AC7D2-EB6A-433B-8F45-F2D71F2F4EBC}"
+              p:before="*"
+              s:ds="local:/Data/Text 6"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-4-1/toggle-3" />
+            <r
+              uid="{230E5F97-3CC6-4327-9A8A-5DD395C576BF}"
+              p:after="r[@uid='{8E6AC7D2-EB6A-433B-8F45-F2D71F2F4EBC}']"
+              s:ds="{1E24D919-C9F2-4DAC-A8B4-DDC97B6B9435}"
+              s:id="{60A49017-0BB4-4D92-AB59-587E6C618B30}"
+              s:par="SplitterSize=2&amp;EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-component-content/row-2-1/row-4-1" />
+            <r
+              uid="{16282E17-EFF6-457C-BBA0-EBF1EF17F366}"
+              p:after="r[@uid='{230E5F97-3CC6-4327-9A8A-5DD395C576BF}']"
+              s:ds="local:/Data/Text 5"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-3-1/toggle-2" />
+            <r
+              uid="{82BA6B56-B12B-4FD9-A420-4F64E18560DB}"
+              p:after="r[@uid='{16282E17-EFF6-457C-BBA0-EBF1EF17F366}']"
+              s:ds="{BEB792FD-D386-45D0-9975-D0F9095AD20A}"
+              s:id="{60A49017-0BB4-4D92-AB59-587E6C618B30}"
+              s:par="SplitterSize=2&amp;EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-component-content/row-2-1/row-3-1" />
+            <r
+              uid="{F3699C52-05E6-4D31-9967-5229CB297891}"
+              p:after="r[@uid='{82BA6B56-B12B-4FD9-A420-4F64E18560DB}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-5-1" />
+            <r
+              uid="{ABCD5D3B-6706-4A19-A9F7-D8D4DCC88BB9}"
+              p:after="r[@uid='{F3699C52-05E6-4D31-9967-5229CB297891}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/row-6-1" />
+            <r
+              uid="{D60769F0-64AC-45B8-9F92-C851AE4BDD65}"
+              p:after="r[@uid='{ABCD5D3B-6706-4A19-A9F7-D8D4DCC88BB9}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1/toggle-1" />
+            <r
+              uid="{885F42E2-2EDC-4725-954A-4D59BFFD2EB2}"
+              p:after="r[@uid='{D60769F0-64AC-45B8-9F92-C851AE4BDD65}']"
+              s:ds="{99A35789-BBD6-40DB-BFFD-227603F07BC0}"
+              s:id="{60A49017-0BB4-4D92-AB59-587E6C618B30}"
+              s:par="SplitterSize=2&amp;EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
+            <r
+              uid="{68BF49F4-AB20-4CC7-9557-92D27650E8E5}"
+              p:after="r[@uid='{885F42E2-2EDC-4725-954A-4D59BFFD2EB2}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:ph="/main/sxa-component-content/row-2-1/row-6-1/column-1-1" />
+            <r
+              uid="{9CC1DB9E-54DD-4891-8565-08E14BEC2472}"
+              p:after="r[@uid='{68BF49F4-AB20-4CC7-9557-92D27650E8E5}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1" />
+            <r
+              uid="{8CA6DA9F-69EA-40E1-86FF-70172846E9B3}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=6&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles4={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles5={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles6={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1" />
+          </d>
+        </r>
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Toggle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T070149Z
+    - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
+      Hint: SummaryText
+      Value: <p>Toggle component displays a collapsible content panel for presenting information.</p><br>
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Showing collapsible panels</li>
+            <li>Possibility to toggle on mouseover or open panel by default</li>
+            <li>Other components can be put on the panel</li>
+        </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
+      Hint: SummaryTitle
+      Value: Toggle
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: |
+        <p>Toggle component displays a collapsible content panel for presenting information. In order to expand/collapse content the user needs to click toggle's header. There is a property that lets the user to toggle content on mouseover as well.</p>
+        <p>Within the toggle the content can be made up from various other drag and droppable components.</p>

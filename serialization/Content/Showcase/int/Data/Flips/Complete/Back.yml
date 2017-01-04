@@ -1,0 +1,29 @@
+﻿---
+ID: "5b692d0a-6bff-4a88-b674-0fae6ae4a37b"
+Parent: "77e38dc4-4721-4e4c-80fe-7e5b2e70d775"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Complete/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T104637Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;">
+        <span class="fa-stack fa-2x">
+        <i class="fa fa-rocket fa-stack-1x"></i>
+        <i class="fa fa-ban fa-stack-2x fa-rotate-90"></i>
+        </span>
+        </p>
+        <p style="text-align: center;">Unless you need a space ship then we suggest a dedicated solution.</p>
+        <h3 style="text-align: center;">I do not want a spaceship!</h3>
+        <p style="text-align: center;">That is great, send us an email at sales@cognifide.com</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

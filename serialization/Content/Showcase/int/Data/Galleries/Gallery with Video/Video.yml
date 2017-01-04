@@ -1,0 +1,33 @@
+﻿---
+ID: "86190d0a-d010-4410-8f36-9b3d5717c61f"
+Parent: "ad12d933-4ff5-4b03-bdcd-44c3eab71cb3"
+Template: "4af51f4d-8ac4-4394-b6a5-11b52cfaf613"
+Path: /sitecore/content/Showcase/int/Data/Galleries/Gallery with Video/Video
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T122154Z
+    - ID: "5a592c96-87e5-486f-a699-555ddca06ceb"
+      Hint: VideoProvider
+      Value: "{9D072721-207D-4722-AB27-BC6B3588E12F}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6c0c3c28-8d0b-4540-b090-207d0505a61a"
+      Hint: VideoID
+      Value: "http://www.youtube.com/watch?v=FT8TduiLULc"
+    - ID: "94d9b3d7-307b-4261-8bdd-f91987811c7a"
+      Hint: VideoTitle
+      Value: Cognifide
+    - ID: "c576f702-2fc3-43e5-8020-b82a1493b993"
+      Hint: VideoThumbnail
+      Value: "<link linktype=\"media\" target=\"\" id=\"{BD5E098E-23AE-4D69-9E41-9045281EFEDC}\" />"

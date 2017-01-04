@@ -1,0 +1,25 @@
+﻿---
+ID: "ef935ddb-55fa-40b6-82aa-1078b992d17d"
+Parent: "342be2ad-75db-46cc-8407-94c2e1930c96"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Showcase/int/Presentation/Styles/Layout/footer-bottom"
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "footer-bottom"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 850
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081155Z

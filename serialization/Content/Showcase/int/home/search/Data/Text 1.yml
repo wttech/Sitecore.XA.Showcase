@@ -1,0 +1,20 @@
+﻿---
+ID: "7804b146-58fc-4d05-9a6a-91380ecd46e5"
+Parent: "b9aa2669-c8a7-4641-bd91-6b4e0625be08"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/search/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161212T160750Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">Search features can be found on nearly all sites, enabling visitors to quickly get to the content they seek. It is not only important to bring up results matching the search query the user has entered. On websites loaded with a large number of content items (like articles, or products), you should enable the visitor to easily navigate through the search results, filter and apply ordering so they can find exactly what they need with minimum effort.</p><p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">With SXA, you get flexible and powerful search functionality out-of-the-box. Any piece of your content can be included in or excluded from search results. You can define search scopes dedicated to particular areas or aspects of your content. For example, you can define one search page for general content, another one dedicated to product database and perhaps a separate one for news archive.</p>"

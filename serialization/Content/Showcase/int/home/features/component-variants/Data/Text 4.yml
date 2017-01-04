@@ -1,0 +1,22 @@
+﻿---
+ID: "a68e65d5-a474-4b5d-9d52-b547cfb3eb74"
+Parent: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data/Text 4"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T100655Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Rendering variants are invaluable when working with lists. The number and selection of items can change dynamically and the author is not able to control each item. Instead, they use variants to provide a pattern for every single item that exists there now or could be added over time.</p>
+        <p>But rendering variants are not limited to list components only. Actually, they are supported by a wide range of components that render content from a single source only. Let's have a look at the three promo boxes down below. They link to the same page and the data for promos comes from that page. I'm sure you've already guessed, that the only difference between them is the rendering variant applied.</p>

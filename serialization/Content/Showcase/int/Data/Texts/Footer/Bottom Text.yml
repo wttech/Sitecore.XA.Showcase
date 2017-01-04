@@ -1,0 +1,26 @@
+﻿---
+ID: "0bc848c0-e302-4448-a8c9-6edda26dc291"
+Parent: "ff4f87b9-87ec-4c6d-9d71-8868d2f29f99"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/Data/Texts/Footer/Bottom Text
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T130438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        Copyright © 2015 by Cognfide. All Rights Reserved.<br>
+        Cognifide Limited, Clerkenwell House, 67 Clerkenwell Road, EC1R 5BL London, United Kingdom <strong>+44 (0)20 3475 7200</strong>

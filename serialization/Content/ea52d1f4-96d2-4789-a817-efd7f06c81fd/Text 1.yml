@@ -1,0 +1,28 @@
+﻿---
+ID: "8b757ab1-ebcc-494c-8ce4-48d979026dfb"
+Parent: "ea52d1f4-96d2-4789-a817-efd7f06c81fd"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/meet-the-team/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T165939Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="promo-title" style="color: #747474; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; border: 0px;">
+        <h3 class="field-title" style="margin: 0px; padding: 0px; border: 0px;"><a style="margin: 0px; padding: 0px; border: 0px;">Rich Blauser</a></h3>
+        </div>
+        <div class="promo-body" style="color: #747474; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;">
+        <h5 style="margin: 0px; padding: 0px; border: 0px;">President &amp; Founder</h5>
+        <div style="margin: 0px; padding: 0px; border: 0px;">&nbsp;</div>
+        <p style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; border: 0px;">Redantium, totam rem aperiam, eaque ipsa qu ab illo inventore veritatis et quasi architectos beatae vitae dicta sunt explicabo. Nemo enim sadips ipsums dolores sit.Nemo enims sadips ipsums un inventore veritatis et quasi architecto vitae</p>
+        </div>

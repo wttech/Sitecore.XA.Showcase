@@ -1,0 +1,14 @@
+﻿---
+ID: "53e05e2b-97a8-4884-845b-85b0f1ed6bdc"
+Parent: "2614794c-6aa4-47c2-b5d3-38ab4dca2eb0"
+Template: "ed133836-964c-4cae-acdc-87eadc8849ef"
+Path: /sitecore/content/Showcase/int/Data/Search/Radius Filter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z

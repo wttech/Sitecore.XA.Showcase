@@ -1,0 +1,23 @@
+﻿---
+ID: "396a4b03-841e-460a-8007-cecf18d6bbd7"
+Parent: "bf536585-87a1-4961-bf27-d164b9ec15da"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/Showcase/int/home/features/creative-exchange/Data/Image 8"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T135039Z
+    - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
+      Hint: ImageCaption
+      Value: Hey Presto, you have added or updated your theme.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: "<image mediaid=\"{2D8C5849-A9D6-4C26-AB76-6E82E375007A}\" />"

@@ -1,0 +1,20 @@
+﻿---
+ID: "cf1a8a6b-050c-4b1b-bb51-acefb3c10cd8"
+Parent: "a92e70ea-a78c-4165-bd86-3e66aedd0cea"
+Template: "8e1f74db-15c0-43f3-85f0-86e4651df912"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/iframe/Data/Static Page"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T123314Z
+    - ID: "4b737984-1eac-4e50-8dd1-883566fa7bde"
+      Hint: Link
+      Value: "<link linktype=\"external\" url=\"http://boss.cognifide.com/~alan.plocieniak/static/\" anchor=\"\" target=\"\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

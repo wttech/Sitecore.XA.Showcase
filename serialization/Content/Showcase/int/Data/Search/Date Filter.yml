@@ -1,0 +1,14 @@
+﻿---
+ID: "8f38b4ca-5d2e-4059-a2a6-24dd6577e8ab"
+Parent: "2614794c-6aa4-47c2-b5d3-38ab4dca2eb0"
+Template: "8d85d00e-ecde-4b9a-a53c-0c01d60274e4"
+Path: /sitecore/content/Showcase/int/Data/Search/Date Filter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081205Z

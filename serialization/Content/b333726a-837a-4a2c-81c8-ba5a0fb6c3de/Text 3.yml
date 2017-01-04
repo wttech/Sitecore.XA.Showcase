@@ -1,0 +1,22 @@
+﻿---
+ID: "da3288d8-df7e-4969-979e-07caaf0ecd0b"
+Parent: "b333726a-837a-4a2c-81c8-ba5a0fb6c3de"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/composites/carousel/Data/Text 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T124639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Slide reuse</h2>
+        <p>You can feed each carousel with different slide sets but nothing stops you from showing the same content in different ways. See below for some examples of how the same set of slides is rearranged by means of various configuration options.</p>

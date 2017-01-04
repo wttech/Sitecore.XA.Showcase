@@ -1,0 +1,14 @@
+﻿---
+ID: "12f55b86-63cf-40f2-8a89-a0217ddc0475"
+Parent: "f20f7a73-245b-4284-b509-30ea4541f97e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/features/partial-designs/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T130940Z

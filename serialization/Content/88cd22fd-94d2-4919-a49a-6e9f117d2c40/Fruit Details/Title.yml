@@ -1,0 +1,21 @@
+﻿---
+ID: "4f29154f-a0cd-456a-b524-13905e48ceb7"
+Parent: "416c94b7-cad1-4617-9d0b-2c1bc4e79af3"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Results/Fruit Details/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T130051Z

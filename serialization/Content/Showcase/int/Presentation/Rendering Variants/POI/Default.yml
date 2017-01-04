@@ -1,0 +1,14 @@
+﻿---
+ID: "3a20fdd5-39c3-4acd-919e-0ee6e4263827"
+Parent: "d02b8251-f355-483e-9337-6d14ccaab306"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/POI/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z

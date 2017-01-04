@@ -1,0 +1,20 @@
+﻿---
+ID: "f8a8e6d2-262b-4900-b37b-57a83b8001b5"
+Parent: "5c7efa23-88b8-41a9-bbef-3c3e3dfa54e9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/navigation/link-list/Data/Text 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161005T114355Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>An example using a vertical link list with a title</p>

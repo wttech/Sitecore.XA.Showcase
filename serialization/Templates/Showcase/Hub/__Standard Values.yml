@@ -1,0 +1,22 @@
+﻿---
+ID: "70d88f03-1b04-469a-aeae-0c26ed3f801b"
+Parent: "a4c1e965-faf4-45ca-b112-050fa3161783"
+Template: "a4c1e965-faf4-45ca-b112-050fa3161783"
+Path: /sitecore/templates/Project/Showcase/Hub/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {D89463C9-06DB-435E-AFCD-F535075FD1AB}
+    {CB70A797-E500-45A2-AFA1-F6022D8A12BB}
+    {553BDBD5-D78D-4643-9B9D-954198EC4285}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161107T095741Z

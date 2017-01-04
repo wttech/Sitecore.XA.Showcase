@@ -1,0 +1,24 @@
+﻿---
+ID: "fd67c868-7bfa-4275-b101-4c558b71bdc7"
+Parent: "45dd3965-98bd-49f8-91ea-992969c1d9a2"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Showcase/int/Settings/Default links/Hierarchy/Next
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Next sibling
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081203Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: "<link text=\"$title &gt;\" linktype=\"external\" url=\"\" anchor=\"\" target=\"\" />"

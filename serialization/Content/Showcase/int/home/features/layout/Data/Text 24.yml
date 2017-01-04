@@ -1,0 +1,20 @@
+﻿---
+ID: "2e47c748-e150-4250-87ff-72d2dee4b488"
+Parent: "ff226443-9544-432d-a79d-262fa18ef610"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/layout/Data/Text 24
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T114241Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>Every component is designed to fit into any number of columns, which make the page very flexible. You do not have to worry about the components' width as they will simply adjust to a box where they are put. And if you change your mind and decide to move them somewhere else, their size will be adjusted again to meet the new situation.</p>

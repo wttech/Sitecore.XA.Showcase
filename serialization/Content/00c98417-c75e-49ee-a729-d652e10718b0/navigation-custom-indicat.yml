@@ -1,0 +1,26 @@
+﻿---
+ID: "3581659b-3761-41e3-933b-70d12a276919"
+Parent: "00c98417-c75e-49ee-a729-d652e10718b0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Showcase/int/Presentation/Styles/Navigation/navigation-custom-indicator"
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "navigation-custom-indicator"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Custom Indicator
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T103117Z

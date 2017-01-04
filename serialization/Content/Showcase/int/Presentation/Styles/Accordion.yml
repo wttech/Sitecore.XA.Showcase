@@ -1,0 +1,18 @@
+﻿---
+ID: "e2d132e2-156e-4ab5-8ae5-a8e98222f676"
+Parent: "76e6a243-ea9f-490c-841a-de23a543485d"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Accordion
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081154Z

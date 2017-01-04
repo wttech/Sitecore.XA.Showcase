@@ -1,0 +1,33 @@
+﻿---
+ID: "f51dfd17-3af1-44cb-bebe-97ea456f1bb2"
+Parent: "db9064fd-ffe7-4cfc-9fbc-e53d4ac1596f"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/engagement/facebook-comments"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Facebook Comments
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Facebook Comments
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T064441Z
+    - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+      Hint: ChangeFrequency
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+      Hint: Priority
+      Value: 
+    - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
+      Hint: TwitterCardType
+      Value: 

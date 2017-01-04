@@ -1,0 +1,42 @@
+﻿---
+ID: "ee2e0c1f-cc7e-4a4c-bcb1-e5db8f919351"
+Parent: "0e449363-b378-4ca9-b1a2-1bff15906615"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: /sitecore/content/Showcase/int/home/components/media/video
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Video
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA469F10-244F-4AA7-B1F2-83838C4C1F69}"
+              s:ds="{8E2004CB-34AB-49DA-8D2C-E0CCA7E5BBBB}"
+              s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:ph="/main/sxa-component-content/row-2-1" />
+          </d>
+        </r>
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Video
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T133158Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

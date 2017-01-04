@@ -1,0 +1,14 @@
+﻿---
+ID: "ce104a05-a30c-492b-94a7-c0c77454a93a"
+Parent: "2614794c-6aa4-47c2-b5d3-38ab4dca2eb0"
+Template: "c8e2a53c-6eac-49e2-bbc6-3ea8d0861834"
+Path: /sitecore/content/Showcase/int/Data/Search/Location Filter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "8b469936-4b45-4f90-92c3-1190b74a4cbf"
+Parent: "72c6558d-ef96-4e77-aa91-3070604314d9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/xdb-integration/Data/Text 16"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T092352Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="float: left; width: 80px; margin: 10px 0px; text-align: center;"><em class="fa fa-clock-o fa-3x"></em></p>
+        <p>Get the statistical significance faster. Define and start an A/B or multivariate test in one place, and run it simultaneously on many pages with a single click.</p>

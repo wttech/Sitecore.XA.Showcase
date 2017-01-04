@@ -1,0 +1,20 @@
+﻿---
+ID: "63831c94-8b86-431c-a678-67d5ff102a3d"
+Parent: "e7bc02eb-5c3f-43de-b151-965a798be50c"
+Template: "8b649372-cc12-4f31-802a-8c3b3d09bb3f"
+Path: /sitecore/content/Showcase/int/Settings/Scopes/Fruits
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T142823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
+      Hint: ScopeQuery
+      Value: "template:{bda146e9-1cd3-4955-a2da-6676f677562f}"

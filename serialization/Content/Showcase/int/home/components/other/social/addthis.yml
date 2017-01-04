@@ -1,0 +1,24 @@
+﻿---
+ID: "77b41940-2ac6-47b1-a612-aed0bc86aecf"
+Parent: "3516b258-6925-4341-8455-4e8670584f5c"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: /sitecore/content/Showcase/int/home/components/other/social/addthis
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: AddThis
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: AddThis
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T070348Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

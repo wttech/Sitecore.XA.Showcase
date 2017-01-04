@@ -1,0 +1,17 @@
+﻿---
+ID: "416c94b7-cad1-4617-9d0b-2c1bc4e79af3"
+Parent: "88cd22fd-94d2-4919-a49a-6e9f117d2c40"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Results/Fruit Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T130013Z
+    - ID: "e1d5adba-8348-4127-9bb6-455936653839"
+      Hint: CssClass
+      Value: "standard-fields"

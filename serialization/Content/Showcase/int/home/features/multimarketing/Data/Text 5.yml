@@ -1,0 +1,20 @@
+﻿---
+ID: "caccf5de-aba0-4e14-b219-a1100049d3eb"
+Parent: "06997514-1838-4d16-96c4-b221f070899a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/multimarketing/Data/Text 5
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T113816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h1 style=\"text-align: center;\"><span style=\"color: #ffffff;\">Instant</span><span style=\"color: #363839;\"> configuration</span></h1>"

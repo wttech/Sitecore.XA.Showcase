@@ -1,0 +1,47 @@
+﻿---
+ID: "48e20f61-2db7-40fc-99da-f1dc99ae2308"
+Parent: "dea968cb-e2bb-4a11-8ba1-3c586eb2a301"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/Showcase/int/Data/Tabs/Various Content/Links
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window.png"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8C9AACFF-7C3B-48BA-A5C6-C5516347C45F}"
+              p:before="*"
+              s:ds="{DE402313-2CC1-4EC6-BF20-FAEA56E93BD6}"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:ph="section-content" />
+            <r
+              uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
+              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T111616Z
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: Links

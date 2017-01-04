@@ -1,0 +1,22 @@
+﻿---
+ID: "5e278fb8-7d40-470f-9cb1-56c7c8542640"
+Parent: "72c6558d-ef96-4e77-aa91-3070604314d9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/xdb-integration/Data/Text 14"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T092301Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="float: left; width: 80px; margin: 20px 0px; text-align: center;"><em class="fa fa-puzzle-piece fa-3x"></em></p>
+        <p>Flexible grid system-based layout allows for presentation variation tests. Hiding components, or replacing them is not a problem as the layout and elements will accommodate to available space.</p>

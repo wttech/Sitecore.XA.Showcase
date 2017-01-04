@@ -1,0 +1,20 @@
+﻿---
+ID: "2d306855-203d-463c-93b4-3874b751336f"
+Parent: "ff226443-9544-432d-a79d-262fa18ef610"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/layout/Data/Text 30
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T121802Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>We've just said that SXA is using 12 column fixed grid, but this is not the whole truth. It actually applies principles of Responsive Web Design (RWD) in order to support a wide range of devices with different screen resolutions. Fluid grid applied here is proportional and columns are sized in relative percentages rather than absolute pixels. Breakpoints are another mechanism used by vanilla SXA. Once you reach certain width, columns start falling to next rows, and eventually everything ends in a single column.</p>

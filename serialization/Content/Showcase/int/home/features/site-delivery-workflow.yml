@@ -1,0 +1,202 @@
+﻿---
+ID: "77c07f1f-cd1a-4120-9c43-2e680196d1fc"
+Parent: "c18bdd92-f3d0-4c1c-a7f2-555e2595437f"
+Template: "9192e4e3-a8d2-42e3-a762-fd1dc339917f"
+Path: "/sitecore/content/Showcase/int/home/features/site-delivery-workflow"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Site Delivery Workflow
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D4E1B47C-EC20-4122-920A-DA05FF13D667}"
+              p:before="*"
+              s:ds="local:/Data/Image 8"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-2-3" />
+            <r
+              uid="{BC0BD67D-C3AE-4910-BDDC-9AF87FEB7778}"
+              p:after="r[@uid='{D4E1B47C-EC20-4122-920A-DA05FF13D667}']"
+              s:ds="local:/Data/Image 7"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-1-4" />
+            <r
+              uid="{44400475-25DD-4D13-8883-517A37303657}"
+              p:after="r[@uid='{BC0BD67D-C3AE-4910-BDDC-9AF87FEB7778}']"
+              s:ds="local:/Data/Text 13"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-2-4" />
+            <r
+              uid="{BA28D339-88FB-4E98-B305-89DC75D8BD8A}"
+              p:after="r[@uid='{44400475-25DD-4D13-8883-517A37303657}']"
+              s:ds="local:/Data/Text 11"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-1-3" />
+            <r
+              uid="{95D39D49-C807-4740-8259-DA0766C13FB8}"
+              p:after="r[@uid='{BA28D339-88FB-4E98-B305-89DC75D8BD8A}']"
+              s:ds="local:/Data/Text 9"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-2-2" />
+            <r
+              uid="{B5FCE068-CC41-411A-9607-76BA4AC5D9A6}"
+              p:after="r[@uid='{95D39D49-C807-4740-8259-DA0766C13FB8}']"
+              s:ds="local:/Data/Image 5"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-1-2" />
+            <r
+              uid="{9256A5D6-75E2-41BC-9905-CED623CC94A2}"
+              p:after="r[@uid='{B5FCE068-CC41-411A-9607-76BA4AC5D9A6}']"
+              s:ds="local:/Data/Image 4"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-2-1" />
+            <r
+              uid="{C618AF76-FA39-44BA-9C17-FAE5E4852829}"
+              p:after="r[@uid='{9256A5D6-75E2-41BC-9905-CED623CC94A2}']"
+              s:ds="local:/Data/Text 6"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-2-1" />
+            <r
+              uid="{5CCBE993-B090-4305-AC29-6078851BD05B}"
+              p:after="r[@uid='{C618AF76-FA39-44BA-9C17-FAE5E4852829}']"
+              s:ds="local:/Data/Text 5"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-1-1" />
+            <r
+              uid="{D54FEC94-8905-4D05-9819-9B398CE56790}"
+              p:after="r[@uid='{5CCBE993-B090-4305-AC29-6078851BD05B}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1/column-1-1" />
+            <r
+              uid="{DDAC7F1D-8670-42E8-8745-1AD2BAF69140}"
+              p:after="r[@uid='{D54FEC94-8905-4D05-9819-9B398CE56790}']"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{8F86609B-3A8C-40EF-8845-C44EA09B2AEE}"
+              p:after="r[@uid='{DDAC7F1D-8670-42E8-8745-1AD2BAF69140}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{7C0265CE-D5C2-4DDA-9774-962654D6280C}"
+              p:after="r[@uid='{8F86609B-3A8C-40EF-8845-C44EA09B2AEE}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="Styles"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{A3F734DB-7EB7-4FB4-B00C-E647CDF295B7}"
+              p:after="r[@uid='{7C0265CE-D5C2-4DDA-9774-962654D6280C}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{7E201D45-91A9-4B83-AAFD-48BE3972BC80}"
+              p:after="r[@uid='{A3F734DB-7EB7-4FB4-B00C-E647CDF295B7}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{136ED123-387C-4572-AB60-7E21EAEF6724}"
+              p:after="r[@uid='{7E201D45-91A9-4B83-AAFD-48BE3972BC80}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{7F2F19BD-6BC5-4B0A-AC2E-3C6D6139A178}"
+              p:after="r[@uid='{136ED123-387C-4572-AB60-7E21EAEF6724}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth2={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{3AB84289-5EEC-4F79-AFA5-0768B453E82E}"
+              p:after="r[@uid='{7F2F19BD-6BC5-4B0A-AC2E-3C6D6139A178}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{77282A21-7236-4338-9834-38AE4BDAA8C5}"
+              p:after="r[@uid='{3AB84289-5EEC-4F79-AFA5-0768B453E82E}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{D3B0851C-22BB-42F7-B2B4-8734D06E5668}"
+              p:after="r[@uid='{77282A21-7236-4338-9834-38AE4BDAA8C5}']"
+              s:ds="local:/Data/Text 10"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{941C4CEB-41E2-4699-89C8-05865AB9AFC6}"
+              p:after="r[@uid='{D3B0851C-22BB-42F7-B2B4-8734D06E5668}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth2={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{9B2A0EF5-775B-4B75-B30F-954341E133F5}"
+              p:after="r[@uid='{941C4CEB-41E2-4699-89C8-05865AB9AFC6}']"
+              s:ds="local:/Data/Text 12"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{F232FB9F-D3B2-439A-8D74-256D1D6F7CF7}"
+              p:after="r[@uid='{9B2A0EF5-775B-4B75-B30F-954341E133F5}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{1C5CBA42-27D0-4ADE-97FA-FA86C804514B}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1" />
+          </d>
+        </r>
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Site Delivery Workflow
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T102818Z
+    - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
+      Hint: SummaryText
+      Value: <p>Overview of site delivery workflow which can be used in SXA.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
+      Hint: SummaryTitle
+      Value: Site Delivery Workflow
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites. By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites, but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of have the entire site built before entering any content, only to find the templates are not able to service the needs of the authors.</p><p>By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you in to a particular way of working.</p>
+    - ID: "ddaa2a8d-957f-445c-86e0-3c8e51212d83"
+      Hint: SummaryImage
+      Value: "<image mediaid=\"{88128831-8BA6-42B3-96B0-C8008D2E05BF}\" />"

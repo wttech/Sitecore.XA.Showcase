@@ -1,0 +1,23 @@
+﻿---
+ID: "7e20a748-9dd6-4493-a6d0-2cb93af13548"
+Parent: "5942d0e6-dd9d-4393-b6ea-d63116f88251"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/composites/flip/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T102310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Column layout</h2>
+        <p>Thanks to brave UI engineers, the components which are offered by SXA can fit any spot on the website. Whether a full width box, a tiny little box or anything in between - it can be done out of the box.</p>
+        <p>Because you know, SXA is flexible.</p>

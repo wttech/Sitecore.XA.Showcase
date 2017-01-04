@@ -1,0 +1,25 @@
+﻿---
+ID: "cabf037a-0a9b-4bcf-a108-4a89b15d70b6"
+Parent: "e0cca6b2-5dca-4768-86ab-8a6b2212de9a"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Fast/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T103840Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;"><i class="fa fa-bolt fa-3x"></i></div>
+        <p>&nbsp;</p>
+        <h2 style="text-align: center;">Blazingly fast</h2>
+        <p style="text-align: center;">Would you like to know why?</p>
+        <p style="text-align: center;">Click here.</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

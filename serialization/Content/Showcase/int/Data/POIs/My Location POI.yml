@@ -1,0 +1,21 @@
+﻿---
+ID: "d98c1cb4-932c-4795-916f-238aae10a889"
+Parent: "06aeba18-b150-4fd0-add0-851cb252d7c6"
+Template: "7dd9ece5-9461-498d-8721-7cbea8111b5e"
+Path: /sitecore/content/Showcase/int/Data/POIs/My Location POI
+DB: master
+SharedFields:
+- ID: "07aac6e6-06f7-4ab9-9f16-a7d060c8a8a3"
+  Hint: Type
+  Value: "{1BCE5A81-F8B6-4B3E-8CA5-7130C714DB14}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

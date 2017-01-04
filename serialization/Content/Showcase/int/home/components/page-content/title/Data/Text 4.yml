@@ -1,0 +1,22 @@
+﻿---
+ID: "83f5b138-eb21-46d2-86cd-b0171c5602b0"
+Parent: "cfcd1a9d-cd14-4ec3-97fe-8f1fa8c9b118"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/title/Data/Text 4"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T115454Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Title&nbsp;</h2>
+        <p>This field holds the primary title of the page and its value is mainly used within&nbsp;<code style="color: #666666; font-size: 14.4px; line-height: 16px; background-color: #ffffff;">title</code>&nbsp;tag in the HTML header section. Use title component if there is a need to display the title enclosed in an&nbsp;<code style="color: #666666; font-size: 14.4px; line-height: 16px; background-color: #ffffff;">h1</code>&nbsp;tag anywhere else within the HTML body section.</p>

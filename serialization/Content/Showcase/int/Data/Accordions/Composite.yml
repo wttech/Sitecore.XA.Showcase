@@ -1,0 +1,14 @@
+﻿---
+ID: "0547d084-c150-4412-b51d-adb7128df062"
+Parent: "7e9c54b1-b1c2-4bc4-8465-c25f62004bfe"
+Template: "705cc8b3-bde5-4cb3-bf1c-e455a2a36ef1"
+Path: /sitecore/content/Showcase/int/Data/Accordions/Composite
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T062953Z

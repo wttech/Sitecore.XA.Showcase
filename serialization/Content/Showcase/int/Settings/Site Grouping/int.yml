@@ -1,0 +1,30 @@
+﻿---
+ID: "f31a614c-4cef-4174-b9b9-f969e9e77539"
+Parent: "5aa4f1a9-baf6-4075-8070-15bcb80dedd4"
+Template: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
+Path: /sitecore/content/Showcase/int/Settings/Site Grouping/int
+DB: master
+SharedFields:
+- ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
+  Hint: StartItem
+  Value: "{2C1DB24E-0C8E-49FC-9569-F587509C3FD9}"
+- ID: "301e719a-6f65-4874-b565-a953a7b5ac83"
+  Hint: OtherProperties
+  Value: "formsRoot=%7B89790C84-71CF-46E1-B2AC-921478F207BA%7D"
+- ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
+  Hint: HostName
+  Value: *
+- ID: "bdda404f-9835-456a-84d2-6e9cfe6b5909"
+  Hint: HtmlCacheSize
+  Value: 16
+- ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
+  Hint: TargetHostName
+  Value: sxa
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081147Z

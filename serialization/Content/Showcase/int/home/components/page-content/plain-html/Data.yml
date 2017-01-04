@@ -1,0 +1,14 @@
+﻿---
+ID: "91aae2c4-951e-41f4-abdc-56d3546b56cb"
+Parent: "3911cf31-0c42-4e50-8fbf-7570a1223ecd"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/plain-html/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T120545Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "53961d18-7ef2-4aa3-94a2-fef92d70079a"
+Parent: "2eedd3af-0a69-4135-ba08-4326756cb336"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/Showcase/int/Presentation/Styles/Text/rich-text-home-page-3-main-title"
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "rich-text-home-page-3-main-title"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: |
+    {99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}
+    {87182F78-4399-4896-8D59-9D6A45282F8A}
+    {DCEE78E1-1843-4456-A13A-F10A12191630}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161121T145443Z

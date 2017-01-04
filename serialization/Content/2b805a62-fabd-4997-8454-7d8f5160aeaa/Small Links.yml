@@ -1,0 +1,14 @@
+﻿---
+ID: "3be75f25-a96f-4da8-afa4-a524363d8b2f"
+Parent: "2b805a62-fabd-4997-8454-7d8f5160aeaa"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Link List/Small Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161005T123048Z

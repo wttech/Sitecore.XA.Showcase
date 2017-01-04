@@ -1,0 +1,20 @@
+﻿---
+ID: "c8f57a06-5adc-4b88-aa84-854046d3b959"
+Parent: "b979fc17-0c24-419d-8da3-b6f33e5de61c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/contact-page-2/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T115822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h2 style=\"margin-top: 1em; margin-bottom: 1em; font-style: normal; color: rgb(116, 116, 116); text-align: start;\">London - Cognifide's HQ</h2><p style=\"padding-top: 0px; padding-bottom: 0px; font-weight: normal; font-style: normal; font-size: 15px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; text-align: start;\">Cognifide Limited<br>Clerkenwell House<br>67 Clerkenwell Road<br>EC1R 5BL London<br>United Kingdom<br><b>info@cognifide.com</b></p><br>"

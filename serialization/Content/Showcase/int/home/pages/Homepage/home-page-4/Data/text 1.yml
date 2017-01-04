@@ -1,0 +1,22 @@
+﻿---
+ID: "a11d64f9-72e6-41ce-b73d-b44bdb46625e"
+Parent: "aaab7631-8da4-4448-b0af-3d46a4e75b26"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Homepage/home-page-4/Data/text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161104T131603Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Experience Accelerator - the essance</h2>
+        <p>Sitecore Experience Accelerator is a platform and a concept allowing organizations to do quick delivery of sites using a standardized set of functionality with minimum-to-no CMS development. Every feature of SXA comes with productivity in mind - it is meant to be an expert tool that allows you to deliver websites quickly with minimum custom development. Experience Accelerator separates creation of new sites from functional development - SXA platform provides an out of the box set of flexible components, which can be used in number of different scenarios. Experience Accelerator changes the way new sites are developed, as those standard components should cover 90% of functionality for the majority of campaigns and microsites.</p>

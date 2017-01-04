@@ -1,0 +1,32 @@
+﻿---
+ID: "f90e2028-248d-41cd-8c91-a6aaeea3d26e"
+Parent: "74404285-cb5f-4ff6-84cd-2a638d52bd73"
+Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
+Path: /sitecore/content/Showcase/int/Data/Accordions/Custom/Ahead
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "http://sxa_showcase/temp/iconcache/office/32x32/note_text.png"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T061955Z
+    - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
+      Hint: Content
+      Value: |
+        One more time!<br>
+        Proin eget urna at arcu molestie porta. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer vitae tristique ligula. Nullam posuere, neque eget dictum vestibulum, sem mauris convallis lorem, sit amet ornare justo enim et ligula. Quisque a ultricies metus. Nunc dictum sit amet odio vel varius. Proin finibus, nibh vitae venenatis ullamcorper, dolor purus facilisis massa, quis malesuada massa sem et felis. Aenean imperdiet pulvinar tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam nec suscipit magna. Suspendisse dapibus arcu vitae quam euismod aliquet. Fusce in eros ligula.<br>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
+      Hint: Heading
+      Value: Ahead

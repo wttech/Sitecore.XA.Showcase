@@ -1,0 +1,28 @@
+﻿---
+ID: "a2710587-3d59-48a6-b748-7d494617c9db"
+Parent: "74e5169c-3ac8-414e-ba0c-2f64da5369de"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Extensible/Front
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T110401Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-cog fa-3x"></i></p>
+        <p>&nbsp;</p>
+        <h2 style="text-align: center;">Extensible</h2>
+        <p style="text-align: center;">Whatever you cannot do, we can. And we will do it for you!</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

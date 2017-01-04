@@ -1,0 +1,17 @@
+﻿---
+ID: "3eed8577-cbef-4c2d-9d60-756206df6914"
+Parent: "a439c576-b0cc-43a3-bd9b-48203cde3630"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Showcase/Images/Features
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T104944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

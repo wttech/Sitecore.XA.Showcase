@@ -1,0 +1,14 @@
+﻿---
+ID: "4396650e-5108-4ce1-b4f0-9d7c9ef39c65"
+Parent: "68443718-6c72-4021-b78e-c645c6f4e110"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/components/navigation/breadcrumb/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T081216Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "3d9dd961-da53-4c34-a002-895ed01f0704"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 13"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T081525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Author-friendly</h2>
+        <p>Let your content authors focus only on the important sections of their pages. By using designs, you can leave only selected placeholders to be filled by authors. Thanks to this, they will be not bothered by the task of <b><u><a href="~/link.aspx?_id=DEEAEC7B2901402896C8567BA7396B20&amp;_z=z">creating layout</a></u></b> and their attention can be on creating great content.</p>

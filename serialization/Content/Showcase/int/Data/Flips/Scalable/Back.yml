@@ -1,0 +1,27 @@
+﻿---
+ID: "04f23987-680e-4920-86b1-c7f115c152b4"
+Parent: "90288150-04d7-429c-8f0a-1c141663aaca"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Scalable/Back
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T102410Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-database"></i></span><br>
+        With SXA you can create huge websites and manage them as easy as the smaller ones!<br>
+        &nbsp;</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

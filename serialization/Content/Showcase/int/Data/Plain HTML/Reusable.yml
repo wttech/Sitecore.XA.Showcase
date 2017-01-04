@@ -1,0 +1,20 @@
+﻿---
+ID: "047884e4-cde7-4ffb-9324-88a5837eb7e3"
+Parent: "e7789ace-1c41-4569-b4b8-3c5fce27c228"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/Showcase/int/Data/Plain HTML/Reusable
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: <dl>    <dt>Create</dt>    <dd>Inserting a Reusable Plain HTML content is simple.</dd>    <dt>Use</dt>    <dd>Add it to multiple pages or snippets, wherever you need it.</dd>    <dt>Modify</dt>    <dd>If its content is edited, the change will propagate to every place it is used.</dd>    <dl></dl>    </dl>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T121025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

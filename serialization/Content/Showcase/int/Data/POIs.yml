@@ -1,0 +1,14 @@
+﻿---
+ID: "06aeba18-b150-4fd0-add0-851cb252d7c6"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "8ca8b80d-a1ad-4b45-9f08-8839357e71d4"
+Path: /sitecore/content/Showcase/int/Data/POIs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z

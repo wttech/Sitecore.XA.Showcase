@@ -1,0 +1,23 @@
+﻿---
+ID: "7e51f415-55e9-4cf5-ab2c-114d710635ec"
+Parent: "bf536585-87a1-4961-bf27-d164b9ec15da"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/creative-exchange/Data/Text 11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T132617Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3>Use the best tools for the job!</h3>
+        <br>
+        Here at Cognifide, we believe we have built an excellent tool for collaborative site production on Sitecore. However, we also know that UI developers have their preferred tools for their work, and that's why we developed Creative Exchange as part of the SXA experience.

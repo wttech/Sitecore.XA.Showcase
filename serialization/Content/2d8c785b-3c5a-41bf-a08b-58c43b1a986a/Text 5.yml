@@ -1,0 +1,62 @@
+﻿---
+ID: "e7999259-237c-43b2-b16b-8e30372837e8"
+Parent: "2d8c785b-3c5a-41bf-a08b-58c43b1a986a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/about-us-2/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T144745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td><strong>Sitecore Experience Accelerator</strong></td>
+                </tr>
+                <tr>
+                    <td><strong>Components</strong></td>
+                    <td>50+</td>
+                </tr>
+                <tr>
+                    <td><strong>Templates</strong></td>
+                    <td>Unlimited (user defined)</td>
+                </tr>
+                <tr>
+                    <td><strong>Redirects</strong></td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><strong>Mobile first, mobile ready</strong></td>
+                    <td>Yes, responsive grid design </td>
+                </tr>
+                <tr>
+                    <td><strong>Publication</strong></td>
+                    <td>Complete page publishing</td>
+                </tr>
+                <tr>
+                    <td><strong>Multi-site support</strong></td>
+                    <td>Language &amp; market switchers, no fallback</td>
+                </tr>
+                <tr>
+                    <td><strong>xDB ready site structure</strong></td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td><strong>Conditions to track / read cookies</strong></td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                </tr>
+            </tbody>
+        </table>

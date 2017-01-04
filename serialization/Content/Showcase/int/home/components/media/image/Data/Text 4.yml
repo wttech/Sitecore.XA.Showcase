@@ -1,0 +1,43 @@
+﻿---
+ID: "c4f6cb66-1376-4444-9810-2f439d3b2246"
+Parent: "1d9d8f4d-8641-4d29-ab75-19d25cd1388c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/media/image/Data/Text 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T145453Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>In case you need you can add multiple image components. Each will be connected to dedicated data source item which can be later reused.</p>
+        <p>In the toolbox you can see there are two different image components. One is marked as reusable while the other is just a regular one. But what is the difference?</p>
+        <table>
+            <tbody>
+                <tr>
+                    <th style="text-align: center;">Image component</th>
+                    <th style="text-align: center;">Reusable Image component&nbsp;</th>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">allows you to create an image which is available on the particular page only</td>
+                    <td style="text-align: left;">allows you to create an image which is available for all pages<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left;">does not bother naming the image</td>
+                    <td style="text-align: left;">asks you to name the image, so it can be easily identified and reused later<br>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">&nbsp;contains all the features you would expect from Image component</td>
+                </tr>
+            </tbody>
+        </table>

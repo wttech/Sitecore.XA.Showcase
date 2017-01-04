@@ -1,0 +1,14 @@
+﻿---
+ID: "345dcf3f-2ab9-4dc6-9b8e-f609f006c569"
+Parent: "6054c188-ed98-4183-bbd3-e129c09e57e5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/features/drag-and-drop-editing/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T070229Z

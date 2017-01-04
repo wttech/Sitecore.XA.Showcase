@@ -1,0 +1,14 @@
+﻿---
+ID: "375dd0d6-6a05-423c-b581-4767c4e00e14"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Showcase/int/Data/Navigation Filters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081203Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "b02e9f76-fa54-4ba0-90e5-b3fd530353d9"
+Parent: "68b7279d-1364-48ba-8c9c-3bed13821a4e"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Theme Inheritance/Back
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T105405Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <div style="text-align: center;"><img height="1160" alt="wireframe-theme" width="1016" src="-/media/3B39EA2C960542DAB1A9BDBCBCFEEB95.ashx"></div>
+        <h2 style="text-align: center;">Start with a template</h2>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

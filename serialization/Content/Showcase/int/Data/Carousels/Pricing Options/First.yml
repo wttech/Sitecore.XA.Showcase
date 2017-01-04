@@ -1,0 +1,24 @@
+﻿---
+ID: "801bb049-1935-4a81-883e-a4b6be65c9aa"
+Parent: "eb2ec72b-778e-44b9-8e66-7b0fb40c9846"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/Data/Carousels/Pricing Options/First
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_width.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T121550Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: "<image mediaid=\"{C50CE6E6-A52E-481E-81A0-D958B0C7D20D}\" ></image>"
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: <h2>Whenever someone tells you...</h2>

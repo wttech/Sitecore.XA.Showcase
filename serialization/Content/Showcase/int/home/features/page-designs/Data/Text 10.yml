@@ -1,0 +1,27 @@
+﻿---
+ID: "ad70ba0c-3ac7-4e82-a85e-bc6040a49867"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 10"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T075414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Step 2</h2>
+        Once you click a Design, you will see a dialogue box where you can choose the <b><u><a href="~/link.aspx?_id=F20F7A73245B4284B50930EA4541F97E&amp;_z=z">Partial Designs</a></u></b> that will be used to render this page and others of the same type.<br>
+        <br>
+        In the example below, which is taken from this page that you are reading right now, you can see that we have selected "Header" and "Footer" which are shared across the whole site. Also the "Feature Content" snippet has been selected to provide a specific title bar throughout the Features section.<br>
+        <br>
+        The rest of the page was built by adding content and some components specific to that page.<br>
+        <br>

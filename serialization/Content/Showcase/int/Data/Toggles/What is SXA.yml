@@ -1,0 +1,20 @@
+﻿---
+ID: "99a35789-bbd6-40db-bffd-227603f07bc0"
+Parent: "88fe8703-a420-4506-b0b1-df7daf31669a"
+Template: "a2cb73c7-0054-4461-aab8-0969fdd2e094"
+Path: /sitecore/content/Showcase/int/Data/Toggles/What is SXA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T144039Z
+    - ID: "2d36cf85-84be-42d2-b710-8d13b8844cdd"
+      Hint: Text
+      Value: "<p>What is SXA?</p>"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

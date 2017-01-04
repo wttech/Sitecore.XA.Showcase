@@ -1,0 +1,20 @@
+﻿---
+ID: "e6175eae-c656-4d56-88b5-a78cc75b5d2d"
+Parent: "27449d96-7820-4109-90b4-1bc0453f8b39"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/Data/Texts/Component Features Heading
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T131525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <h2>Features and Options</h2>

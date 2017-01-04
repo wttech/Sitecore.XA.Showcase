@@ -1,0 +1,24 @@
+﻿---
+ID: "92843ad1-82dc-4ae1-a84b-abf8b164beab"
+Parent: "2df2cee9-f589-462c-84d8-73a7de375d90"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Theme Change/Front
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T094504Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><img alt="avada" src="-/media/B586E470B943474199A47FB4D687E26E.ashx?h=282&amp;w=743&amp;hash=CDE274C63412AB08FC432C0B6C3C3F72A9A9DC5F&amp;hash=CDE274C63412AB08FC432C0B6C3C3F72A9A9DC5F" style="height: 282px; width: 743px;"></p>
+        <h3 style="text-align: center;">Better, isn't it?</h3>
+        <div>&nbsp;</div>
+        <p style="text-align: center;">The only difference is the Theme</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

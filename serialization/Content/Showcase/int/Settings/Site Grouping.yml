@@ -1,0 +1,14 @@
+﻿---
+ID: "5aa4f1a9-baf6-4075-8070-15bcb80dedd4"
+Parent: "d125960e-53a4-4cc0-8860-1b5af6e63343"
+Template: "11f57d7b-cbb2-4647-b98c-71457564ba4f"
+Path: /sitecore/content/Showcase/int/Settings/Site Grouping
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081147Z

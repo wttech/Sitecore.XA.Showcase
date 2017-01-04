@@ -1,0 +1,23 @@
+﻿---
+ID: "8c95940a-2e7d-4a8d-95ca-47dc04bdaff9"
+Parent: "06997514-1838-4d16-96c4-b221f070899a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/multimarketing/Data/Text 6
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161012T114010Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3 style="text-align: left;">It couldn't be easier!</h3>
+        <p style="text-align: left;">Having many sites and markets can be challenging, but SXA is well-equipped with tools.&nbsp;</p>
+        <p style="text-align: left;">Use them to manage your whole deck. With SXA you get wizard, which allows you to add new tenant with just a few clicks. And there is no server restart or manual configuration needed! How about that!</p>

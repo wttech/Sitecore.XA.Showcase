@@ -1,0 +1,20 @@
+﻿---
+ID: "0c84689d-e822-48e4-84ea-45e2482ac3c8"
+Parent: "7dc95340-9477-4262-b036-d2d5d0682f7f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/about-us-1/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T130542Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h2 class=\"field-title\" style=\"margin-top: 1em; margin-bottom: 1em; font-style: normal; color: rgb(116, 116, 116); text-align: start;\"><a style=\"font-weight: normal; font-size: 0.85em; text-decoration: none;\">John Bington</a></h2><div class=\"field-promotext\" style=\"padding-top: 10px; padding-bottom: 10px; font-weight: normal; font-style: normal; font-size: 15px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; text-align: start;\">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia.</div>"

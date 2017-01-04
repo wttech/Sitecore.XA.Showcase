@@ -1,0 +1,20 @@
+﻿---
+ID: "c0568cf3-8cd8-418f-bada-4a0309513ca8"
+Parent: "4b5fd0f3-ea1a-40ca-8854-a4cc145e6699"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Showcase/int/Data/Links/External/Japanese rock garden
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T100353Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: "<link linktype=\"external\" text=\"Japanese rock garden\" url=\"http://en.wikipedia.org/wiki/Japanese_rock_garden\" anchor=\"\" target=\"\" />"

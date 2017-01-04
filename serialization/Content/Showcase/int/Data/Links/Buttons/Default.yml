@@ -1,0 +1,20 @@
+﻿---
+ID: "d32f0603-92c8-460b-ac7f-c51e00f3c368"
+Parent: "ad42471a-cb9a-4ab6-b088-5e4f845d69cf"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Showcase/int/Data/Links/Buttons/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T105101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: "<link linktype=\"internal\" text=\"Contact Us\" class=\"default\" querystring=\"\" target=\"\" id=\"{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}\" />"

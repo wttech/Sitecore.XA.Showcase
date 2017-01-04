@@ -1,0 +1,57 @@
+﻿---
+ID: "36d8ed89-51a9-4193-ab3c-50d1eba38856"
+Parent: "76c0b01b-8e2e-467e-a75e-ea2380c32af7"
+Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
+Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Fruit Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7A151A1E-B954-401F-9D75-D7EFBD65E796}"
+              p:before="*"
+              s:ds=""
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="FieldNames={25B1F02E-387F-4DDF-8A5C-C99E0C19D823}&amp;Styles={21E98220-BFB7-4E2F-8AF9-D9114958EEB6}"
+              s:ph="/main/container-1/column-2-1" />
+            <r
+              uid="{0A8C56F8-DCC9-484D-ADBF-A263A25A2538}"
+              p:after="r[@uid='{7A151A1E-B954-401F-9D75-D7EFBD65E796}']"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="Styles&amp;FieldNames={8756FBA8-53CB-4C8E-90DE-CD08B1829D94}"
+              s:ph="/main/container-1/column-1-1" />
+            <r
+              uid="{E98D0F09-4DB4-411B-81FC-4F159B41A57F}"
+              p:after="r[@uid='{0A8C56F8-DCC9-484D-ADBF-A263A25A2538}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth2={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-1" />
+            <r
+              uid="{7947422F-FDAD-40D5-874F-6B62AFA4EAA0}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T093021Z
+    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+      Hint: Signature
+      Value: "fruit-content"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

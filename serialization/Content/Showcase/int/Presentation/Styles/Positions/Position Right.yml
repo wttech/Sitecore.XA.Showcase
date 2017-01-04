@@ -1,0 +1,18 @@
+﻿---
+ID: "e17c1923-0421-42bb-9134-f5af9b501b3c"
+Parent: "36ebfcb2-0d28-4ccf-8aae-287c867012e0"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Positions/Position Right
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "position-right"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081156Z

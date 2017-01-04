@@ -1,0 +1,43 @@
+﻿---
+ID: "e6a13b1b-5ed4-4d23-a320-9df52fe5ab70"
+Parent: "192055fe-77aa-41ae-a70c-ff3e3c6d7638"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Showcase/Images/Icons/fa-sun-o"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E6A13B1B5ED44D23A3209DF52FE5AB70.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "9b8f1491-e36c-42bf-9f2c-20c6e839946e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjExR/NCNwAAAntJREFUSEu1lT1L81AUx/1OWUIGuYP1BQQplCrqJCkIEsFBKAoiyaBEF0WoYEV9KCLi4yCkDmKhW7GDi3QIHYKQLuF+hr/33iZp0qSQ+PAMv5Cce+459+Wcf6YA/FdSjWlQ7wv3uo6/Xx77TPdJI9WYRvdiDbIkQV67QNfLniRhoO1rGOYtml2HfQ5tg5aJkixBYgkkSUbJbGHgJ6FOF81bE8Z1O/SPkjDQhuYHkqCQMiq6ib2SHNoEcgl7po5KmUAJbFqDTY/H4iQM0QRDFMyvb8E4v8OfO845jK11zCtRH0b+BDIKGyZePl1mjvtwqPuJF3MDheDosiSgnot+fVMELx294TvDZX6/HQ3vZ7OOvpv0HwbtWLjUVSwTRayGsNX0clRKj+2a8F0oBMuqjkurEyabotYBCuJIfGQV9Zy1znukrsYLoXBgsSF/B6+HC+HA9O5TWIJ5GDztYjpIsHCI12AH/EHdFk78Uqxc2WIgL9S+QoUHZyV80hoVxsihbaLIHLYb+VfPoV4D22x+0Yw3XPgSSMG/JhiXEvGISsH4CrISnMC4lIjzPy76l8NZOcslZgHds5VRDKmIY/8ehLhpUU2RCKrP6d07Ceo+o0qC+UMN03zxC50GdgfNGhOwJdZsRMN9xl4Q/wmNsCZbYsJYQ7Njx8o8OcHXInmxiscJOhTA9eixuiiK43dqKs9gdf8G773Rv0H4OD283+xjdSbSvb+Xax+mM3Ozs5jz9SpB5gQPO2zLCkhZhVGz8GE7MSkRcClwbHxYNRhqGYT9G+SdBzY9HouTMFDXRt+JX3BUSsalQIx7Dvp2+n0lDJOg7VPWjKyJTvM0IqZ+AH2uMZxuXEz3AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 780
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 24 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T100244Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Sun icon

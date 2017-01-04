@@ -1,0 +1,14 @@
+﻿---
+ID: "606a1159-a316-4215-8569-af4da6abcdc9"
+Parent: "2614794c-6aa4-47c2-b5d3-38ab4dca2eb0"
+Template: "f823b393-fea3-4487-a3c8-c084f114151a"
+Path: /sitecore/content/Showcase/int/Data/Search/Page Size
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081206Z

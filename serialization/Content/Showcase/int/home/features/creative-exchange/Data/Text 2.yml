@@ -1,0 +1,20 @@
+﻿---
+ID: "960a4c8a-5f38-4a53-97d8-b96ff5e6c99d"
+Parent: "bf536585-87a1-4961-bf27-d164b9ec15da"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/creative-exchange/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T121415Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "The Creative Exchange process is designed to facilitate the different teams working on the creation of your site. The idea is that the team working on the Theme or \"skin\" for your site should be able to work in parallel with the other teams, and also use their favourite tools."

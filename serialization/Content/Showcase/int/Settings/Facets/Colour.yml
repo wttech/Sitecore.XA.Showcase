@@ -1,0 +1,25 @@
+﻿---
+ID: "449af72e-30d3-425e-92e3-2c74fe014b1c"
+Parent: "f3b5f9bc-90b6-4c94-8f79-bdff26a630d7"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Showcase/int/Settings/Facets/Colour
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: colour
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fruit Colour
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T144755Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Fruit Colour

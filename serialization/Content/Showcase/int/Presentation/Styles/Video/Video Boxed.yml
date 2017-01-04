@@ -1,0 +1,22 @@
+﻿---
+ID: "9488c7ac-f5eb-4d9e-b20a-52f4092c3c50"
+Parent: "7455fb06-a4eb-47f6-b062-782a985c767b"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Video/Video Boxed
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "video-boxed"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081156Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "b61f3e58-871e-4b70-ada1-003e253862fc"
+Parent: "12f55b86-63cf-40f2-8a89-a0217ddc0475"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/partial-designs/Data/Text 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T131822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        As you build up your wireframes, you will most likely sketch all sorts of ideas and fragments that end up being used on the completed wireframes. Often one idea will become a structural element used on many different completed layouts.<br>
+        <br>
+        SXA is built with the same philosophy. "Partials" are quite simply bits of design. Pieces that can be put together to create a completed layout. Pieces that can be reused on different layouts.<br>
+        <br>
+        They can even inherit from each other, so that you can build increasingly complex designs from a basic set of reusable snippets and manage them all in a clear and concise way.<br>
+        <br>
+        All of this is done on the platform, with proper workflows and version control!<br>

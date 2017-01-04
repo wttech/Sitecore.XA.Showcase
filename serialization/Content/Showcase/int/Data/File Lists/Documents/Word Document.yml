@@ -1,0 +1,20 @@
+﻿---
+ID: "1ef2e345-7b7d-480b-bebb-d464123bbe4f"
+Parent: "1cc71f9a-6d33-4cbf-9c8c-05e4fb40f757"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: /sitecore/content/Showcase/int/Data/File Lists/Documents/Word Document
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T140150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
+      Hint: File
+      Value: "<file mediaid=\"{5E30284D-3E59-4643-802D-A0D6F8EF99A5}\" src=\"-/media/5E30284D3E594643802DA0D6F8EF99A5.ashx\" />"

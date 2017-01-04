@@ -1,0 +1,51 @@
+﻿---
+ID: "d125960e-53a4-4cc0-8860-1b5af6e63343"
+Parent: "dc00ec1b-9747-438d-bf45-fd9e7b4cca70"
+Template: "6d34d905-0381-4288-86e6-8951eabce599"
+Path: /sitecore/content/Showcase/int/Settings
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {11F57D7B-CBB2-4647-B98C-71457564BA4F}
+    {F86FE270-00A4-492F-BFAF-5BF27E40CE13}
+    {70461699-48E4-45FA-B74B-0CCE849FCA6A}
+    {20EF5E69-B366-4E9E-960B-E451B24DBD46}
+    {5C76AD53-96CD-4B96-9690-DD9AF2650171}
+    {44936C95-BCA9-4FB3-9D98-2066A5FBBB4D}
+    {DC66D5DA-3216-48E6-AE78-BAC8445B6A46}
+    {E1CF805E-7F49-4EC9-A25A-182DC798CB5F}
+    {B14BAB5B-8965-466B-886B-1F93175BCAB3}
+    {041C1F9F-99A4-4EE6-8308-985499F91032}
+    {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
+- ID: "5a81d794-7364-4cc5-8aa9-a921d5dda4af"
+  Hint: Opening Search Results
+  Value: 
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{2CCE659B-B290-4775-ACA6-E34EF3F72343}"
+- ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
+  Hint: MediaLibrary
+  Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{AC73CB9E-A727-4EBF-8A60-7730F2280FBD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081146Z
+    - ID: "7517c0bf-69e3-4975-b141-5a2eb90ebadc"
+      Hint: SitemapMode
+      Value: 
+    - ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+      Hint: Themes
+      Type: Treelist
+      Value: |
+        {3F46272C-F3B8-4913-8C00-3816B436A4D3}
+        {028F926C-C533-496D-B827-252955E6C6AD}

@@ -1,0 +1,27 @@
+﻿---
+ID: "b3cf6e83-6d1b-4390-af00-522036a8ed34"
+Parent: "146ee91c-6e47-49a9-907d-a11e1db6228b"
+Template: "790c0f2c-1621-4604-a6c6-72b9f8ae830d"
+Path: /sitecore/content/Showcase/int/Data/Search/Dropdown Filter/Fruit Taste
+DB: master
+SharedFields:
+- ID: "38d3de1f-f23c-4587-ae30-06ec5ed73e82"
+  Hint: Facet
+  Value: "{3D0AE4A1-7405-40E6-B595-494AD2DFEA44}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161220T153046Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "938c972b-02ac-4cc1-a79e-d262ba7f2344"
+      Hint: UnselectedText
+      Value: "[any]"
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Taste

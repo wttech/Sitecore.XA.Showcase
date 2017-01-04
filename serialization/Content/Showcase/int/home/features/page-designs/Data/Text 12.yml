@@ -1,0 +1,22 @@
+﻿---
+ID: "eaf6b6c0-118c-4654-be51-f8a22c076c98"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 12"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T080608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Unlimited configurations</h2>
+        <p>You can define as many layouts as you wish. Furthermore, you can assign as many partials as you want to every design. No layout is too complicated for SXA!</p>

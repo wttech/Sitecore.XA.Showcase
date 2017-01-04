@@ -1,0 +1,22 @@
+﻿---
+ID: "eb0c1285-1215-45cf-a0e8-c3293d6a4e47"
+Parent: "ff226443-9544-432d-a79d-262fa18ef610"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/layout/Data/Text 7
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T104056Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>You can drop multiple components into a single placeholder, thus saving on some splitters.</p>
+        <p>However, we recommend using row splitters too, as they help you separate content sections, giving you control on every aspect of your layout.</p>

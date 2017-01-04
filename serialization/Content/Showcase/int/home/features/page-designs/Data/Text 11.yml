@@ -1,0 +1,22 @@
+﻿---
+ID: "4b654616-2707-4c78-b91c-6db7c92fe877"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T080223Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Consistency in style</h2>
+        <p>Show your class and taste by keeping the layout of your site consistent across all of your pages. While <b><u><a href="~/link.aspx?_id=DEEAEC7B2901402896C8567BA7396B20&amp;_z=z">Partial Designs</a></u></b> allow you to create common parts of your page, Page Designs allow you to group them in various combinations and attach them to specific kinds of pages. You can keep the base template equal on every page, while the content may vary as you can see on the screenshots below.</p>

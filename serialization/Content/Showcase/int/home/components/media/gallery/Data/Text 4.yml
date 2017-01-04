@@ -1,0 +1,20 @@
+﻿---
+ID: "68b6ee4d-208d-490d-ac6f-be87603266e2"
+Parent: "0d32d46c-8289-47b0-98e3-05d79b5dbd00"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/media/gallery/Data/Text 4
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T133022Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p>You can place Gallery component anywhere you want - in the middle of article, inside of promo or on standalone page.</p>"

@@ -1,0 +1,20 @@
+﻿---
+ID: "48463309-8040-4bb2-b0b7-186d6ead7e42"
+Parent: "12f55b86-63cf-40f2-8a89-a0217ddc0475"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/Showcase/int/home/features/partial-designs/Data/Image 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161010T132309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: "<image mediaid=\"{FFFDC478-1485-492E-8991-7E08A04B077A}\" />"

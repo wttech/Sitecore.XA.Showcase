@@ -1,0 +1,14 @@
+﻿---
+ID: "b979fc17-0c24-419d-8da3-b6f33e5de61c"
+Parent: "aa4122b9-c442-4433-8a73-8a05d9fe34a5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/contact-page-2/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T115517Z

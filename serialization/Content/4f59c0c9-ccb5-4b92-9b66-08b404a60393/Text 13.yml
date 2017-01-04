@@ -1,0 +1,22 @@
+﻿---
+ID: "594e294e-6fb6-4bba-bad6-9f06e0ced4c0"
+Parent: "4f59c0c9-ccb5-4b92-9b66-08b404a60393"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/composites/accordion/Data/Text 13
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T092114Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Any content</h2>
+        <p>You are not bound to text-only inside of accordions. Almost any content can be inserted into this component - from images through videos and even other components!</p>

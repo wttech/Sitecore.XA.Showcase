@@ -1,0 +1,30 @@
+﻿---
+ID: "88330987-1942-45e6-b31f-9194f4dcdb73"
+Parent: "acf407fd-fb99-4074-977e-2300d0c7af76"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Experience/Back
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T102307Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-line-chart"></i></span><br>
+        <br>
+        &nbsp;
+        Easily provide your users a better on-site experience<br>
+        &nbsp;<br>
+        &nbsp;</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

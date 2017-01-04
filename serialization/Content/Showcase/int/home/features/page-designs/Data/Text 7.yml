@@ -1,0 +1,23 @@
+﻿---
+ID: "4595a333-ee3c-4fdd-9f8a-ef28ccac76ae"
+Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 7"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161011T072355Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p><span style="line-height: 1.5; font-weight: normal; color: #747474;">You can rearrange partials used in Page Designs with just a few clicks.</span></p>
+        <p>Example:</p>
+        <p>For a given Content Type you want to add a general "Title &amp; Breadcrumb" that will appear on all pages of this type. It's simple. In the Designing interface you simple add that Partial Design from the library and now all pages of that type will show the new layout.</p>

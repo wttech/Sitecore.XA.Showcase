@@ -1,0 +1,23 @@
+﻿---
+ID: "f578d310-a3b1-44c4-b6ea-9869d0b65054"
+Parent: "aa85f35e-9b5a-41ed-a6c5-5fc2538269ff"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T084132Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h1 style="text-align: center;">Sitecore Experience Accelerator</h1>
+        <p style="text-align: center;">SXA is a platform and a concept that enables organisations to perform quick delivery of sites, using standardised sets of functionality with minimum-to-no CMS development. For the purpose of achieving this goal, Sitecore Experience Accelerator utilises a number of concepts, like&nbsp;grid systems&nbsp;and&nbsp;<a href="http://www.csszengarden.com/" rel="nofollow">CSS Zen Garden</a>, to allow for easy and consistent styling of pages and ease of design.</p>
+        <p style="text-align: center;">Every feature of Experience Accelerator comes with productivity in mind - it is meant to be an expert tool that enables the delivery of websites quickly, with minimum custom development. This, however, might mean something different for different people - that is why SXA clearly defines its&nbsp;target audiences&nbsp;and plans its roadmap with acute awareness of the clients.</p>

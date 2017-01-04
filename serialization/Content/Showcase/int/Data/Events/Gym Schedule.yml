@@ -1,0 +1,20 @@
+﻿---
+ID: "cccec45e-4d08-4d40-83f3-279c98501704"
+Parent: "9968f33b-afa1-40f1-bc5a-c08d1c445cee"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Showcase/int/Data/Events/Gym Schedule
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T085237Z
+    - ID: "7cffa839-9ab6-4242-9b50-65b6b1e42691"
+      Hint: GoogleCalendarAPIKey
+      Value: "https://www.google.com/calendar/feeds/laln6e0a48klarlmqu2e05u7n0%40group.calendar.google.com/private-88f11110ff1d83fae08caa1b0f46b3f1/basic"
+    - ID: "c08b42e9-c147-47d1-b50c-6274eb3a8baa"
+      Hint: Title
+      Value: Gym Schedule

@@ -1,0 +1,34 @@
+﻿---
+ID: "8b341810-70bf-4c72-b7a0-c04f0209ce83"
+Parent: "f96e1925-a3cc-4752-b969-70feb5b5d696"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Showcase/int/Showcase/Scripts/component-toogle"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8B34181070BF4C72B7A0C04F0209CE83.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "5df88683-6cee-414e-8698-fed5f88ed408"
+  Value: WEEuY29tcG9uZW50LnRvZ2dsZSA9IChmdW5jdGlvbiAoJCwgZG9jdW1lbnQpIHsNCg0KICAgIHZhciB0b29nbGVFdmVudHMgPSB7DQogICAgICAgICAgICBmb2N1czogZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgICAgICQodGhpcykuYWRkQ2xhc3MoInNob3ciKTsNCiAgICAgICAgICAgIH0sDQogICAgICAgICAgICBibHVyOiBmdW5jdGlvbiAoKSB7ICAgICAgICAgICAgICAgIA0KICAgICAgICAgICAgICAgICQodGhpcykucmVtb3ZlQ2xhc3MoInNob3ciKTsNCiAgICAgICAgICAgIH0NCg0KICAgICAgICB9Ow0KDQogICAgZnVuY3Rpb24gaW5pdEV2ZW50cyhoZWFkZXIpIHsNCiAgICAgICAgaGVhZGVyLm9uKCJtb3VzZW92ZXIiLCB0b29nbGVFdmVudHMuZm9jdXMpOw0KICAgICAgICBoZWFkZXIub24oIm1vdXNlbGVhdmUiLCB0b29nbGVFdmVudHMuYmx1cik7DQogICAgICAgIGhlYWRlci5vbigiZm9jdXMiLCB0b29nbGVFdmVudHMuZm9jdXMpOw0KICAgICAgICBoZWFkZXIub24oImJsdXIiLCB0b29nbGVFdmVudHMuYmx1cik7DQogICAgICAgIGhlYWRlci5vbigia2V5dXAiLCBmdW5jdGlvbiAoZSkgew0KICAgICAgICAgICAgaWYgKGUua2V5Q29kZSA9PSAxMykgew0KICAgICAgICAgICAgICAgICQodGhpcykuY2xpY2soKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfSk7DQogICAgfTsNCiAgICANCiAgICB2YXIgYXBpID0ge307DQoNCiAgICBhcGkuaW5pdCA9IGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdmFyIHRvb2dsZUhlYWRlcnMgPSAkKCIudG9nZ2xlLWhlYWRlcjpub3QoLmluaXRpYWxpemVkKSIpOw0KICAgICAgICBmb3IgKHZhciBpID0gMDsgaSA8IHRvb2dsZUhlYWRlcnMubGVuZ3RoOyBpKyspIHsNCiAgICAgICAgICAgIHZhciBoZWFkZXIgPSAkKHRvb2dsZUhlYWRlcnNbaV0pOw0KICAgICAgICAgICAgaW5pdEV2ZW50cyhoZWFkZXIpOw0KICAgICAgICAgICAgaGVhZGVyLmFkZENsYXNzKCJpbml0aWFsaXplZCIpOw0KICAgICAgICB9Ow0KICAgIH07DQoNCiAgICByZXR1cm4gYXBpOw0KfShqUXVlcnksIGRvY3VtZW50KSk7DQoNClhBLnJlZ2lzdGVyKCJ0b2dnbGUiLCBYQS5jb21wb25lbnQudG9nZ2xlKTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1097
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161107T145642Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin 

@@ -1,0 +1,17 @@
+﻿---
+ID: "6b92a4ba-15a4-445a-86b7-d1b9b0554eaf"
+Parent: "9968f33b-afa1-40f1-bc5a-c08d1c445cee"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Showcase/int/Data/Events/Air and Space Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T084441Z
+    - ID: "c08b42e9-c147-47d1-b50c-6274eb3a8baa"
+      Hint: Title
+      Value: Air and Space Events

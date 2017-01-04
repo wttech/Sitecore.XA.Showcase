@@ -1,0 +1,22 @@
+﻿---
+ID: "3bbbb426-50ec-4ef4-9fa1-d119f58e3a49"
+Parent: "1d9d8f4d-8641-4d29-ab75-19d25cd1388c"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/media/image/Data/Text 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T142320Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Image component</h2>
+        <p>Drop the component on the page and select a picture from the Media Library. If this simple setup is not enough you can modify the width and height and provide alternative text, as with every Sitecore image . But with Sitecore Experience Accelerator you can make your image link to a URL or add a caption under the picture.</p>

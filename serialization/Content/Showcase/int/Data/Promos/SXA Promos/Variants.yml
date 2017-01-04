@@ -1,0 +1,26 @@
+﻿---
+ID: "7c70a3d5-66ee-4a64-a93d-41ad2316c4be"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Change the way the component looks like with just a single selection. Display different fields by selecting one of available variants.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: "<image mediaid=\"{9E82020B-8DFF-465D-84C2-BC6B44841CF5}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" ></image>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T123908Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: "<link linktype=\"internal\" querystring=\"\" target=\"\" id=\"{065DCE2F-B46C-47D0-9661-248220F9F49C}\" />"

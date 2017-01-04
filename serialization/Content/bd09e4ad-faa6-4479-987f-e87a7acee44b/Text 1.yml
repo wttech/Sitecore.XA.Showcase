@@ -1,0 +1,20 @@
+﻿---
+ID: "54f538c1-fb8f-4841-8e55-52645d6f32d2"
+Parent: "bd09e4ad-faa6-4479-987f-e87a7acee44b"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 2/pricing-options/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T155038Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h3 style=\"text-align: center;\">Hosting <strong><span style=\"color: #92d050;\">Pricing Tables</span></strong> For Your Business</h3>"

@@ -1,0 +1,23 @@
+﻿---
+ID: "bfefcf9d-5abf-478f-9f2c-dc6c84d9c5b6"
+Parent: "87253ba6-a6d0-41db-aaf5-1b7df5d6ba55"
+Template: "36f45117-539a-4a13-abf8-f1f74cb4b249"
+Path: /sitecore/content/Showcase/int/Data/Flips/Experiment/Front
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T102751Z
+    - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
+      Hint: Content
+      Value: |
+        <p style="text-align: center;"><i class="fa fa-flask fa-3x"></i></p>
+        <h2 style="text-align: center;">Experiment</h2>
+        <p style="text-align: center;">Wake up an explorer in you and try to break something. Who knows what will rise from the ashes?</p>
+    - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
+      Hint: Heading
+      Value: 

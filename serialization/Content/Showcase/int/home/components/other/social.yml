@@ -1,0 +1,31 @@
+﻿---
+ID: "3516b258-6925-4341-8455-4e8670584f5c"
+Parent: "6f647235-a43c-4f65-8535-6bdcd23aba5a"
+Template: "a4c1e965-faf4-45ca-b112-050fa3161783"
+Path: /sitecore/content/Showcase/int/home/components/other/social
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1250
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Social
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Social
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T112825Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
+      Hint: SummaryTitle
+      Value: Social

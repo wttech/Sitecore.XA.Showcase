@@ -1,0 +1,14 @@
+﻿---
+ID: "96a8d9db-2efe-4774-863b-dd6d49af484e"
+Parent: "ece3343b-f1c8-427d-a7a1-fd8420e5af3e"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Showcase/int/Data/Content Tokens
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081157Z

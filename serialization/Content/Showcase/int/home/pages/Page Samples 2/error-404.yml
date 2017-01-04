@@ -1,0 +1,28 @@
+﻿---
+ID: "8ae65a02-fbe5-4628-8cb6-ca04e2844f4b"
+Parent: "77e6b044-26d1-4d41-a4e9-944a275eb0e7"
+Template: "263f833b-a4ae-4f5b-93cc-121463fd3c97"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 2/error-404"
+DB: master
+SharedFields:
+- ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
+  Hint: NavigationIcon
+  Value: "<image mediaid=\"{2B4962A9-1E7F-4BD6-A8A5-F0405FA6CF31}\" />"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Error 404
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Error 404
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T093736Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

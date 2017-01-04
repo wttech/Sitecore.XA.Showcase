@@ -1,0 +1,14 @@
+﻿---
+ID: "e7bc02eb-5c3f-43de-b151-965a798be50c"
+Parent: "d125960e-53a4-4cc0-8860-1b5af6e63343"
+Template: "44936c95-bca9-4fb3-9d98-2066a5fbbb4d"
+Path: /sitecore/content/Showcase/int/Settings/Scopes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081150Z

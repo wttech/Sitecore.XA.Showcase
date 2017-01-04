@@ -1,0 +1,24 @@
+﻿---
+ID: "d43ae257-1137-44d9-8909-1534c3cbacf5"
+Parent: "95ad1fd1-da51-4f58-8a58-d0cca9c106fc"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Showcase/int/Presentation/Available Renderings/Events
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: |
+    {52E40C93-F091-47C1-84DD-491DBCDC54B5}
+    {C71B8E71-7FF8-46B0-800E-C5621EFE1D4B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

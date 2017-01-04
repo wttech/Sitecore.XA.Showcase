@@ -1,0 +1,23 @@
+﻿---
+ID: "f4baecf5-7543-4e8a-a939-6fd262a98363"
+Parent: "f5e84096-557f-4b53-b873-959c7aa03245"
+Template: "553bdbd5-d78d-4643-9b9d-954198ec4285"
+Path: /sitecore/content/Showcase/int/home/pages/Widgets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T093506Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Customize!"
+    - ID: "4e5dd643-4cb8-4267-93d2-e35ce9104906"
+      Hint: NavigationText
+      Value: <p>Show more with SXA's wonderful capabilities.</p>
+    - ID: "e6aaaa02-c8a0-45dc-bdf8-abdadee5eeac"
+      Hint: NavigationImage
+      Value: "<image mediaid=\"{4DCA781F-C7A5-464B-9B2C-F90037E9A420}\" ></image>"

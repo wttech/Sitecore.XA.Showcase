@@ -1,0 +1,23 @@
+﻿---
+ID: "8e9fe457-e821-4079-96a5-68913993c2d3"
+Parent: "d77a2ac9-9cac-4b7c-9095-442f8893f682"
+Template: "04129321-7708-49c1-801b-aee196e1c0a8"
+Path: /sitecore/content/Showcase/int/Data/Media/pptx
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T114920Z
+    - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
+      Hint: LinkText
+      Value: PowerPoint Document
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
+      Hint: File
+      Value: "<file mediaid=\"{75B6026B-BC31-4AB7-9892-ED0BB2938B00}\" src=\"-/media/75B6026BBC314AB79892ED0BB2938B00.ashx\" />"
