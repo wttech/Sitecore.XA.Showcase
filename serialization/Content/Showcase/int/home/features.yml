@@ -37,7 +37,7 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize=20&amp;Offset&amp;FieldNames&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
+              s:par="ListSignature&amp;PageSize=20&amp;Offset&amp;Grid Parameters&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
               s:ph="/main/sxa-general-content/container-1/container-1" />
             <r
               uid="{A017821A-E9A9-4DC1-85C3-BF7BE142DE36}"
@@ -57,6 +57,9 @@ Languages:
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>Describes Sitecore Experience Accelerator features.</p>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
       Hint: ChangeFrequency
       Value: 

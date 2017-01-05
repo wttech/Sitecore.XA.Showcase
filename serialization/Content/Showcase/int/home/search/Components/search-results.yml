@@ -1,0 +1,27 @@
+﻿---
+ID: "7ea96149-acac-4d75-918a-75fbb5b6c7d9"
+Parent: "f82e2b0a-bb3e-4585-b181-7348e13da007"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/search/components/search-results"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Search Results
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
+      Hint: Title
+      Value: Search Results
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T073051Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+      Hint: Content
+      Value: "<p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">Search functionality&nbsp;can be used in millions of ways. Here, we have couple of search components which creates our example search results page:</p><p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\"><ul style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\"><li>Search Results - displays matched results</li><li>Page Size - gives us possibility to change number of items showed on single page</li><li>Sort Results - this component is used to sort search results using one of the predefined sorting schema's. There could be lot of such schema's and each of them contain field on which sort will be performed and sorting direction</li><li>Result Variant Selector - with this component we can change look of search results items. For example we can display them as a list or as some kind of boxes with images</li><li>Results Count - displays number of found items</li><li>Page Selector - with this component we can change current page and go to the first or last pages just with one click</li><li>Checklist Filter - this&nbsp;highly customizable component gives us possibility to filter results using facets</li></ul><p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\"><p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">Each of those components have lot of customization possibilities, thanks to which we will be able to change search results page as we want.</p>"

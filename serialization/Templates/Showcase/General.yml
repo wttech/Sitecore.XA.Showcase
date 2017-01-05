@@ -12,6 +12,9 @@ SharedFields:
   Hint: __Base template
   Type: tree list
   Value: "{9192E4E3-A8D2-42E3-A762-FD1DC339917F}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{CD5B7B8F-06E5-497A-A71F-34CA6006E4DD}"
 Languages:
 - Language: en
   Versions:

@@ -56,7 +56,7 @@ Languages:
               p:after="r[@uid='{E28C5623-FF77-4873-BE25-472F54F7A46B}']"
               s:ds="local:/Data/Text 32"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:par="Grid Parameters&amp;Styles={847986C1-FF5D-4B49-9477-B126B3520A97}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
               s:ph="/main/sxa-general-content/container-1/container-4/column-1-9" />
             <r
               uid="{97171A2C-D398-4090-870C-F447EED873EE}"

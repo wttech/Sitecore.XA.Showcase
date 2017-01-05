@@ -1,0 +1,26 @@
+﻿---
+ID: "6e96b5ec-5940-4fe3-97df-9070c64eb0ec"
+Parent: "223005a0-c566-4c24-95ef-5359c7aa89bf"
+Template: "ebcffae1-b6b4-4b50-b722-155e869fc430"
+Path: /sitecore/content/Showcase/int/Presentation/Page Designs/Search Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+      Hint: PartialDesigns
+      Type: Treelist
+      Value: |
+        {D4883743-732E-473E-ABC1-635CD45D9C0E}
+        {F830AB03-D7B3-414A-824D-5C6CF7C3795F}
+        {8D318D9F-90FB-4CD9-891C-700344FA3621}
+        {8EA0F1C3-E74E-44C2-BCB6-DB3C69CCC200}
+        {43492582-129C-4C7C-9B32-7D310C3D049F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170105T134953Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

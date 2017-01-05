@@ -1,0 +1,14 @@
+﻿---
+ID: "6f8babaf-c792-4e2e-9c71-9b809a0a1490"
+Parent: "ea18dc2a-b757-4295-98e9-5b4cb1df7fcc"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/search/fruits/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161208T114036Z
