@@ -10,7 +10,7 @@ SharedFields:
   Value: "-/media/C08771F8D5344DCDAD6D70EC1E46E178.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "d28f37e5-c2ec-4e2f-9811-00b316d84454"
+  BlobID: "e2a03057-1de0-4f92-967f-e9e04e0db6a2"
   Value: LnNvcnQtcmVzdWx0cyB7DQoJc2VsZWN0IHsNCgkJbWF4LXdpZHRoOiAyMDBweDsNCgl9DQp9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161118T144650Z
+      Value: 20170328T232132Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin 
+      Value: sitecore\Admin
