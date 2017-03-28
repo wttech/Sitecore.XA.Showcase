@@ -6,6 +6,9 @@ Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Metadata Parti
 DB: master
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "metadata-partial-design"
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -57,12 +60,46 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E0DCBF9E-59A8-4F0E-94F1-F2D747B968E4}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{AEE21B13-9629-4F38-83EE-D23C73C07C82}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{1B254929-1633-4A4B-8A2E-B6CE3889E651}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{2EFF3609-5C52-4A06-BD31-982496F385C1}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{F4BCD222-B019-4129-A81E-1E8C6B29A653}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{C90D67EC-640E-4C99-B620-03D4763372AA}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{8D6347DD-5B0D-4A02-85B3-82450157579A}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{0A419852-E199-4C3F-B867-0BBAA1199B17}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+            <r
+              uid="{5385319A-AA9A-4569-BC59-A9F509A226F0}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160929T081146Z
-    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
-      Hint: Signature
-      Value: "metadata-partial-design"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin

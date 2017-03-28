@@ -4,6 +4,10 @@ Parent: "76c0b01b-8e2e-467e-a75e-ea2380c32af7"
 Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
 Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/General Content
 DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "general-content"
 Languages:
 - Language: en
   Versions:
@@ -22,22 +26,19 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={C26297D2-6A59-4537-BEF4-A40C767F6F7C}"
+              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={C26297D2-6A59-4537-BEF4-A40C767F6F7C}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
             <r
               uid="{4524646B-F4E8-499E-81A0-115F6D175A11}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="BackgroundImage&amp;Styles&amp;DynamicPlaceholderId=1"
+              s:par="BackgroundImage&amp;Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="main" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T094810Z
-    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
-      Hint: Signature
-      Value: "general-content"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin

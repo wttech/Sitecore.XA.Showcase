@@ -32,7 +32,7 @@ Languages:
               uid="{F55D8CDC-CCCB-4F56-BA14-30065DC90B35}"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames&amp;Styles"
+              s:par="FieldNames&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/row-1-1" />
           </d>
         </r>
@@ -47,7 +47,7 @@ Languages:
       Value: 20161117T093800Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: |

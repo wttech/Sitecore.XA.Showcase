@@ -26,21 +26,21 @@ Languages:
               p:before="*"
               s:ds="{6B92A4BA-15A4-445A-86B7-D1B9B0554EAF}"
               s:id="{52E40C93-F091-47C1-84DD-491DBCDC54B5}"
-              s:par="ListSignature&amp;PageSize&amp;Offset&amp;Styles&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;Styles&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/column-2-1" />
             <r
               uid="{4FAF3848-30DD-431D-B007-5CC10D1BB793}"
               p:after="r[@uid='{74E36DAC-0B22-457A-BB32-296506F14903}']"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/column-1-1" />
             <r
               uid="{A57CD063-A0AC-43E6-AC1E-E5844B61D123}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={AA4EAF2D-FCD9-4452-A5B1-16FCBA5AC743}&amp;ColumnWidth2={AA4EAF2D-FCD9-4452-A5B1-16FCBA5AC743}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;ColumnWidth2={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
@@ -65,7 +65,7 @@ Languages:
       Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Event List

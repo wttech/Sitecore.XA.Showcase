@@ -4,6 +4,10 @@ Parent: "88cd22fd-94d2-4919-a49a-6e9f117d2c40"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Results/Fruit
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "example-fields"
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161220T125829Z
-    - ID: "e1d5adba-8348-4127-9bb6-455936653839"
-      Hint: CssClass
-      Value: "example-fields"

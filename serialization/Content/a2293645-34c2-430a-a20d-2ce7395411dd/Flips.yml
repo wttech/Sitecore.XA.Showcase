@@ -32,7 +32,7 @@ Languages:
               uid="{DFC8AB10-3920-4D43-9C4E-A67B9CA15A80}"
               s:ds="{3D6F58CF-A2C5-4BA7-A86C-BF98C690CED8}"
               s:id="{00C953FE-D508-4836-96A4-CF60887AE5F1}"
-              s:par="Styles&amp;DynamicPlaceholderId=1"
+              s:par="Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="section-content" />
           </d>
         </r>

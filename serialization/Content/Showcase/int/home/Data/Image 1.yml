@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{0EC3B3ED-2D78-4342-B6E3-F1B688F01CA2}\" />"
+      Value: "<image mediaid=\"{0EC3B3ED-2D78-4342-B6E3-F1B688F01CA2}\" alt=\"\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"

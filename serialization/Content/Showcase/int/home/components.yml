@@ -12,9 +12,15 @@ SharedFields:
     {A4C1E965-FAF4-45CA-B112-050FA3161783}
     {CB70A797-E500-45A2-AFA1-F6022D8A12BB}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: 
 - ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
   Hint: __Subitems Sorting
   Value: "{44D1A0D2-E17B-4DAA-ADDF-53F2E8F58525}"
+- ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+  Hint: Priority
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 75
@@ -40,20 +46,21 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={C26297D2-6A59-4537-BEF4-A40C767F6F7C}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
+              s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={C26297D2-6A59-4537-BEF4-A40C767F6F7C}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-content-placeholder/row-1-1" />
             <r
               uid="{8D4BF39F-CC20-480C-BC87-6C6C65FEF00D}"
               p:after="r[@uid='{41510AC9-B222-4128-AF74-196A01EF36CC}']"
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/row-1-1" />
             <r
               uid="{172AC381-17CD-469F-B1BB-504032399284}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1" />
           </d>
         </r>
@@ -69,20 +76,14 @@ Languages:
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>We would like to show you all the components we offer on this page, but sadly there was not enough space. Then we though about grouping them by category, but this did not work either. Finally we decided to spare a page for each component and let the flourish with their natural beauty.</p>
-    - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
-      Hint: ChangeFrequency
-      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: |
         <p>We would like to show you all the components we offer on this page but sadly there was not enough space. Then we though about grouping them by category but this did not work either. Finally we decided to spare a page for each component and let the flourish with their natural beauty.</p>
         <p>You can browse the components by category or simply use the navigation at the top.</p>
-    - ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
-      Hint: Priority
-      Value: 
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 

@@ -4,10 +4,6 @@ Parent: "16f1f7a6-dad9-40aa-ba27-3b7d4e4ea7e4"
 Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Media Link/Link from Download Section/Details Area/Media/File Size
 DB: master
-SharedFields:
-- ID: "f8cd9e83-9a1f-4def-9178-710926e161d8"
-  Hint: Tag
-  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
 Languages:
 - Language: en
   Versions:

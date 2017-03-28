@@ -5,6 +5,13 @@ Template: "9192e4e3-a8d2-42e3-a762-fd1dc339917f"
 Path: "/sitecore/content/Showcase/int/home/search/find-a-component"
 DB: master
 SharedFields:
+- ID: "1d8d2039-8412-4efa-87ff-1d540330a373"
+  Hint: Scope
+  Value: "{8A8F99AE-345C-4E2E-ADA3-C65F56069FAA}"
+- ID: "6a0971b2-7bd4-44b8-b3c4-8f76eb4b1ece"
+  Hint: DatasourceSearchScope
+  Type: Treelist
+  Value: "{2C1DB24E-0C8E-49FC-9569-F587509C3FD9}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -30,49 +37,46 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{54A41030-BFF4-49E5-90FC-42A99E602863}"
-              s:par="SearchSignature&amp;Styles&amp;AvailableVariants={E70240CC-4408-4DA4-AAED-45334DEF294E}|{416C94B7-CAD1-4617-9D0B-2C1BC4E79AF3}"
+              s:par="SearchSignature&amp;Styles&amp;AvailableVariants={E70240CC-4408-4DA4-AAED-45334DEF294E}|{416C94B7-CAD1-4617-9D0B-2C1BC4E79AF3}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1/column-1-2" />
             <r
               uid="{120326FA-CFA1-4B61-A0A4-DB2BA48AF42C}"
               p:after="r[@uid='{69245079-CC53-435B-9AB4-8C20DE1D8EDC}']"
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={AA4EAF2D-FCD9-4452-A5B1-16FCBA5AC743}&amp;ColumnWidth2={0DFFE33B-E437-4A50-BBF4-50CCC60CD96C}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=2"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;ColumnWidth2={96275667-C48B-43C7-B5E5-92CFEF77195B}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=2&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
             <r
               uid="{6CB870E6-2982-4776-B23E-46F18F836D02}"
               p:after="r[@uid='{120326FA-CFA1-4B61-A0A4-DB2BA48AF42C}']"
               s:ds="{DDD7903A-BE2E-49B9-9783-5E0FEC80593A}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="Grid Parameters&amp;SearchSignature&amp;FieldNames&amp;Styles&amp;Scope=%7B8A8F99AE-345C-4E2E-ADA3-C65F56069FAA%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:par="Grid Parameters&amp;SearchSignature&amp;FieldNames&amp;Styles&amp;Scope={8A8F99AE-345C-4E2E-ADA3-C65F56069FAA}&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
             <r
               uid="{A033FFB8-B7B5-46E4-8DEF-F1D5C9048671}"
               p:after="r[@uid='{6CB870E6-2982-4776-B23E-46F18F836D02}']"
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={E2CDC10C-E32A-4891-9A45-22F9F2289715}&amp;ColumnWidth2={51D44DE5-FAE4-416F-A791-840910666DB7}&amp;ColumnWidth3={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth4={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth5={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth6={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth7={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;ColumnWidth8={7EFC8EB3-885E-4294-9AF4-891773C15415}&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{D6220081-04A1-4FF4-96B8-A64EC99E3B5E}"
               p:after="r[@uid='{A033FFB8-B7B5-46E4-8DEF-F1D5C9048671}']"
               s:ds="{667379A4-CDDF-4338-A504-2A92155EBD6B}"
               s:id="{C4060A7D-74EF-4998-9B8A-737EDB4E41B5}"
-              s:par="SearchSignature&amp;Styles&amp;CollapsedModeTreshold=6"
+              s:par="SearchSignature&amp;Styles&amp;CollapsedModeTreshold=6&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{CA90CA2F-D772-43DF-B1E4-2202BB96D3D6}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
     - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
       Hint: Title
       Value: Find a component
-    - ID: "1d8d2039-8412-4efa-87ff-1d540330a373"
-      Hint: Scope
-      Value: "{8A8F99AE-345C-4E2E-ADA3-C65F56069FAA}"
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{6E96B5EC-5940-4FE3-97DF-9070C64EB0EC}"
@@ -87,11 +91,7 @@ Languages:
       Value: Find a component
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
-    - ID: "6a0971b2-7bd4-44b8-b3c4-8f76eb4b1ece"
-      Hint: DatasourceSearchScope
-      Type: Treelist
-      Value: "{2C1DB24E-0C8E-49FC-9569-F587509C3FD9}"
+      Value: sitecore\Admin
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: "Looking for help on a particular component?"

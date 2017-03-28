@@ -25,6 +25,7 @@ Languages:
               uid="{BA469F10-244F-4AA7-B1F2-83838C4C1F69}"
               s:ds="{8E2004CB-34AB-49DA-8D2C-E0CCA7E5BBBB}"
               s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
@@ -39,4 +40,4 @@ Languages:
       Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin

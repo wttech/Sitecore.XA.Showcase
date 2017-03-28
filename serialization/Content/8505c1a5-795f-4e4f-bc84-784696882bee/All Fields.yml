@@ -4,6 +4,10 @@ Parent: "8505c1a5-795f-4e4f-bc84-784696882bee"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/File List/All Fields
 DB: master
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: File
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160929T081201Z
-    - ID: "90294353-706a-431c-b855-cd245824d9fa"
-      Hint: LinkField
-      Value: File

@@ -4,6 +4,13 @@ Parent: "01d8718b-9947-4251-a4e8-4ad988ad14fb"
 Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
 Path: /sitecore/content/Showcase/int/Data/Maps/Cognifide Polska
 DB: master
+SharedFields:
+- ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
+  Hint: CentralPointLongitude
+  Value: 16.93638999999996
+- ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
+  Hint: CentralPointLatidiute
+  Value: 52.42820099999999
 Languages:
 - Language: en
   Versions:
@@ -12,9 +19,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161216T111708Z
-    - ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
-      Hint: CentralPointLongitude
-      Value: 16.93638999999996
-    - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
-      Hint: CentralPointLatidiute
-      Value: 52.42820099999999

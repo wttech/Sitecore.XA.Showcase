@@ -23,9 +23,18 @@ SharedFields:
 - ID: "5a81d794-7364-4cc5-8aa9-a921d5dda4af"
   Hint: Opening Search Results
   Value: 
+- ID: "7517c0bf-69e3-4975-b141-5a2eb90ebadc"
+  Hint: SitemapMode
+  Value: 
 - ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
   Hint: EditingTheme
   Value: "{2CCE659B-B290-4775-ACA6-E34EF3F72343}"
+- ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+  Hint: Themes
+  Type: Treelist
+  Value: |
+    {3F46272C-F3B8-4913-8C00-3816B436A4D3}
+    {028F926C-C533-496D-B827-252955E6C6AD}
 - ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
   Hint: MediaLibrary
   Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"
@@ -40,12 +49,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160929T081146Z
-    - ID: "7517c0bf-69e3-4975-b141-5a2eb90ebadc"
-      Hint: SitemapMode
-      Value: 
-    - ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
-      Hint: Themes
-      Type: Treelist
-      Value: |
-        {3F46272C-F3B8-4913-8C00-3816B436A4D3}
-        {028F926C-C533-496D-B827-252955E6C6AD}

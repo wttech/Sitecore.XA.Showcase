@@ -4,6 +4,10 @@ Parent: "d3a73302-9fd3-4205-99a2-92587565743f"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Playlist/Default
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "default-playlist"
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160929T081202Z
-    - ID: "e1d5adba-8348-4127-9bb6-455936653839"
-      Hint: CssClass
-      Value: "default-playlist"

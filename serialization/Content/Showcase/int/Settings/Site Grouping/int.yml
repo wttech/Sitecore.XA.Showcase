@@ -17,9 +17,6 @@ SharedFields:
 - ID: "bdda404f-9835-456a-84d2-6e9cfe6b5909"
   Hint: HtmlCacheSize
   Value: 16
-- ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
-  Hint: TargetHostName
-  Value: sxa
 Languages:
 - Language: en
   Versions:

@@ -12,6 +12,14 @@ SharedFields:
     {CB70A797-E500-45A2-AFA1-F6022D8A12BB}
     {553BDBD5-D78D-4643-9B9D-954198EC4285}
     {BDA146E9-1CD3-4955-A2DA-6676F677562F}
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 425
@@ -36,28 +44,20 @@ Languages:
               uid="{3633B3D1-C0FF-4CAF-A8D1-0F1CF0185563}"
               p:before="*"
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={31672603-F0E6-4B49-A149-6DEA85A9B0B2}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;FieldNames={31672603-F0E6-4B49-A149-6DEA85A9B0B2}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/row-1-1" />
             <r
               uid="{FF55F2E3-865E-4665-B369-3818326040EA}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;Styles1={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles2={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;Styles1={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles2={2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1" />
           </d>
         </r>
     - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
       Hint: Title
       Value: Fruits
-    - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
-      Hint: NavigationFilter
-      Type: Checklist
-      Value: |
-        {E0A2A027-0932-4878-A7D6-0416D5263EFB}
-        {61BD64D6-809E-40AE-9297-2724A19329B3}
-        {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
-        {500AE4C0-FA7B-463F-8149-EFFF7F044101}
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T085339Z
@@ -66,7 +66,7 @@ Languages:
       Value: <p>Just a list of fruits.</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: <p>Nothing to see here, just some fruits. Move along.</p>

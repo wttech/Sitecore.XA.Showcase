@@ -19,8 +19,8 @@ Languages:
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-rocket"></i></span><br>
-        <br>
+        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-rocket"></i></span><br />
+        <br />
         &nbsp;
         With SXA you start with paper plane in the morning, end with rocket at evening</p>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"

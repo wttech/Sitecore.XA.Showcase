@@ -12,6 +12,12 @@ SharedFields:
     {CB70A797-E500-45A2-AFA1-F6022D8A12BB}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
     {9192E4E3-A8D2-42E3-A762-FD1DC339917F}
+- ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
+  Hint: ChangeFrequency
+  Value: 
+- ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
+  Hint: Priority
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50
@@ -37,14 +43,14 @@ Languages:
               p:before="*"
               s:ds=""
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize=20&amp;Offset&amp;Grid Parameters&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1"
+              s:par="ListSignature&amp;PageSize=20&amp;Offset&amp;Grid Parameters&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/container-1" />
             <r
               uid="{A017821A-E9A9-4DC1-85C3-BF7BE142DE36}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1" />
           </d>
         </r>
@@ -60,12 +66,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
-    - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
-      Hint: ChangeFrequency
-      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Features
@@ -75,9 +78,6 @@ Languages:
         <p>Sitecore Experience Accelerator (SXA) accelerates deployment of responsive websites quickly and cost effectively, minimising reliance on technical skills while improving maintenance of governance standards.</p>
         <p>This tool uniquely separates front-end and back-end development enabling the parallelisation of design, content and development.  SXA has an extensive library of re-usable themes, templates and over 50 flexible components allowing you to achieve any layout imaginable.</p>
         <p>As well, SXA features the innovative Creative Exchange which accelerates and simplifies sharing of website design files between development roles and agencies. SXA provides 90% of the functionality required to deploy large numbers of websites out of the box.</p>
-    - ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
-      Hint: Priority
-      Value: 
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 

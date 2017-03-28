@@ -4,6 +4,10 @@ Parent: "1550aaef-a0f3-4815-a0f4-a03c3d82b755"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Page List/Details and Image
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "page-list-details-image"
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161012T094648Z
-    - ID: "e1d5adba-8348-4127-9bb6-455936653839"
-      Hint: CssClass
-      Value: "page-list-details-image"

@@ -4,6 +4,10 @@ Parent: "76c0b01b-8e2e-467e-a75e-ea2380c32af7"
 Template: "bf680756-b2fa-4cae-8b69-ee361080616f"
 Path: /sitecore/content/Showcase/int/Presentation/Partial Designs/Footer
 DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
 Languages:
 - Language: en
   Versions:
@@ -22,28 +26,27 @@ Languages:
               p:before="*"
               s:ds="{0BC848C0-E302-4448-A8C9-6EDDA26DC291}"
               s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/footer/row-2-1" />
             <r
               uid="{B6822695-A88A-4A45-9204-B51BF8DB6CF8}"
               p:after="r[@uid='{2121276B-D608-40BC-A401-E1F4DE2A54C5}']"
               s:ds="{C37FF16D-5BC5-4534-8C2B-CB512E93E8E9}"
               s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/footer/row-1-1" />
             <r
               uid="{5DC8E53F-26C1-40FB-AA14-0CA31891B58D}"
               p:after="*[1=2]"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;Styles1={E9BD8507-40A2-4B03-ADF4-C4524EF28F08}&amp;Styles2={EF935DDB-55FA-40B6-82AA-1078B992D17D}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:par="SplitterSize=2&amp;Styles1={E9BD8507-40A2-4B03-ADF4-C4524EF28F08}&amp;Styles2={EF935DDB-55FA-40B6-82AA-1078B992D17D}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="footer" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160929T125333Z
-    - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
-      Hint: Signature
-      Value: footer
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin

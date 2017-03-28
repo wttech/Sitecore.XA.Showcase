@@ -29,10 +29,11 @@ Languages:
               p:before="*"
               s:ds="{DE402313-2CC1-4EC6-BF20-FAEA56E93BD6}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="section-content" />
             <r
               uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
-              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
             <r
               uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
               <p:d />

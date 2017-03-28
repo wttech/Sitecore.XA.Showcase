@@ -4,6 +4,11 @@ Parent: "f82e2b0a-bb3e-4585-b181-7348e13da007"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/search/components/load-more"
 DB: master
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Type: Checklist
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
 Languages:
 - Language: en
   Fields:
@@ -16,10 +21,6 @@ Languages:
     - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
       Hint: Title
       Value: Load More
-    - ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
-      Hint: NavigationFilter
-      Type: Checklist
-      Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T072959Z

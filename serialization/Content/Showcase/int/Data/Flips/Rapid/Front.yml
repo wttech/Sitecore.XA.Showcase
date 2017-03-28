@@ -15,11 +15,11 @@ Languages:
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-paper-plane-o"></i></span><br>
-        <br>
-        <br>
-        Rapid delivery<br>
-        <br>
+        <p style="text-align: center;"><span style="font-size: 72px;"><i class="fa fa-paper-plane-o"></i></span><br />
+        <br />
+        <br />
+        Rapid delivery<br />
+        <br />
         </p>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
       Hint: Heading

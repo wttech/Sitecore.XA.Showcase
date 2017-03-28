@@ -4,6 +4,10 @@ Parent: "1b9bdc53-3d91-41bf-a7ea-220d8f8ff9fb"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Promo/Image Title Link
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "promo-image-title-link"
 Languages:
 - Language: en
   Versions:
@@ -12,6 +16,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161121T103025Z
-    - ID: "e1d5adba-8348-4127-9bb6-455936653839"
-      Hint: CssClass
-      Value: "promo-image-title-link"
