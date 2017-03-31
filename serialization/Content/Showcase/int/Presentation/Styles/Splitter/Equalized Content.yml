@@ -1,19 +1,20 @@
 ﻿---
-ID: "e415617a-e604-486b-b78e-57e93520ee1a"
+ID: "11a5c27b-9c4c-49ad-8261-3684503bc220"
 Parent: "30f800e3-4048-4d68-bc50-b3a3b2fbf267"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/Showcase/int/Presentation/Styles/Splitter/splitter-row-promo-trio-wrapper"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Splitter/Equalized Content
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "splitter-row-promo-trio-wrapper"
+  Value: "equalized-content"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Type: TreelistEx
   Value: |
-    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
     {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {C25766C8-9AFD-4D28-87FE-147774F6806D}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
 Languages:
 - Language: en
   Versions:
@@ -21,4 +22,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161121T121708Z
+      Value: 20170328T221332Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

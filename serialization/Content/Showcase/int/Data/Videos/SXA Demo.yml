@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "22379a66-606e-4205-abee-f9ac597084dd"
       Hint: PosterImage
-      Value: "<image mediaid=\"{30B8FD18-C579-4658-A5CA-E15CB46158EA}\" />"
+      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" />"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161017T103153Z
@@ -20,4 +20,4 @@ Languages:
       Value: sitecore\admin
     - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
       Hint: YoutubeMovie
-      Value: "https://www.youtube.com/watch?v=Yb_tkmKnff0"
+      Value: "https://www.youtube.com/watch?v=x4NV2dy-h9E"

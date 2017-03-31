@@ -10,11 +10,11 @@ SharedFields:
   Value: "-/media/198A5DC79655414E8A590B66C5581DE4.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "897ef13e-73dc-42e2-9211-421f5e8c8afb"
-  Value: LyogbGluZSAxLCAuLi9zYXNzL2NvbXBvbmVudC1jb2x1bW4tc3BsaXR0ZXIuc2NzcyAqLw0KLnJvdy5jb2x1bW4tc3BsaXR0ZXIgew0KICBtYXJnaW4tbGVmdDogMGVtOw0KICBtYXJnaW4tcmlnaHQ6IDBlbTsNCiAgbWF4LXdpZHRoOiBub25lOw0KCWNsZWFyOiBib3RoOyAgfQ0KICAvKiBsaW5lIDUsIC4uL3Nhc3MvY29tcG9uZW50LWNvbHVtbi1zcGxpdHRlci5zY3NzICovDQogIC5yb3cuY29sdW1uLXNwbGl0dGVyID4gZGl2IHsNCiAgICBwYWRkaW5nLWxlZnQ6IDBlbTsNCiAgICBwYWRkaW5nLXJpZ2h0OiAwZW07IH0NCg==
+  BlobID: "c3a5cf9e-7e1d-44f0-b246-7cf8592f6866"
+  Value: 
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 298
+  Value: 0
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: text/css
@@ -28,9 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170328T232357Z
+      Value: 20170331T161348Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-- Language: "pl-PL"
-  Versions:

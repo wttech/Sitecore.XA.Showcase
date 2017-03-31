@@ -21,6 +21,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: |
-        Copyright © 2015 by Cognfide. All Rights Reserved.<br>
-        Cognifide Limited, Clerkenwell House, 67 Clerkenwell Road, EC1R 5BL London, United Kingdom <strong>+44 (0)20 3475 7200</strong>
+      Value: "Copyright © 2015-2017 by Cognfide. All Rights Reserved.<br />Cognifide Limited, Clerkenwell House, 67 Clerkenwell Road, EC1R 5BL London, United Kingdom <strong>+44 (0)20 3475 7200</strong>"
