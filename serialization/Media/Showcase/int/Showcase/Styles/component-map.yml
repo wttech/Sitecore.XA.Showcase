@@ -1,5 +1,5 @@
 ﻿---
-ID: "d0992e3a-1a94-4384-bbae-2d25a5ab1b37"
+ID: "656a16c6-7fd9-465a-93ce-4c5c7553370b"
 Parent: "e03ede81-1c99-4d57-967b-2210b811c675"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Project/Showcase/int/Showcase/Styles/component-map"
@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/D0992E3A1A944384BBAE2D25A5AB1B37.ashx?h=16&thn=1&w=16"
+  Value: "-/media/656A16C67FD9465A93CE4C5C7553370B.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "dc1ea11a-1bb1-4cdb-aa63-64032ad4909b"
+  BlobID: "3e83858d-5c99-4bcb-8595-77f121f2dedc"
   Value: LyogYnJlYWtwb2ludHMgKi8NCi8qJGZvbnQtc3RhY2stcHJpbWFyeTogJ3B0X3NhbnNyZWd1bGFyJywgQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsNCiRmb250LXN0YWNrLXNlY29uZGFyeTogJ011c2VvU2xhYi01MDAnLCBhcmlhbCwgaGVsdmV0aWNhLCBzYW5zLXNlcmlmOyovDQovKiBsaW5lIDQsIC4uL1Nhc3MvY29tcG9uZW50LW1hcC5zY3NzICovDQoubWFwIHsNCiAgbWF4LXdpZHRoOiAxMDAlOw0KICBvdmVyZmxvdzogaGlkZGVuOw0KICBwb3NpdGlvbjogcmVsYXRpdmU7DQogIGJhY2tncm91bmQ6ICNmZmY7IH0NCiAgLyogbGluZSA5LCAuLi9TYXNzL2NvbXBvbmVudC1tYXAuc2NzcyAqLw0KICAubWFwIGltZyB7DQogICAgbWF4LXdpZHRoOiBub25lOyB9DQogIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTU5cHgpIHsNCiAgICAvKiBsaW5lIDQsIC4uL1Nhc3MvY29tcG9uZW50LW1hcC5zY3NzICovDQogICAgLm1hcCB7DQogICAgICBjbGVhcjogYm90aDsNCiAgICAgIG1hcmdpbi10b3A6IDMwcHg7IH0gfQ0K
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170331T161351Z
+      Value: 20170403T074757Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

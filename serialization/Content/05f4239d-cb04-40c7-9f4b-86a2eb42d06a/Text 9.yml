@@ -18,8 +18,8 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        For a great deal of content, you can begin the process of authoring before you even have any layouts produced. In Sitecore, much of the core content of the site (such as articles or products etc.) will be produced using an Article template. Authors can be entering the core article content via the Sitecore Content Editor or a temporary wireframe layout in the Experience Editor. As long as they have access to the core fields (such as main, the body-text and images), these can be placed or moved later by the UX designer using SXA.<br>
-        <br>
-        This is possible because layouts for core content are managed using <a href="~/link.aspx?_id=F20F7A73245B4284B50930EA4541F97E&amp;_z=z">Partial Designs</a>. So while the content editors are working, this partial design can be altered without affecting their work. Or, it can be completely replaced with a new one later, by simply switching to a different partial in a <a href="~/link.aspx?_id=2DBC94CDC8E84127B3BCE9598D15C6EB&amp;_z=z">Design</a>.<br>
-        <br>
+        For a great deal of content, you can begin the process of authoring before you even have any layouts produced. In Sitecore, much of the core content of the site (such as articles or products etc.) will be produced using an Article template. Authors can be entering the core article content via the Sitecore Content Editor or a temporary wireframe layout in the Experience Editor. As long as they have access to the core fields (such as main, the body-text and images), these can be placed or moved later by the UX designer using SXA.<br />
+        <br />
+        This is possible because layouts for core content are managed using <a href="~/link.aspx?_id=F20F7A73245B4284B50930EA4541F97E&amp;_z=z">Partial Designs</a>. So while the content editors are working, this partial design can be altered without affecting their work. Or, it can be completely replaced with a new one later, by simply switching to a different partial in a <a href="~/link.aspx?_id=2DBC94CDC8E84127B3BCE9598D15C6EB&amp;_z=z">Design</a>.<br />
+        <br />
         For large operations, put some thought into the experience of your authors as the website is developing. We can provide consultancy on how best to use SXA in parallel production scenarios - there are many different way that SXA can facilitate your needs.

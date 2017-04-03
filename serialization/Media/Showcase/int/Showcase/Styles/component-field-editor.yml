@@ -1,5 +1,5 @@
 ﻿---
-ID: "180cdda8-98d4-49f8-bdd0-812f9c97748c"
+ID: "c4b43796-e061-42c9-913b-39daa47ffa8c"
 Parent: "e03ede81-1c99-4d57-967b-2210b811c675"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Project/Showcase/int/Showcase/Styles/component-field-editor"
@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/180CDDA898D449F8BDD0812F9C97748C.ashx?h=16&thn=1&w=16"
+  Value: "-/media/C4B43796E06142C9913B39DAA47FFA8C.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "8769db80-36e8-4fa5-948c-942897a9b85f"
+  BlobID: "654ed398-14eb-433b-80d5-be8921617770"
   Value: LyogYnJlYWtwb2ludHMgKi8NCi8qJGZvbnQtc3RhY2stcHJpbWFyeTogJ3B0X3NhbnNyZWd1bGFyJywgQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZjsNCiRmb250LXN0YWNrLXNlY29uZGFyeTogJ011c2VvU2xhYi01MDAnLCBhcmlhbCwgaGVsdmV0aWNhLCBzYW5zLXNlcmlmOyovDQovKiBsaW5lIDUsIC4uL1Nhc3MvY29tcG9uZW50LWZpZWxkLWVkaXRvci5zY3NzICovDQouZmllbGQtZWRpdG9yIC5maWVsZC10YWJsZSB7DQogIGJvcmRlci1jb2xsYXBzZTogY29sbGFwc2U7DQogIHdpZHRoOiAxMDAlOyB9DQogIC8qIGxpbmUgOSwgLi4vU2Fzcy9jb21wb25lbnQtZmllbGQtZWRpdG9yLnNjc3MgKi8NCiAgLmZpZWxkLWVkaXRvciAuZmllbGQtdGFibGUgdGgsDQogIC5maWVsZC1lZGl0b3IgLmZpZWxkLXRhYmxlIHRkIHsNCiAgICBib3JkZXI6IG5vbmU7DQogICAgcGFkZGluZzogNXB4IDEwcHg7IH0NCiAgLyogbGluZSAxNCwgLi4vU2Fzcy9jb21wb25lbnQtZmllbGQtZWRpdG9yLnNjc3MgKi8NCiAgLmZpZWxkLWVkaXRvciAuZmllbGQtdGFibGUgdGggew0KICAgIGNvbG9yOiAjMjIyOw0KICAgIHBhZGRpbmc6IDAgMTBweDsNCiAgICB0ZXh0LWFsaWduOiBsZWZ0Ow0KICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7IH0NCiAgLyogbGluZSAyMCwgLi4vU2Fzcy9jb21wb25lbnQtZmllbGQtZWRpdG9yLnNjc3MgKi8NCiAgLmZpZWxkLWVkaXRvciAuZmllbGQtdGFibGUgdGQgew0KICAgIGNvbG9yOiAjM0YzRjNGOw0KICAgIHRleHQtYWxpZ246IGxlZnQ7DQogICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsgfQ0KICAvKiBsaW5lIDI3LCAuLi9TYXNzL2NvbXBvbmVudC1maWVsZC1lZGl0b3Iuc2NzcyAqLw0KICAuZmllbGQtZWRpdG9yIC5maWVsZC10YWJsZSB0cjpudGgtY2hpbGQoMm4rMSkgew0KICAgIGJhY2tncm91bmQtY29sb3I6ICNmNmY2ZjY7IH0NCiAgLyogbGluZSAzMiwgLi4vU2Fzcy9jb21wb25lbnQtZmllbGQtZWRpdG9yLnNjc3MgKi8NCiAgLmZpZWxkLWVkaXRvciAuZmllbGQtdGFibGUgaW1nIHsNCiAgICBtYXgtd2lkdGg6IDE1MHB4OyB9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170331T161350Z
+      Value: 20170403T074750Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

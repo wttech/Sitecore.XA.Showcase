@@ -1,5 +1,5 @@
 ﻿---
-ID: "c63a1660-1daa-44c0-a61e-6c259bbacb8c"
+ID: "9b850b34-5d85-4641-b0c1-d2fe6ced5b18"
 Parent: "e03ede81-1c99-4d57-967b-2210b811c675"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Project/Showcase/int/Showcase/Styles/component-divider"
@@ -7,11 +7,11 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/C63A16601DAA44C0A61E6C259BBACB8C.ashx?h=16&thn=1&w=16"
+  Value: "-/media/9B850B345D854641B0C1D2FE6CED5B18.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "3ce458f2-6890-420f-82c3-3ce0d1d09e57"
-  Value: LyogbGluZSA0LCAuLi9zYXNzL2NvbXBvbmVudC1kaXZpZGVyLnNjc3MgKi8NCi5kaXZpZGVyIGhyIHsNCiAgaGVpZ2h0OiA2cHg7DQogIGJvcmRlcjogMDsgfQ0KLyogbGluZSA5LCAuLi9zYXNzL2NvbXBvbmVudC1kaXZpZGVyLnNjc3MgKi8NCi5kaXZpZGVyLmRpdmlkZXItZGFzaGVkIHsNCiAgaGVpZ2h0OiA2cHg7DQogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Ow0KICBib3JkZXItdG9wOiAxcHggc29saWQgI2QyZDJkMjsNCiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkMmQyZDI7IH0NCg==
+  BlobID: "0994ad36-2faf-4015-8755-a8d8c5c67f43"
+  Value: LyogbGluZSA0LCAuLi9TYXNzL2NvbXBvbmVudC1kaXZpZGVyLnNjc3MgKi8NCi5kaXZpZGVyIGhyIHsNCiAgaGVpZ2h0OiA2cHg7DQogIGJvcmRlcjogMDsgfQ0KLyogbGluZSA5LCAuLi9TYXNzL2NvbXBvbmVudC1kaXZpZGVyLnNjc3MgKi8NCi5kaXZpZGVyLmRpdmlkZXItZGFzaGVkIHsNCiAgaGVpZ2h0OiA2cHg7DQogIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Ow0KICBib3JkZXItdG9wOiAxcHggc29saWQgI2QyZDJkMjsNCiAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkMmQyZDI7IH0NCg==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
   Value: 283
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170331T161349Z
+      Value: 20170403T074747Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
