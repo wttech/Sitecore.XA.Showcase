@@ -1,0 +1,43 @@
+﻿---
+ID: "dd7e4938-9358-446d-b07b-c4d44851b672"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/arrow_loop
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DD7E49389358446DB07BC4D44851B672.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e532b754-c9cf-4938-845d-1ce445fa6fd2"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAB60lEQVR42u1YPU8CQRAlsTNRY2y1tNXWxMKY2Bj3jpjoT7CyQWJjjMDtEtT/YGJpQkck7C5aWfBHtDLGykrix8yBFHDLAcvdoc5LJhz7Mbx3szs7SypFIBAIBMJ/g3tZmWGeOmBcVVyuHh2ummj4jG3Yh2Mmjvh+uTwFRDNgr2BfIYZjMjhnMshf3M05XOoBiHeZ1Dg3UfJO4XYayDSGJ9+xBvpIToDQVxbkWwY+ktmwvL4OBD6tBYAP9BX/2+eqaiIFWechLdSWv8TA8Bnb+oioxkp+t3S/0E6RPWQY1zdBGQbbsM8goIk+41s+QroGIi/bhdqsaR724ZjAqIHP2AQwLrMGAdcDLL3r4MjJbJzrPxdIwlM8VDyMMYjPdUVr0RXqDA0y1SlE6AQ+j+BEX/0VEWBC7xl+48M6WnHtARCRN2cufTyygJ3z6rzryUKQOcXamqleGiULRSZimHLD9hzwX4yNiDGctqEncbqol2CDvo/mI0REpALatZB9XdVHRIQCGj9LDLOLrT9jTRUN+dZ9gIn6Mnx/HodP11ObcQjo3MjcvFyB0D+Nxa+nilEtoZ47sZ9ShTqEvrfIyU8C+p4FRJ7IG8mbirmBqt7EgeU0lth++Q1vm3m61CrFaxv0FyKBQCAQCATCH8c3i+hCl1tTbr8AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 548
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133038Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

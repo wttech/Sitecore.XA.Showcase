@@ -131,3 +131,9 @@ Languages:
       Value: |
         <p>Toggle component displays a collapsible content panel for presenting information. In order to expand/collapse content the user needs to click toggle's header. There is a property that lets the user to toggle content on mouseover as well.</p>
         <p>Within the toggle the content can be made up from various other drag and droppable components.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Page Structure
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{0C31556C-EF56-41CB-892F-B8BBE3173778}\" />"

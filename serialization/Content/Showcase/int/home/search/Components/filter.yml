@@ -22,3 +22,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{75D28746-4041-44C4-BEB5-B2A2D9D7A8FB}\" />"

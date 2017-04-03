@@ -1,0 +1,43 @@
+﻿---
+ID: "6d29f937-6f26-416c-a0b0-67c84c88f6ca"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/calendar_31
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/6D29F9376F26416CA0B067C84C88F6CA.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2da75a1a-2064-45ee-afb7-042080b24e44"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABvElEQVR42u2YvU7DMBDHC0JiYOEJYGPmCRATA5LLK/AK7JVip9kqMfhJ2JLAUPEEvEJ4gwwMSFExd8WWIhOLfDhxLHzSX21yd/b9GufidLEIFmwai6LoglJagASoAm3qfjyW59FfYLyNXGsGA6/kBEqV5q80/8pGrk0Aqk0iNL/QRG3k/m8AQl/OyDp/cAWAc2MNvYpfJvkVibMPkHAGAHNjDVhLd4B19iYHcA0gsJbuyyfOdmoAGO/Q1Emu6fbI1ElkXu9cNT/W0gdAJYtb+nxp6uUkTu9NvRzzhuTWaxgEQFj2erPJT37FsOwO/BV+6j6Mx7xBudYAfvROWPq4ZCmF7wz0VFtmO3nM9n6I28fbybUG4FQBIAAEgADgGYD3RmvmZQ2mnePEAP1rMCVzzo/hHAeVDdtgJfRxjNXGLJriJwWQxYuW4n/s+50AlB0AyjkCbJWSJDnX8/CcreJGAbCVO1sAL68AxJzCa+AXSlvfhTcA+o0JMJ+MMeItgFdXAE0IcYAKXSg8Bxw8idv85TjrvdCkAAN3o+4BvH8fCAATAnTpNmOr7APAZwTAOwO07Daj//JN3SxYMIv2DSb5BerGm51ZAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 501
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133039Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

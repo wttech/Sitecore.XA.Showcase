@@ -1,0 +1,43 @@
+﻿---
+ID: "466296b0-3f8a-44eb-aad3-81746a083dec"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/calendar_clock
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/466296B03F8A44EBAAD381746A083DEC.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b5bb07d9-69e2-44f0-ba97-073641e062b6"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADpUlEQVR42u1YzWsTQRSPWihYpNCePIgniyeRnnvwomLJ1g9QD5WC2KOH/AGFzG4+SAhV3B5y95b2Uii6myq0eiz14K3H9CKCl3iosUizvpfO1Mkwszu7G5KNZODH7s6+mXm/N+9jdlOpURu14WiEkCnAMqAGOAAcZbPZNl7pc42+n0qU4oVC4TIoVQX8AngaQLkqjhu48mDhJVCmqam4iCaOH4jinuedAwVWJUrtATKA2XK5fAnl8IrPtH9PMmYV5frt76LyB6Zp3tYZi3I0JrpI9Ntt+MU3KpXKxF3iThmm88qw3NdBc6A8juPn6Ys70YDlfX5jfX39wsPix+m05X4D5T3AiUHc2aC5cJxAohk6sGHQedjS5+S0rYAVZgRrz2A/4BGVr/Jug5ZksqD4FiXgLVju55SGX9Od4N2pGooAVZ53h4ZAsEG39xnN8y0mK/r8fPbdDCh/zEikzfpT2Zool85tXxNigq3fClUnqOW7soLwHvv+lEqlSVqEzrKNbD7DciqMAODQIFsX2bvHpQ+T9P2xkXO/3iI7Y9w6fHZa7jWBL/S+xsllZPOdKul+/+dKzoaRqz+A4H7B93d2yHKXuHUy3Ny1XhN4S+95X1UGKVXW8wPGyELWucGtM8vHllLhe/b7cVjAhkmaIQiU6f0Rk8HipCSAFlcrf9iJDSHAabFjOhylfKxjs8lCECA0I7WZjF/lTFvOitzq4E5cTEgqO6sHbTUBsHwEAr3ZAehXjdHfAW5CDDhVGr2fr1/h0mioGMDaAvNvCgQ2sd9njF4MCIH0UlbI7lTqExhkeMVnrAG6WaiLBFi8405w9VM+VBYSrPIbSeBOsEXnyfZNw3Q/dd7DFZ/Z4jp1IMbhUK8OBKU3FSBzLAZV4qgtVCWOSsCw6rtBZ6EoLfRZKDoBQN6ZU51Goygf6TQahwDEyz6eX1TfAxEsH/57YMF0SBwYpH59oF9kmFEYhvKb2KfiNmR/DngZ27bHoc8G/IDtfjKQvxIBRwYv4Fhhc+9OACZgjPsv1NJUvBX5v1BMAjJL7wPm8H2xWJzW+TOHcnEqnlQ5TZI7DPl8/ir24ZXK7kJwLvbjf05kAhEIl+kZq5xYAtwO+LplIghwWUiVdZqJJiBkIRnWkk5AaXlUHnco6QTO+lkWirvWwAgQRRsmAjqFb0QgKgGVSwS2RBBI9Foxjr5x8LOXBOwBEFjrGQF6HHhDPybaMvTS8rICl7iGn4MypEbtP2l/AWLcTJ9WduFMAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 990
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133039Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

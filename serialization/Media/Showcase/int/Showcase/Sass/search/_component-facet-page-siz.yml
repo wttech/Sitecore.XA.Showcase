@@ -10,11 +10,11 @@ SharedFields:
   Value: "-/media/D30BD805005C4796A0136455C8989B10.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "8229625c-9011-4297-877c-16801808fb0d"
-  Value: LnBhZ2Utc2l6ZSB7DQoJc2VsZWN0IHsNCgkJbWF4LXdpZHRoOiAxMDBweDsNCgl9DQp9
+  BlobID: "c6b1176b-4a88-4389-a299-8b122023b5a9"
+  Value: LnBhZ2Utc2l6ZSB7DQoJbWFyZ2luOiAyNXB4IDAgMCAwOw0KCXNlbGVjdCB7DQoJCWJhY2tncm91bmQ6IHVybCguLi9JbWFnZXMvZGQtZG93bi5wbmcpIDk2JSAvIDE1JSBuby1yZXBlYXQgI2ZmZjsNCgkJbWF4LXdpZHRoOiAxMDBweDsNCgkJZmxvYXQ6bm9uZTsNCgkJbWFyZ2luLWxlZnQ6NnB4Ow0KCX0NCn0=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 51
+  Value: 176
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: "application/octet-stream"
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170331T161339Z
+      Value: 20170403T161855Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

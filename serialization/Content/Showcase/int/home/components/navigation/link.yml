@@ -370,3 +370,9 @@ Languages:
       Value: |
         <p>You might think that a hyperlink is not something worth having its own dedicated component. Trust us, it is. There are a number of possible ways you can spoil a link, where a typo in the URL is only your smallest problem. Just imagine a typo in your biggest client's name which might be 'Master Tennis Association' - that would be a shame!</p>
         <p>With a set of links you will remove such hazards from your site and make sure all your hyperlinks lead exactly where they should, in a browser window you would expect, with a correct class and a proper description.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Navigation
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{1A2E024C-42B5-4862-84DE-F6005C22B7DE}\" />"

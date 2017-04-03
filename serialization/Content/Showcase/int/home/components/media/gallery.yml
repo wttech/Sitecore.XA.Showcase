@@ -114,3 +114,9 @@ Languages:
       Value: |
         <p>They say a picture is worth a thousand words. Well, with the Gallery component you can tell your story in a simple and beautiful way.</p>
         <p>Mix images and videos to strengthen your message and make it even more attractive. You are doing great work, make sure the world will see and appreciate it. The gallery component has a wide range of possible usages and styles all available to the author in a single component.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Media
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{97556AAF-83BA-449E-836C-A8697234F336}\" />"

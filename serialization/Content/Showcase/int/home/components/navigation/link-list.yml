@@ -150,3 +150,12 @@ Languages:
       Value: |
         <p>The Link list component is used to display a list of links or text paragraphs preceded by a title if needed. Links which are used by this component are defined in the content editor and grouped in one list. Each link item contains a target location field in which we can put certain links and if you want to work with texts then a new text item can be added to the link.</p>
         <p>As already mentioned all those items are grouped into one list which can have an additional title.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Navigation
+    - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
+      Hint: ComponentType
+      Value: Rendering Variant
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{7028017A-B690-4CE5-9171-0AE8D09E26B4}\" />"

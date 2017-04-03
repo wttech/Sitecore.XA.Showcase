@@ -147,3 +147,12 @@ Languages:
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: "<p>You think you need it, we know you will love it! Our promo boxes will make your products or services shine! Highlight contents of your site to get more visitors attention and sell your product more easily.</p>"
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Page Content
+    - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
+      Hint: ComponentType
+      Value: Rendering Variant
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{B6588377-600D-4D89-9793-730358BF685D}\" />"

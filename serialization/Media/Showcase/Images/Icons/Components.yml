@@ -1,0 +1,14 @@
+﻿---
+ID: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Parent: "192055fe-77aa-41ae-a70c-ff3e3c6d7638"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T124701Z

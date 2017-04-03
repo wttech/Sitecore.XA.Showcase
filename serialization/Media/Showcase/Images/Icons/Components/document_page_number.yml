@@ -1,0 +1,43 @@
+﻿---
+ID: "3aa02f09-e8fc-4737-9c4b-935e0413ed06"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/document_page_number
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3AA02F09E8FC47379C4B935E0413ED06.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e4a6c2c7-2b8c-4357-a7e6-c409a6b27c25"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACFElEQVR42u2Zv0vDUBDHHTqo/4AiCP5YXB1Ex+qoSRREnR3cBR26SF5eKgiCo5OL4FDsKG1epKCjo4uzOinddOnU1EvpozFJ0zZ9PxLIwREe17T3ubz3vQsdG8ssMz6GEGrxdF3XHbjWwcsY49XUAfi8CV5IMwB1xAWAcWFy4KfcIXgBeCC8Sb9714Zh6IkGCNmic8whRAJ01mwhRAP0goitTjIAekA0Y/UJwWegn5fTDlBPNYA7diQOYNhmJwxA0x9nNJOcaYaF2m6Skzx6ytG4YtgHNKaYtq4Wq2uDNDtxAJCYiknL69tFe9aN7V3dT8C68S9u2jdcdkHcm1VsP/sAPrpwZN0PpxjkMDEAYRXWMLmNejrwBOYTA6CYVj6qwlFPRxoAJHgEiTiByg7nTthWEgIAVa2MmDz1feEArjzCD/8wSN7RzmtTwgE0XF1mVP03KWdARQ+TsIUK7aaEyUsgMYNctJUHroHDDZ+nDQ2UaEO6CkUpTD91ki6jcBbGWeq/cIAY+v/JfaAc5uawCm+h2sIg3VkagGZadwzUp6Eie0k4AG/95w6gYmuFp/4LACDHLADgoF9LAdgxq4vu21Tn8H75EvvuNihSCsonKdG3Mfd7pKpQnPmfqlMiZJT1/C9+mIvosKPov7hhDluXPoBXGttElWlY/3piTRjqdhMFIPJ/ugwg1QBJ8AwgdQCZZTaY/QEyJr0OF2TR5QAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 589
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

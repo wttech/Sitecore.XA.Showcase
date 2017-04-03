@@ -74,3 +74,9 @@ Languages:
       Value: |
         <p>SXA is shipped with two components dedicated for presenting information about events: <strong>Event List</strong> and <strong>Event Calendar</strong>.</p>
         <p><strong>Event List</strong> displays an enumeration of events. For each entry it shows the name and date of the occurrence, accompanied by any other details like venue, description or a web link. The list of events is editable and you can directly update the information displayed on it when in authoring mode. Each event is represented as a content item in Sitecore, so these can be easily managed, ordered, and undergo a publishing workflow.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Events
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{466296B0-3F8A-44EB-AAD3-81746A083DEC}\" />"

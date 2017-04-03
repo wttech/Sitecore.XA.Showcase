@@ -306,3 +306,9 @@ Languages:
         </p>
         <p>The arsenal Sitecore offers is indeed rich. But thanks to Experience Accelerator it is even more powerful. You can create nice looking snippets of text using tailored and carefully set up rich text editor and then reuse them all over your page.</p>
         <p>Just look at the examples below.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Page Content
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{D9EA30ED-BF2D-4934-8508-CA85623DB604}\" />"

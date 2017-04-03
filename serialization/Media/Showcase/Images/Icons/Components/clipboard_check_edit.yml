@@ -1,0 +1,43 @@
+﻿---
+ID: "a36380de-2020-403a-955f-19121d20fa64"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/clipboard_check_edit
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A36380DE2020403A955F19121D20FA64.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4a76b424-0e96-4940-9d39-b74e4ca807bb"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADAElEQVR42u2Zv2/TQBTHw4CArSoDqvhRWFjYurKwIaokICQkkPgHGPgxVRCEff6lLqgDW6bsLChCrW2BlAUBWQobVAiFP4CigFTEUpn3orv2fLXj+HK2T1VOeopzPr/3+d69u/OPWm1WDhbP8xYsy7pDCGmh4THWaQ9u2/YlAO6C7YJFgmFdF9toCW+a5m2wfxzwV9d1F9HwmNVjG2yrU69fBqAVgNsRenyVtcFj4dwOXoPXVgYOEHMAESSkytgREI36mKsiZcbB5zL0VXraCJOzQ/KXDj/ZS00nmvNMQGeKNOxwo7BSGHC0cf/Yr77xYvujMaSBCSeAYB2ci/LYGD9DjIUxlQmg8HxggwvsjAJ/MEgeo34czo/BdwTGVCYAe4UXQHdZFngLV5q8PunqtMX8oE9hJIcqBcSGvt1uH6U7bqTIuugzKVYhArhJuAQ9dw/sWd4lCK/Ba9HHJLEKEVBE4WL90FZAww4eoaXF+tk3Nv/0n5y8QnrHr7vhWa0ENC2fAHyEhsfieYT//Z7M3yD++Ybtfx+1tYLntSg6UrkAHp6z2EjswweDWDvLX5MWoUJACnyUlEpQ9yqxrayISQU0nPBCHngxhbDn0a6SYB7ObyoTMYkABll3QlMWnqbNIEtE3fYfKBWA0LEAVIQEPGuTIcJvKxOAaZOS2z1J+CwRgwZ5c67QEUizHPBpIkb/C5nEWSIk4A+IWHbXFwtdRqfI+SzrlbYTiyIUwMulzTQbGROhBbzsTixuapXBq7iVqBRehQC4m+znhcebOi0ELJvrF+nuuQq/XyaFx9tqLQQAVAts9xrZOHPTCxbGiIjBa/NICWCfofffsf8pIvZynsFrIWAvfZzwKV9PRXxLmrBaPdTT9EHI7QYJluru69NNJ3iII4JplbTaaCUAYD/tp0n4l0JHtL7V9N6eKuUNiIzTW2svTzBgHhrTqvRXONIjYPt3oecfZ0Ef1hdbMwGHSsAw7wcMBabu9Tr/gaMsU/qBg//EVEbPK//ENCuzkl7+A4yl/QQ31cU8AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 825
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

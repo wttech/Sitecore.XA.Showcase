@@ -18,6 +18,6 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p style="text-align: center;"><img src="/~/icon/Software/48x48/components.png" alt="search box"></p>
+        <p style="text-align: center;"><img alt="Puzzle" src="-/media/8DC2C34FDD264BFFB946DA512842A8E4.ashx?h=128&amp;w=128" style="height: 128px; width: 128px;" /></p>
         <h2 style="text-align: center;">Flexible</h2>
         <p style="text-align: center;">Build tailored search pages utilizing numerous available search components.</p>

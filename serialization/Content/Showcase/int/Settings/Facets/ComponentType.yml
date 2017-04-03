@@ -1,0 +1,27 @@
+﻿---
+ID: "01fccc29-58c9-46ed-9964-60fa2f88ea25"
+Parent: "f3b5f9bc-90b6-4c94-8f79-bdff26a630d7"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Showcase/int/Settings/Facets/ComponentType
+DB: master
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: componenttype
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T151731Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Component Type
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "5de17054-0141-4e58-935b-fec623a60806"
+      Hint: DisplayName
+      Value: Component Type

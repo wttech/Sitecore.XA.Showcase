@@ -129,3 +129,9 @@ Languages:
       Value: |
         <p>SXA is shipped with two components dedicated for presenting information about events: <strong>Event List</strong> and <strong>Event Calendar</strong>.</p>
         <p><strong>Event Calendar</strong> allows you to present your events using an interactive calendar widget. Calendar can operate in various configurable modes, e.g. show a month, week or day at a time, browsing can be enabled or disabled. A powerful feature of this component is the ability to display events coming from an external source. It can be configured to fetch events from an existing Google Calendar feed. If you use that already, you can start showing your events right away. In case you use other software to manage your calendar of events, you will likely be able to use the popular iCalendar (.ics) format to import it into Google Calendar.</p>
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Events
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{6D29F937-6F26-416C-A0B0-67C84C88F6CA}\" />"

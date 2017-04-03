@@ -134,3 +134,9 @@ Languages:
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: "<p>A generic component that allows you to include a piece of HTML markup directly. This comes in handy when you need to do something very specific, like embedding a third-party component (widget, tracking script, etc.), or when none of the available components suits your custom needs.</p>"
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Page Content
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{A9A4D298-B075-46FC-920E-E7035C065C38}\" />"

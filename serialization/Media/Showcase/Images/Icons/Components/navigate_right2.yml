@@ -1,0 +1,43 @@
+﻿---
+ID: "1aba3411-fe99-47ae-9ade-31d0e18bfa55"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/navigate_right2
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1ABA3411FE9947AE9ADE31D0E18BFA55.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f6cf4aa6-2d7a-4539-8f84-67f2a6e218a0"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACfElEQVR42u2ZSU9UQRCAxwQ9iUvixiL+Av6DoEZneO8NmMzBP+Av0JtkeplhE0S9eeAPGJQYGLobiKNBUIEDiyIoejLx4MELoHJ5FmEYGh2Wwh7GN3YldemX6q6vq7urul8oZMWKleIWj8o6l6nPLpNPXdJ7Amt//cHEQYfJLrD/Cv3c2F/nufBg4J+gfkYnMRCrzoNNt2bvO0zc2hfnXSqjvzm/plxOhZv6T+7S+Ud/2IN6XDbm13mu6nM6n1U13RBXp7ayj5GHhzymHm9tD5HgKp4352HNrmw3eCYSM7kgzpN0CXzv2dF+NRJUEPMATH7ZzeAZfeMlh07r9g4VDQh736GSmQYYwjgA+jZCUmfW7aMsVb398ssRCaa4MYC65r7jLhXjSIhZHcKhyoW2H8g+ksYg6kn6GHQ4hnTg3dWkLNucP3AQAN5kFoLK11gILz5Qno0EFxFo+47qg8oWYxCxlsGjcCK9QkLM6RAuVWEsBIzZahQCnHiJ25Ry3kn0VmxkdHkFHQkmbhuDCJP+I9DpKDIS78GuMns4UHEZEuAycjm1G4WAM3sECfEhmlBnNza2uoSHEHdCvn/ATHHX+qQUQvsCCbGgQ0S5vAhtS8g+Os1CUDmMXM8fXTJYpWXrC3gIdc8YRIykDwPEc+QsfookUue0mqsWDUHFfbMQTD3DQuilOCS7GmhbRJ1wVLWZu/BAIYd1AGbx2qbij4ubyEn4ZiMQ6D0Q6FOoUHkAEujdv3Y+0Jm4ULUQFIUd/3c1Wqj7gJGjco83srl/4kZWqDsxLJtm+yoR+Heh4L/MBf1tVJvFYL5OF8X/gaL4Q6PtCSew/8isWLFiJe/yCxMpyMWwEDv5AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 693
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
