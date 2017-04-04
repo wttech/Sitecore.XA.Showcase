@@ -15,7 +15,7 @@ Languages:
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <div style="text-align: center;"><img height="1160" alt="wireframe-theme" width="1016" src="-/media/3B39EA2C960542DAB1A9BDBCBCFEEB95.ashx"></div>
+        <div style="text-align: center;"><img alt="wireframe-theme" src="-/media/3B39EA2C960542DAB1A9BDBCBCFEEB95.ashx?h=115%&amp;w=100%" style="height: 115%; width: 100%;" /></div>
         <h2 style="text-align: center;">Start with a template</h2>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
       Hint: Heading

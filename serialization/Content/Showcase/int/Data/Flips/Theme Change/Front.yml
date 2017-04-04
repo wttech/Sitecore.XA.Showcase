@@ -9,16 +9,32 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BB48912A-7AEE-4E2E-AE72-D92F30920D05}"
+              s:par="GridParameters&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{EB0BDF84-8C04-45C8-BA20-83AF11E92B7A}"
+              s:par="GridParameters&amp;FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161011T094504Z
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <p style="text-align: center;"><img alt="avada" src="-/media/B586E470B943474199A47FB4D687E26E.ashx?h=282&amp;w=743&amp;hash=CDE274C63412AB08FC432C0B6C3C3F72A9A9DC5F&amp;hash=CDE274C63412AB08FC432C0B6C3C3F72A9A9DC5F" style="height: 282px; width: 743px;"></p>
-        <h3 style="text-align: center;">Better, isn't it?</h3>
+        <p style="text-align: center;"><img alt="avada" src="-/media/B586E470B943474199A47FB4D687E26E.ashx?h=38%&amp;w=100%&amp;hash=CDE274C63412AB08FC432C0B6C3C3F72A9A9DC5F" style="height: 38%; width: 100%;" /></p>
+        <h3 style="text-align: center;"><span class="text-highlighted">Better, isn't it?</span></h3>
         <div>&nbsp;</div>
-        <p style="text-align: center;">The only difference is the Theme</p>
+        <p style="text-align: center;"><span class="text-highlighted">The only difference is the Theme</span></p>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
       Hint: Heading
       Value: 

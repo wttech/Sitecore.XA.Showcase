@@ -9,13 +9,29 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BB48912A-7AEE-4E2E-AE72-D92F30920D05}"
+              s:par="GridParameters&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{EB0BDF84-8C04-45C8-BA20-83AF11E92B7A}"
+              s:par="GridParameters&amp;FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161011T094508Z
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <div style="text-align: center;"><img alt="wireframe" src="-/media/4F1F95B7A72B47DC84761CF8E323D854.ashx?h=281&amp;w=743" style="height: 281px; width: 743px;"></div>
+        <div style="text-align: center;"><img alt="wireframe" src="-/media/4F1F95B7A72B47DC84761CF8E323D854.ashx?h=38%&amp;w=100%&amp;hash=955CD361D7139711FADA50F2E9BDD5828959F3B3" style="height: 38%; width: 100%;" /></div>
         <h3 style="text-align: center;">Bring your site to life</h3>
         <div>&nbsp;</div>
         <p style="text-align: center;"><span style="font-size: 15px; line-height: 1.41;">with just a theme change</span></p>

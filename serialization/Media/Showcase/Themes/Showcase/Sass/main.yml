@@ -1,0 +1,34 @@
+﻿---
+ID: "a845578a-1622-47e2-b170-a933d72c3ecf"
+Parent: "24dae316-de48-4491-b0fc-658b8970b401"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Project/Showcase/Themes/Showcase/Sass/main
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A845578A162247E2B170A933D72C3ECF.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "08a260f1-16ce-4228-acec-c35575b06abc"
+  Value: QGltcG9ydCAiY29tcGFzcy9jc3MzIjsNCg0KQGltcG9ydCAiY29yZS9jb2xvcnMiOw0KQGltcG9ydCAiY29yZS9taXhpbnMiOw0KQGltcG9ydCAiY29yZS9mb250cyI7DQpAaW1wb3J0ICJjb3JlL2FuaW1hdGlvbnMiOw0KQGltcG9ydCAiY29yZS9iYXNlIjsNCkBpbXBvcnQgImNvcmUvZ3JpZCI7DQpAaW1wb3J0ICJjb3JlL2hlYWRlciI7DQpAaW1wb3J0ICJjb3JlL2NvbnRlbnQiOw0KQGltcG9ydCAiY29yZS9mb290ZXIiOw0KQGltcG9ydCAiY29yZS9pbnB1dHMiOw0KQGltcG9ydCAiY29yZS91dGlscyI7
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 288
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

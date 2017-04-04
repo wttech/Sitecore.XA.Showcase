@@ -18,6 +18,6 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p>SXA is based on a grid layout, which means we divide the page to equal columns in such a way that constitutes a grid. By using a grid system, we achieve visual consistency as the elements are always vertically aligned to one of the columns. It also simplifies usage of column splitters, because column width is always a multiplication of single grid columns.</p>
-        <p>The platform is shipped with 12 column grid that is 960 pixels wide. Now you know what the numbers from 1 to 12 in the tool bars mean. Should you need either finer column granularity or different page width, you can always add a new <a href="~/link.aspx?_id=BFB957A24153419197C4D376E1A0E402&amp;_z=z">theme</a> that supports your custom grid.</p>
+        <p>SXA supports&nbsp;grid layouts, which means we divide the page to equal columns in such a way that constitutes a grid. By using a grid system, we achieve visual consistency as the elements are always vertically aligned to one of the columns. It also simplifies usage of column splitters, because column width is always a multiplication of single grid columns.</p>
+        <p>The platform is shipped with 12 column grids that can be configured as either flex (taking full page width) or boxed (960 pixels wide). Now you know what the numbers from 1 to 12 in component properties mean. Should you need either finer column granularity or different page width or breakpoints, you can always add a new <a href="~/link.aspx?_id=BFB957A24153419197C4D376E1A0E402&amp;_z=z">theme</a> that supports your custom grid configuration.</p>
         <p>Let's have a look at different column configurations:</p>

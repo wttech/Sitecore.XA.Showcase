@@ -11,7 +11,9 @@ SharedFields:
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Type: TreelistEx
-  Value: "{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+  Value: |
+    {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 3900

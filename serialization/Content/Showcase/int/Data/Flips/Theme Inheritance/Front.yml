@@ -15,7 +15,7 @@ Languages:
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <div style="text-align: center;"><img height="951" alt="sitecore-theme" width="1004" src="-/media/0F2F21BB52E940EE9A576C8843DDE882.ashx"></div>
+        <div style="text-align: center;"><img alt="sitecore-theme" src="-/media/0F2F21BB52E940EE9A576C8843DDE882.ashx?h=95%&amp;w=100%" style="height: 95%; width: 100%;" /></div>
         <h2 style="text-align: center;">And throw in some awesomeness</h2>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
       Hint: Heading

@@ -2,7 +2,7 @@
 ID: "d1ff9b46-2564-4f83-b4d7-13aad3c5cf3c"
 Parent: "68341b77-2182-4172-b47c-090b0fd976b8"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/Showcase/int/Showcase/Fonts/pt_sans-web-regular-webfontsvg"
+Path: "/sitecore/media library/Project/Showcase/Themes/Showcase/Fonts/pt_sans-web-regular-webfontsvg"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

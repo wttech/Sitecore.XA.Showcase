@@ -2,7 +2,7 @@
 ID: "ccca363e-d81f-4985-83a9-871e31c6b2d5"
 Parent: "81609137-e437-4fd4-9660-48127b394168"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: "/sitecore/media library/Project/Showcase/int/Showcase/Sass/richtext/_richtext-content-carpage"
+Path: "/sitecore/media library/Project/Showcase/Themes/Showcase/Sass/richtext/_richtext-content-carpage"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

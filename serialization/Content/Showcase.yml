@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "800dc4ed-0846-45ba-b112-19902af240f6"
   Hint: SharedMediaLibrary
-  Value: "{4090610E-6002-4703-A39C-15EAAF79E39D}"
+  Value: "{8A61FBE5-B85E-4479-A854-CAE04A5F8D5C}"
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{AC73CB9E-A727-4EBF-8A60-7730F2280FBD}"

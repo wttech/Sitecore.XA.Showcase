@@ -1,0 +1,34 @@
+﻿---
+ID: "a1f03b45-ee91-41d8-8bf7-e8b30218c7a5"
+Parent: "f96e1925-a3cc-4752-b969-70feb5b5d696"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Project/Showcase/Themes/Showcase/Scripts/geospatialsearch
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A1F03B45EE9141D88BF7E8B30218C7A5.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4de53b51-cd23-4667-ba42-566296541999"
+  Value: WEEuY29tcG9uZW50Lmdlb3NwYXRpYWxzZWFyY2ggPSBmdW5jdGlvbigkLCBkb2N1bWVudCl7DQogICAgdmFyIGFwaSA9IHt9Ow0KDQogICAgYXBpLmluaXQgPSBmdW5jdGlvbigpew0KICAgICAgICB2YXIgZ2Vvc3BhdGlhbCA9ICQoImJvZHkuZ2Vvc3BhdGlhbC1zZWFyY2giKSwNCiAgICAgICAgICAgIG1hcCwNCiAgICAgICAgICAgIHRhcmdldCwNCiAgICAgICAgICAgIGhlYWRlciA9ICQoIiNoZWFkZXIiKSwNCiAgICAgICAgICAgIGg7DQogICAgICAgIGlmKGdlb3NwYXRpYWwubGVuZ3RoICE9PSAxKXsNCiAgICAgICAgICAgIHJldHVybjsNCiAgICAgICAgfQ0KDQogICAgICAgIG1hcCA9IGdlb3NwYXRpYWwuZmluZCgiLmNvbXBvbmVudC5tYXAiKTsNCiAgICAgICAgZ2Vvc3BhdGlhbC5vbigiY2xpY2siLGZ1bmN0aW9uKGFyZ3Mpew0KICAgICAgICAgICAgdGFyZ2V0ID0gJChhcmdzLnRhcmdldCk7DQogICAgICAgICAgICBpZih0YXJnZXQucGFyZW50cygiLnNlYXJjaC1yZXN1bHQtbGlzdCIpLmxlbmd0aCAhPT0gMCl7DQogICAgICAgICAgICAgICAgaCA9IG1hcC5wb3NpdGlvbigpLnRvcCAtIDMwOw0KICAgICAgICAgICAgICAgIGdlb3NwYXRpYWwuYW5pbWF0ZSh7c2Nyb2xsVG9wIDogaH0sMzMzKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfSk7DQogICAgfTsNCg0KICAgIHJldHVybiBhcGk7DQp9KGpRdWVyeSwgZG9jdW1lbnQpOw0KWEEucmVnaXN0ZXIoImdlb3NwYXRpYWxzZWFyY2giLFhBLmNvbXBvbmVudC5nZW9zcGF0aWFsc2VhcmNoKTsNCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 772
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161348Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

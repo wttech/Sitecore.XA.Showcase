@@ -2,7 +2,7 @@
 ID: "6fd340df-5795-4410-aedb-ec53f2b5fcd6"
 Parent: "81609137-e437-4fd4-9660-48127b394168"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: "/sitecore/media library/Project/Showcase/int/Showcase/Sass/richtext/_richtext-selection-styles"
+Path: "/sitecore/media library/Project/Showcase/Themes/Showcase/Sass/richtext/_richtext-selection-styles"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -10,11 +10,11 @@ SharedFields:
   Value: "-/media/6FD340DF57954410AEDBEC53F2B5FCD6.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "38ebb74d-34dc-451c-ae62-72ac582b5ed5"
-  Value: LmRyb3BjYXAgew0KCUBpbmNsdWRlIGZvbnQtc2l6ZSgzLjYpOw0KCWxpbmUtaGVpZ2h0OiAzMHB4Ow0KCWZvbnQtd2VpZ2h0OiBib2xkOw0KCWNvbG9yOiAjYTBjZTRlOw0KCW1hcmdpbjogMDsNCglwYWRkaW5nOiAwOw0KfQ0KDQoudGV4dC1oaWdobGlnaHRlZCB7DQoJYmFja2dyb3VuZC1jb2xvcjogIzkyYmU0MzsNCglwYWRkaW5nOiAzcHggMTBweDsNCgljb2xvcjogI2ZmZmZmZjsNCglib3JkZXI6IG5vbmU7DQoJdGV4dC1kZWNvcmF0aW9uOiBub25lOw0KfQ0KDQouYnV0dG9uLWxpbmsgew0KCUBpbmNsdWRlIGlubGluZS1ibG9jayhtaWRkbGUpOw0KCUBpbmNsdWRlIGJveC1zaXppbmcoYm9yZGVyLWJveCk7DQoJQGluY2x1ZGUgZm9udC1zaXplKDEuNCk7DQoJbWFyZ2luOiA1cHggMDsNCglwYWRkaW5nOiAxMHB4IDE1cHg7DQoJdGV4dC1hbGlnbjogY2VudGVyOw0KCXRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7DQoJYmFja2dyb3VuZDogJGdyZWVuLWxpZ2h0Ow0KCWNvbG9yOiAjZmZmZmZmOw0KCWZvbnQtd2VpZ2h0OiBib2xkOw0KCSY6aG92ZXIgew0KCQljb2xvcjogI2ZmZmZmZjsNCgkJYmFja2dyb3VuZDogJGdyZWVuOw0KCX0NCn0NCg==
+  BlobID: "5593c362-2a7a-43cd-b384-d8e2a78816e4"
+  Value: LmRyb3BjYXAgew0KCUBpbmNsdWRlIGZvbnQtc2l6ZSgzLjYpOw0KCWxpbmUtaGVpZ2h0OiAzMHB4Ow0KCWZvbnQtd2VpZ2h0OiBib2xkOw0KCWNvbG9yOiAkZ3JlZW47DQoJbWFyZ2luOiAwOw0KCXBhZGRpbmc6IDA7DQp9DQoNCi50ZXh0LWhpZ2hsaWdodGVkIHsNCgliYWNrZ3JvdW5kLWNvbG9yOiAkZ3JlZW47DQoJcGFkZGluZzogM3B4IDEwcHg7DQoJY29sb3I6ICNmZmZmZmY7DQoJYm9yZGVyOiBub25lOw0KCXRleHQtZGVjb3JhdGlvbjogbm9uZTsNCn0NCg0KLmJ1dHRvbi1saW5rIHsNCglAaW5jbHVkZSBpbmxpbmUtYmxvY2sobWlkZGxlKTsNCglAaW5jbHVkZSBib3gtc2l6aW5nKGJvcmRlci1ib3gpOw0KCUBpbmNsdWRlIGZvbnQtc2l6ZSgxLjQpOw0KCW1hcmdpbjogNXB4IDA7DQoJcGFkZGluZzogMTBweCAxNXB4Ow0KCXRleHQtYWxpZ246IGNlbnRlcjsNCgl0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOw0KCWJhY2tncm91bmQ6ICRncmVlbjsNCgljb2xvcjogI2ZmZmZmZjsNCglmb250LXdlaWdodDogYm9sZDsNCgkmOmhvdmVyIHsNCgkJY29sb3I6ICNmZmZmZmY7DQoJCWJhY2tncm91bmQ6ICRncmVlbjsNCgl9DQp9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 595
+  Value: 587
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: "application/octet-stream"
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170331T161338Z
+      Value: 20170403T195357Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

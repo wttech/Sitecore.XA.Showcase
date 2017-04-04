@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<p>What does this mean for you? Start by designing with desktop devices and work as if you were working with 12 columns fixed grid. The layout you create will handle mobile devices out of the box, sometimes with some help from a couple of additional lines of CSS code. But in case you want to provide a totally different experience to your mobile users, go ahead, switch to mobile device in Sitecore and design a brand new SXA layout.</p>"
+      Value: "<p>What does this mean for you? Start by designing with desktop devices and work as if you were working with 12 columns fixed grid. The layout you create will handle mobile devices out of the box, sometimes with some help from a couple of additional lines of CSS code. But in case you want to provide a totally different experience to your mobile users, go ahead, switch to a&nbsp;mobile device in Sitecore and design a brand new SXA layout.</p>"

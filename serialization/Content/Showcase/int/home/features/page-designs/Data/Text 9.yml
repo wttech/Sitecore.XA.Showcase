@@ -18,10 +18,10 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <h2>Step 1</h2>To get to all the Page Designs you simply have to click on the "Page Designs" button.<br>
-        <br>
-        This will show a complete list of all the designs on your site, marking the one that is currently being used on the page that you are editing.<br>
-        <br>
-        You can create a new Page Design here, or click an existing Design to edit it.<br>
-        <br>
-        Here you can see that the "Feature" design is being used on the page you are reading now.<br>
+        <h2>Step 1</h2>To get to all the Page Designs you simply have to click on the "Page Designs" button.<br />
+        <br />
+        This will show a complete list of all the designs on your site, marking the one that is currently being used on the page that you are editing.<br />
+        <br />
+        You can create a new Page Design here, or click an existing Design to edit it.<br />
+        <br />
+        Here you can see that the "Feature" design is being used on the page you are reading now.<br />

@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: <p>We've just said that SXA is using 12 column fixed grid, but this is not the whole truth. It actually applies principles of Responsive Web Design (RWD) in order to support a wide range of devices with different screen resolutions. Fluid grid applied here is proportional and columns are sized in relative percentages rather than absolute pixels. Breakpoints are another mechanism used by vanilla SXA. Once you reach certain width, columns start falling to next rows, and eventually everything ends in a single column.</p>
+      Value: <p>We've just said that SXA is using 12 column grids, but this is not the whole truth. It actually applies principles of Responsive Web Design (RWD) in order to support a wide range of devices with different screen resolutions. Fluid grid applied here is proportional and columns are sized in relative percentages rather than absolute pixels. Breakpoints are another mechanism used by vanilla SXA. Once you reach certain width, columns start falling to next rows, and eventually everything ends in a single column.</p>

@@ -1,0 +1,34 @@
+﻿---
+ID: "b4609d46-c041-4697-9147-43a559842e59"
+Parent: "24dae316-de48-4491-b0fc-658b8970b401"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/Showcase/Themes/Showcase/Sass/component-accordion"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B4609D46C0414697914743A559842E59.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f0527075-42f4-491a-9b15-eebc56e38635"
+  Value: QGltcG9ydCAiY29tcGFzcy9jc3MzIjsNCkBpbXBvcnQgImNvcmUvY29sb3JzIjsNCkBpbXBvcnQgImNvcmUvbWl4aW5zIjsNCg0KLmFjY29yZGlvbiB7DQoJYmFja2dyb3VuZC1jb2xvcjogJGJhY2tncm91bmQtY29sb3I7DQoJbWFyZ2luLWJvdHRvbTogMTBweDsNCgkudG9nZ2xlLWhlYWRlciB7DQoJCXBvc2l0aW9uOiByZWxhdGl2ZTsNCgkJYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICRib3JkZXItY29sb3I7DQoJCXBhZGRpbmctcmlnaHQ6IDE1cHg7DQoJCXdpZHRoOiAxMDAlOw0KCQljdXJzb3I6IHBvaW50ZXI7DQoJCSY6YmVmb3JlIHsNCgkJCUBpbmNsdWRlIGZvbnQtc2l6ZSgxLjQpOw0KCQkJcG9zaXRpb246IGFic29sdXRlOw0KCQkJdG9wOiA2cHg7DQoJCQlmb250LWZhbWlseTogJ2ljb21vb24nLCBzYW5zLXNlcmlmOw0KCQkJY29udGVudDogIlxlNjA1IjsNCgkJCXRleHQtYWxpZ246IGNlbnRlcjsNCgkJCXdpZHRoOiAyMHB4Ow0KCQkJaGVpZ2h0OiAyMHB4Ow0KCQkJYmFja2dyb3VuZDogIzRiNGM0ZDsNCgkJCWNvbG9yOiAjZmZmOw0KCQkJbWFyZ2luLWxlZnQ6IDA7DQoJCX0NCgl9DQoNCgkubGFiZWwgew0KCQlwYWRkaW5nOiA0cHggNHB4IDRweCAyNnB4Ow0KCQl3aWR0aDogMTAwJTsNCgkJaGVpZ2h0OiAxMDAlOw0KCQlkaXNwbGF5OiBibG9jazsNCgkJYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7DQoJCXBvc2l0aW9uOiByZWxhdGl2ZTsNCgkJei1pbmRleDogMzsNCg0KCX0NCgkudG9nZ2xlLWNvbnRlbnQgew0KCQlwYWRkaW5nOiA3cHggNHB4Ow0KCX0NCgkuaXRlbXMgew0KCQlsaXN0LXN0eWxlOiBub25lOw0KCQkuaXRlbSB7DQoJCQltYXJnaW4tYm90dG9tOiA1cHg7DQoJCQkmLmFjdGl2ZSB7DQoJCQkJLnRvZ2dsZS1oZWFkZXIgew0KCQkJCQkmOmJlZm9yZSB7DQoJCQkJCQljb250ZW50OiAiXGU2MDQiOw0KCQkJCQkJYmFja2dyb3VuZDogIzFhODBiNjsNCgkJCQkJfQ0KCQkJCX0NCgkJCX0NCgkJfQ0KCX0NCn0NCg0KLy9lZGl0b3IgZml4DQoub24tcGFnZS1lZGl0b3Igew0KCS5hY2NvcmRpb24gew0KCQkuaXRlbSB7DQoJCQk+IGRpdiB7DQoJCQkJb3ZlcmZsb3c6IGhpZGRlbjsNCgkJCX0NCgkJfQ0KCX0NCn0NCg0KQGltcG9ydCAiYWNjb3JkaW9uL2hvcml6b250YWwtYWNjb3JkaW9uIjs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1145
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161325Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

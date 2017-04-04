@@ -9,14 +9,29 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BB48912A-7AEE-4E2E-AE72-D92F30920D05}"
+              s:par="GridParameters&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{EB0BDF84-8C04-45C8-BA20-83AF11E92B7A}"
+              s:par="GridParameters&amp;FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={65568ACE-DCEC-4D1F-B798-F77121DF4352}" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161011T103840Z
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
       Value: |
-        <div style="text-align: center;"><i class="fa fa-bolt fa-3x"></i></div>
-        <p>&nbsp;</p>
+        <div style="text-align: center;"><em class="fa fa-bolt fa-3x"></em></div>
         <h2 style="text-align: center;">Blazingly fast</h2>
         <p style="text-align: center;">Would you like to know why?</p>
         <p style="text-align: center;">Click here.</p>

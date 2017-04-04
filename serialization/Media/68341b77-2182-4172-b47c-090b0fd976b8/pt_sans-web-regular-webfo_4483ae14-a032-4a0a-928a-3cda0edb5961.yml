@@ -2,7 +2,7 @@
 ID: "4483ae14-a032-4a0a-928a-3cda0edb5961"
 Parent: "68341b77-2182-4172-b47c-090b0fd976b8"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
-Path: "/sitecore/media library/Project/Showcase/int/Showcase/Fonts/pt_sans-web-regular-webfontwoff"
+Path: "/sitecore/media library/Project/Showcase/Themes/Showcase/Fonts/pt_sans-web-regular-webfontwoff"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

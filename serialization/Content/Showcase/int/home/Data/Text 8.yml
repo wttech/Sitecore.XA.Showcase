@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<h1 style=\"text-align: center;\"><span style=\"color: #ffffff;\">Focus on </span><span style=\"color: #a0ce4e;\">message</span></h1>"
+      Value: "<h1 style=\"text-align: center;\"><span style=\"color: #ffffff;\">Focus on the&nbsp;</span><span class=\"dropcap\">message</span></h1>"

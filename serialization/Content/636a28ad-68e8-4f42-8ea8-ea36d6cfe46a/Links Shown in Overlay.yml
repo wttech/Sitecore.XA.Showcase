@@ -35,6 +35,9 @@ SharedFields:
     {F0DE3E5B-F5E0-4299-B3A2-59C234B985C3}
     {76891D2D-6653-483F-AE86-A77FE6E96AC6}
     {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:

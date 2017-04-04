@@ -9,6 +9,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BB48912A-7AEE-4E2E-AE72-D92F30920D05}"
+              s:par="GridParameters&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+            <r
+              uid="{EB0BDF84-8C04-45C8-BA20-83AF11E92B7A}"
+              s:par="GridParameters&amp;FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles={65568ACE-DCEC-4D1F-B798-F77121DF4352}" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161011T103836Z
@@ -16,12 +32,8 @@ Languages:
       Hint: Content
       Value: |
         <div style="text-align: center;">
-        <span class="fa-stack fa-2x">
-        <i class="fa fa-square-o fa-stack-2x"></i>
-        <i class="fa fa-database fa-stack-1x"></i>
-        </span>
+        <span class="fa-stack fa-2x"> <em class="fa fa-square-o fa-stack-2x"></em> <em class="fa fa-database fa-stack-1x"></em> </span>
         </div>
-        <p>&nbsp;</p>
         <h2 style="text-align: center;">Assets Optimizer</h2>
         <p style="text-align: center;">All the scripts and styles from a theme are optimized into a single files to reduce the number of assets sent to the browser.</p>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
