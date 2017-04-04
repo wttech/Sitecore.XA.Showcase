@@ -22,4 +22,4 @@ Languages:
         <p>Core SXA includes a selection of variants for each supported component that is available for the authors to use. However, if your project requires development of new components, or an existing component is going to be used in an unusual context, you need to build your own variant.</p>
         <p>It's an easy task for a Sitecore administrator. Switch to the Experience Editor and build your component variant out of the provided building blocks: fields, sections, tokens, etc. Each element has a number of easy-to-understand options.</p>
         <p>&nbsp;</p>
-        <img height="400" alt="variant-creation" width="550" src="-/media/ECA5DC4F9CF94EBDB4BBD222B0FE6F15.ashx">
+        <img height="400" alt="variant-creation" width="550" src="-/media/ECA5DC4F9CF94EBDB4BBD222B0FE6F15.ashx" />
