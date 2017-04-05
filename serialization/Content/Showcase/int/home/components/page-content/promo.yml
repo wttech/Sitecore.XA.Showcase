@@ -26,8 +26,29 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{61D23308-5984-4818-9A72-32B15107F879}"
+              uid="{C8F890C5-004C-4106-8CB9-27384A74BF8A}"
               p:before="*"
+              s:ds="{2F5EB2FF-BF73-4765-BA34-B0F254D0F7AE}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={0ABEF32A-31B0-4E2C-89FE-BB1E4EC15DF5}&amp;Styles&amp;DynamicPlaceholderId=8"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/row-5-1/column-3-3" />
+            <r
+              uid="{DA223334-5D1C-4590-BBF2-00F9E2365E23}"
+              p:after="r[@uid='{C8F890C5-004C-4106-8CB9-27384A74BF8A}']"
+              s:ds="local:/Data/Promo with Video"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={0ABEF32A-31B0-4E2C-89FE-BB1E4EC15DF5}&amp;Styles&amp;DynamicPlaceholderId=7"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/row-5-1/column-2-3" />
+            <r
+              uid="{C9FF09DE-7EF0-41C7-898E-DD0B7AE0A543}"
+              p:after="r[@uid='{DA223334-5D1C-4590-BBF2-00F9E2365E23}']"
+              s:ds="local:/Data/Promo with Tabs"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={0ABEF32A-31B0-4E2C-89FE-BB1E4EC15DF5}&amp;Styles&amp;DynamicPlaceholderId=6"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/row-5-1/column-1-3" />
+            <r
+              uid="{61D23308-5984-4818-9A72-32B15107F879}"
+              p:after="r[@uid='{C9FF09DE-7EF0-41C7-898E-DD0B7AE0A543}']"
               s:id="{5B9272A5-E147-4C16-B9F7-41CCDCB4CB5D}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
               s:ph="/main/sxa-component-content/row-2-1/container-1/row-3-1" />
@@ -50,7 +71,7 @@ Languages:
               p:after="r[@uid='{346862ED-F115-443C-A2D7-26C365713445}']"
               s:ds="{7C70A3D5-66EE-4A64-A93D-41AD2316C4BE}"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
-              s:par="FieldNames&amp;Styles={B1A5240A-1720-441D-8301-FBC59E543425}|{E806AB48-CFD7-4B3B-BE73-EB7A5953D091}&amp;DynamicPlaceholderId=4&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}&amp;FieldNames={0ABEB632-5701-4E37-82BE-A33EF841AD70}&amp;Styles={B1A5240A-1720-441D-8301-FBC59E543425}|{E806AB48-CFD7-4B3B-BE73-EB7A5953D091}&amp;DynamicPlaceholderId=4"
               s:ph="/main/sxa-component-content/row-2-1/container-1/row-3-1" />
             <r
               uid="{A4D6CAE1-F2AC-4C31-A4C4-A3E0184B7CD4}"
@@ -60,8 +81,15 @@ Languages:
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/row-5-1" />
             <r
-              uid="{3AAFE374-0C29-4913-B683-0CE8E10FCF1C}"
+              uid="{040AE96D-6ED8-4032-A4A3-B3F4DE0DF8AA}"
               p:after="r[@uid='{A4D6CAE1-F2AC-4C31-A4C4-A3E0184B7CD4}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=3&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=3&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/row-5-1" />
+            <r
+              uid="{3AAFE374-0C29-4913-B683-0CE8E10FCF1C}"
+              p:after="r[@uid='{040AE96D-6ED8-4032-A4A3-B3F4DE0DF8AA}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -109,18 +137,11 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1/container-1/row-2-1/column-2-1" />
             <r
               uid="{967C4F18-8AE5-4934-BF9B-5EF3540A81D2}"
-              p:after="r[@uid='{1F333698-A297-4E8D-BE76-07EDA945ED75}']"
+              p:after="*[1=2]"
               s:ds="local:/Data/Everyone"
               s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
               s:par="FieldNames={32472A7B-5614-4346-9593-8F3CC97C5016}&amp;Styles&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/row-2-1/column-1-1" />
-            <r
-              uid="{040AE96D-6ED8-4032-A4A3-B3F4DE0DF8AA}"
-              p:after="*[1=2]"
-              s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=3&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=3&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
     - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
@@ -141,6 +162,9 @@ Languages:
             <li>Reusable on any number of pages.</li>
         </ul>
         <p>Find detailed information on our <a href="https://confluence.cognifide.com/confluence/display/ZGS/Using+promo">documentation page</a>.</p>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

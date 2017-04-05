@@ -1,13 +1,13 @@
 ﻿---
-ID: "0abeb632-5701-4e37-82be-a33ef841ad70"
+ID: "0abef32a-31b0-4e2c-89fe-bb1e4ec15df5"
 Parent: "1b9bdc53-3d91-41bf-a7ea-220d8f8ff9fb"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Promo/Default
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Promo/Extensible Promo
 DB: master
 SharedFields:
 - ID: "e1d5adba-8348-4127-9bb6-455936653839"
   Hint: CssClass
-  Value: 
+  Value: "extensible-promo"
 Languages:
 - Language: en
   Versions:
