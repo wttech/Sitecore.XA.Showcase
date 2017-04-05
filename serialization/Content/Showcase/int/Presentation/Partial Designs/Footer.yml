@@ -43,7 +43,7 @@ Languages:
               p:after="*[1=2]"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=2&amp;Styles1={E9BD8507-40A2-4B03-ADF4-C4524EF28F08}|{2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles2={EF935DDB-55FA-40B6-82AA-1078B992D17D}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="SplitterSize=2&amp;Styles1={E9BD8507-40A2-4B03-ADF4-C4524EF28F08}|{2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles2={EF935DDB-55FA-40B6-82AA-1078B992D17D}|{2D92D14C-9B9C-4E3D-B6E3-57BFF023A664}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
               s:ph="footer" />
           </d>
         </r>
