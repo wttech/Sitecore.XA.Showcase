@@ -18,6 +18,6 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p style="text-align: center;"><img height="128" alt="Tools" width="128" src="-/media/A2EEC408B6284CC59C4BC9BDBB301BB6.ashx" /></p>
+        <p style="text-align: center;"><img height="128" alt="Tools" width="128" src="-/media/A2EEC408B6284CC59C4BC9BDBB301BB6.ashx" style="height: 128px; width: 128px;" /></p>
         <h2 style="text-align: center;">Customisable</h2>
         <p style="text-align: center;">Create search scopes, define facets, build custom result filters.</p>

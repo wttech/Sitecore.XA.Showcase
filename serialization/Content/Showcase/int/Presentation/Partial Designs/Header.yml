@@ -50,7 +50,7 @@ Languages:
               p:after="r[@uid='{391D839D-290F-42E9-85FE-D95F70D53D11}']"
               s:ds="{0894D6C1-4C60-4ED5-9B5A-D084978F1008}"
               s:id="{EECE4E4B-4E5F-42FD-A934-7AFD048AFD03}"
-              s:par="SearchTextBoxVisible=1&amp;AutocompleteFields=Title&amp;FieldNames={DD325BD4-D5A7-4359-A69B-5CB49F5F2AE2}&amp;Caching=0|0|0|0|0|0|0|0"
+              s:par="GridParameters&amp;SearchSignature&amp;FieldNames={DD325BD4-D5A7-4359-A69B-5CB49F5F2AE2}&amp;Styles&amp;TargetSignature&amp;Scope&amp;MaxPredictiveResultsCount=6&amp;SearchResultPage={F1FC40A6-B516-43AA-B4E6-E3922A68CF52}&amp;AutocompleteFields=Title&amp;SearchTextBoxVisible=1"
               s:ph="/header/container-1/column-3-1" />
             <r
               uid="{46E9634A-2306-43F3-9E93-806EF0B25AC4}"

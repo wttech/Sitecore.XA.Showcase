@@ -2,7 +2,7 @@
 ID: "7fc21c77-59e2-46ed-972b-d50ced293c32"
 Parent: "ac73cb9e-a727-4ebf-8a60-7730f2280fbd"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Showcase/Page Designs
+Path: /sitecore/templates/Project/Showcase/Page Design Folder
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"

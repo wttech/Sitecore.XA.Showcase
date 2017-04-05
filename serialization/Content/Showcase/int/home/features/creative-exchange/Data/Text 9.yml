@@ -18,8 +18,8 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        To start the export, simply click on the Export button in the Sitecore Experience Accelerator ribbon bar.<br>
-        <br>
-        This will bring up a wizard which will allow you to select what you would like to be exported and whether you want it exported as a zip or just as files in a folder.<br>
-        <br>
+        To start the export, simply click on the Export button in the Sitecore Experience Accelerator ribbon bar.<br />
+        <br />
+        This will bring up a wizard which will allow you to select what you would like to be exported and whether you want it exported as a zip or just as files in a folder.<br />
+        <br />
         The package will export all the content on the site. This is necessary to allow UI developer to work with the site and its actual content. However you can set a limit on the file sizes that exported, which prevents huge assets like videos being included in the package.

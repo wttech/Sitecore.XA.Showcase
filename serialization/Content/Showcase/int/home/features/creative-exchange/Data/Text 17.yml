@@ -1,8 +1,8 @@
 ﻿---
-ID: "dcca7887-5cb4-4c26-a83c-22c25a1d83e4"
-Parent: "aa85f35e-9b5a-41ed-a6c5-5fc2538269ff"
+ID: "e7ab22c5-befc-405a-9bcc-6e49f0d9189e"
+Parent: "bf536585-87a1-4961-bf27-d164b9ec15da"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: /sitecore/content/Showcase/int/home/Data/Text 12
+Path: "/sitecore/content/Showcase/int/home/features/creative-exchange/Data/Text 17"
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161103T104949Z
+      Value: 20170404T232350Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin 
+      Value: sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: &nbsp;
+      Value: <h2>The Import Process</h2>

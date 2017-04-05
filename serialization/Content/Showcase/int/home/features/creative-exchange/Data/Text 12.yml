@@ -18,7 +18,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p>The standard SXA wireframe theme, which is always the starting point for a SXA project, comes with some core CSS and Javascript. You can extend this and add your own classes as much as you want. If you want to apply a style to a particular component on a particular page, you simply add your class to that component in the HTML (the code is annotated to assist you). The import process will identify this new class and apply it to the system.
-        <br>
-        <br>
-        You can add assets, such as the images, fonts and files that are normally referenced within the style sheet. We consider these to be part of the theme, so they will be imported with your CSS changes.</p>
+        <p>The standard SXA wireframe theme, which is always the starting point for an SXA project, comes with some core CSS and Javascript. You can extend this and add your own classes as much as you want. If you want to apply a style to a particular component on a particular page, you simply add your class to that component in the HTML (the code is annotated to assist you). The import process will identify this new class and apply it to the system. <br />
+        <br />You can add assets, such as the images, fonts, and files that are normally referenced within the style sheet. We consider these to be part of the theme, so they will be imported with your CSS changes.</p>

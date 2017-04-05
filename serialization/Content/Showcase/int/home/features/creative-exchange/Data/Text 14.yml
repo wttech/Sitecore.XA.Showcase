@@ -18,7 +18,5 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <br>
-        In a word: content. Any changes to the HTML that are made (with the exception of new classes applied to the SXA components) will be ignored on import. <br>
-        <br>
-        Content entry is a <a href="~/link.aspx?_id=77C07F1FCD1A41209C432E680196D1FC&amp;_z=z">parallel stream of work</a> which is ongoing and managed on the SXA platform. Therefore, the content that is included in the package is a snapshot that can be used for review, but is mainly exported to allow the UI developer to work within a more realistic world than lorem ipsum.<br>
+        <br />In a word: content. Any changes to the HTML that are made (with the exception of new classes applied to the SXA components) will be ignored on import. <br />
+        <br />Content entry is a <a href="~/link.aspx?_id=77C07F1FCD1A41209C432E680196D1FC&amp;_z=z">parallel stream of work</a> which is ongoing and managed on the SXA platform. Therefore, the content that is included in the package is a snapshot that can be used for review but is mainly exported to allow the UI developer to work within a more realistic world than lorem ipsum.<br />
