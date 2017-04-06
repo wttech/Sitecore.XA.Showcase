@@ -1,0 +1,39 @@
+﻿---
+ID: "ca0376d0-e2ae-487e-95ce-0d439fb9a38d"
+Parent: "1ed9a554-43e4-4119-8e88-767d1fc1081e"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/promo/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170405T232742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <table>
+            <tbody>
+                <tr>
+                    <th style="text-align: center;">Promo&nbsp;</th>
+                    <th style="text-align: center;">Extensible Promo&nbsp;</th>
+                </tr>
+                <tr>
+                    <td>Based on variants</td>
+                    <td>Based on placeholder&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Configuration is limited to predefined options</td>
+                    <td>Each promo might have different look&nbsp;</td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align: center;">&nbsp;Sells your product or services</td>
+                </tr>
+            </tbody>
+        </table>

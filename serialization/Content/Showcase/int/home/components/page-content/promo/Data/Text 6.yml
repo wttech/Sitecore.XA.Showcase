@@ -1,0 +1,22 @@
+﻿---
+ID: "d3e2235e-377c-4e84-b208-fe6a6df3f01b"
+Parent: "1ed9a554-43e4-4119-8e88-767d1fc1081e"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/promo/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170405T234839Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Well why not use video to make your promo more attractive?</p>
+        <p>Challenge us! Free your imagination! Think about your perfect promo design and do it with SXA.</p>
