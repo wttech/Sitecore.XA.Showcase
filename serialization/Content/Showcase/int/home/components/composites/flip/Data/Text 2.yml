@@ -1,0 +1,20 @@
+﻿---
+ID: "de87934d-d8a5-4c9e-9ce2-1cb329b35118"
+Parent: "5942d0e6-dd9d-4393-b6ea-d63116f88251"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/composites/flip/Data/Text 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170406T091251Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>Go ahead click on the Flip components below and they will show the other side. Some of them don't even need to be clicked and will transform when you simply when you hover your mouse cursor over them.</p>

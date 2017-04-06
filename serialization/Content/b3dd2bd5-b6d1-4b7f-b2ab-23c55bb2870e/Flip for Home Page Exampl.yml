@@ -2,7 +2,7 @@
 ID: "6ab8378f-9121-48da-9080-e7acf8a1e073"
 Parent: "b3dd2bd5-b6d1-4b7f-b2ab-23c55bb2870e"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/Showcase/int/Presentation/Styles/Flip/flip-home-page"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Flip/Flip for Home Page Example
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
@@ -12,6 +12,9 @@ SharedFields:
   Hint: Allowed Renderings
   Type: TreelistEx
   Value: "{00C953FE-D508-4836-96A4-CF60887AE5F1}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:

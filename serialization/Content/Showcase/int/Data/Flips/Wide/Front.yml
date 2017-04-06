@@ -16,7 +16,6 @@ Languages:
       Hint: Content
       Value: |
         <p style="text-align: center;"><i class="fa fa-expand fa-3x"></i></p>
-        <p style="text-align: center;">&nbsp;</p>
         <h2 style="text-align: center;">Size does not matter</h2>
         <p style="text-align: center;">Our components look as good on full width as in sidebar.</p>
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
