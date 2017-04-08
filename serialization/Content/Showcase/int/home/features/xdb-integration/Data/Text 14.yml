@@ -19,4 +19,4 @@ Languages:
       Hint: Text
       Value: |
         <p style="float: left; width: 80px; margin: 20px 0px; text-align: center;"><em class="fa fa-puzzle-piece fa-3x"></em></p>
-        <p>Flexible grid system-based layout allows for presentation variation tests. Hiding components, or replacing them is not a problem as the layout and elements will accommodate to available space.</p>
+        <p>Flexible grid system - based layout allows for presentation variation tests. Hiding components, or replacing them is not a problem as the layout elements will accommodate to available space.</p>

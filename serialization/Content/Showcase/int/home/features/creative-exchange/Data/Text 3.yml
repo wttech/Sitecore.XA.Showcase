@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "It's simple. You can export the site for the front-end developers. The process will produce a ZIP file of the whole site with all the wireframes and content included, so they can skin it. This ZIP file is then sent back to be imported again, and the process can continue. We recommend that this continues in iterations as part of an agile methodology, so that your customers end up with the best possible site."
+      Value: "It's simple. You can export the site for the front-end developers. The process will produce a ZIP file of the whole site with all the wireframes and content included, so they can skin it. Once styled this ZIP file can then be sent back to be imported again, and the process can continue. We recommend that this continues in iterations as part of an agile methodology so that your customers end up with the best possible site."

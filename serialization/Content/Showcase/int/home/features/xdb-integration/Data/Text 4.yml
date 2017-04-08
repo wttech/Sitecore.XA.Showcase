@@ -19,4 +19,4 @@ Languages:
       Hint: Text
       Value: |
         <p>SXA follows the best practice of separating content from presentation. Each of our components has an associated content item that can be replaced with another one at any time. This makes them perfect for personalization and testing purposes.</p>
-        <p>You can effortlessly create content variations for simple and complex components of all kinds, in a consistent and easy-to-understand way, directly in Sitecore Experience Editor.</p>
+        <p>You can effortlessly create content variations for simple and complex components of all kinds, in a consistent and easy-to-understand way, directly in Sitecore Experience Editor.</p><p>We have even made the <a href="~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z">Rendering Variants</a> be able to show or hide parts of HTML according to Personalization rules so you can personalize your presentation on a sub-component level!</p>

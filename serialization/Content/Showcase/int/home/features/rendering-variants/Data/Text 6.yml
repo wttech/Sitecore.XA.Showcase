@@ -2,7 +2,7 @@
 ID: "afc82283-d915-4a3f-8bc7-d119e7169936"
 Parent: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data/Text 6"
+Path: "/sitecore/content/Showcase/int/home/features/rendering-variants/Data/Text 6"
 DB: master
 Languages:
 - Language: en
@@ -19,7 +19,7 @@ Languages:
       Hint: Text
       Value: |
         <h4>I'm an administrator</h4>
-        <p>Core SXA includes a selection of variants for each supported component that is available for the authors to use. However, if your project requires development of new components, or an existing component is going to be used in an unusual context, you need to build your own variant.</p>
+        <p>SXA includes a selection of variants for each supported component that is available for the authors to use. However, if your project requires development of new components, or an existing component is going to be used in an unusual context, you will need to build your own variant.</p>
         <p>It's an easy task for a Sitecore administrator. Switch to the Experience Editor and build your component variant out of the provided building blocks: fields, sections, tokens, etc. Each element has a number of easy-to-understand options.</p>
         <p>&nbsp;</p>
         <img height="400" alt="variant-creation" width="550" src="-/media/ECA5DC4F9CF94EBDB4BBD222B0FE6F15.ashx" />

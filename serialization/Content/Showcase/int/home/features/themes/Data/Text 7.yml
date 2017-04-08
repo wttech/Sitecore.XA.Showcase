@@ -1,8 +1,8 @@
 ﻿---
-ID: "0d18b766-88c7-44aa-9418-c2b9db177d8a"
-Parent: "332061bb-e7e7-44f1-b5dd-344792d124f5"
+ID: "753aef8f-f2fc-445c-82db-d2045beda6f4"
+Parent: "d0b43357-95b8-4630-a87b-13006ad0f8e8"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: "/sitecore/content/Showcase/int/home/features/page-designs/Data/Text 5"
+Path: /sitecore/content/Showcase/int/home/features/themes/Data/Text 7
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161010T144908Z
+      Value: 20170408T184025Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "Using SXA, you then map these content types to Page Designs - providing them with layout."
+      Value: <h2>Our Themes are enterprise oriented</h2>

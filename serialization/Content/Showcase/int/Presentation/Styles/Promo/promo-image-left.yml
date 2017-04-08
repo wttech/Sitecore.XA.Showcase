@@ -1,8 +1,8 @@
 ﻿---
 ID: "5254a04a-32c2-4903-92f1-2e041dcf055e"
-Parent: "76e6a243-ea9f-490c-841a-de23a543485d"
+Parent: "fc5a8048-f12d-4d1f-92b2-acda5d306fa3"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/Showcase/int/Presentation/Styles/promo-image-left"
+Path: "/sitecore/content/Showcase/int/Presentation/Styles/Promo/promo-image-left"
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"

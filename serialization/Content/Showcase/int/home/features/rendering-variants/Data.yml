@@ -2,7 +2,7 @@
 ID: "288c16e4-113f-47db-ad4d-a0a795b2c86f"
 Parent: "065dce2f-b46c-47d0-9661-248220f9f49c"
 Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
-Path: "/sitecore/content/Showcase/int/home/features/component-variants/Data"
+Path: "/sitecore/content/Showcase/int/home/features/rendering-variants/Data"
 DB: master
 Languages:
 - Language: en

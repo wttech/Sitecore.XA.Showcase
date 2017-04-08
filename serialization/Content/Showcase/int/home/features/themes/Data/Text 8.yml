@@ -1,0 +1,24 @@
+﻿---
+ID: "eccaa35b-54b0-410a-95bf-4268df0d6b4d"
+Parent: "d0b43357-95b8-4630-a87b-13006ad0f8e8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/features/themes/Data/Text 8
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170408T184101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Now that you have created a theme that fully represents your brand and you&nbsp;start rolling them out to markets all around the world you might find out that certain languages or regions might have very specific requirements. For example, you might want to adjust your theme for Right-to-Left languages or widen the promos a bit to fit those long German words. No problem!</p>
+        <p>Themes are extensions of Base Themes</p>
+        <p>Themes have Base Themes that support different design philosophies and are part of the platform. Base Themes are effectively proto-themes that predetermine the layout behavior. More of these can be added to the platform over time as well allowing for extending it with new design concepts. Themes support multi-inheritance.</p>
+        <p>So for a specific language or region, you can simply create a new mini-theme, inherit from the main brand theme and provide just the small adjustments that are required. Presto-fixo!</p>

@@ -1,28 +1,24 @@
 ﻿---
-ID: "d662d4bb-6617-4362-ae07-2e94d9e38ea9"
-Parent: "76e6a243-ea9f-490c-841a-de23a543485d"
+ID: "8fd58058-9d19-436a-8c6a-8e4967e5adfb"
+Parent: "30f800e3-4048-4d68-bc50-b3a3b2fbf267"
 Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
-Path: "/sitecore/content/Showcase/int/Presentation/Styles/promo-image-right"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Splitter/Title Row
 DB: master
 SharedFields:
 - ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
   Hint: Value
-  Value: "image-right"
+  Value: "title-row-box"
 - ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
   Hint: Allowed Renderings
   Type: TreelistEx
   Value: |
-    {51C13F03-8364-4F61-B860-2EC6CA7439B3}
-    {5A21C781-8E74-4DD0-8261-8CCDA1BF0454}
+    {896A2C68-1362-4E88-8BA0-1805AE6D4837}
+    {2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 2800
+  Value: 3900
 Languages:
 - Language: en
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: Image on the right
   Versions:
   - Version: 1
     Fields:
