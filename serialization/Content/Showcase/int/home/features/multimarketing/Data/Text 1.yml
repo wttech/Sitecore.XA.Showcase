@@ -18,7 +18,7 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <h1 style="text-align: center;"><br>Experience&nbsp;</h1>
+        <h1 style="text-align: center;"><br />Experience&nbsp;</h1>
         <h1 style="text-align: center;"><span class="dropcap">Zen</span> approach&nbsp;</h1>
         <h1 style="text-align: center;">to&nbsp;</h1>
         <h1 style="text-align: center;">multi-tenancy.</h1>

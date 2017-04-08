@@ -10,11 +10,11 @@ SharedFields:
   Value: "-/media/ED7232C38FD84E12A7EDB8082C45510B.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "fc2b9923-baed-4971-8a10-809aacbe83ae"
-  Value: LyogbGluZSAxLCAuLi9TYXNzL2NvbXBvbmVudC1yb3ctc3BsaXR0ZXIuc2NzcyAqLw0KLnJvdy1zcGxpdHRlciB7DQogIGRpc3BsYXk6IGlubGluZS1ibG9jazsNCiAgd2lkdGg6IDEwMCU7IH0NCiAgLyogbGluZSA0LCAuLi9TYXNzL2NvbXBvbmVudC1yb3ctc3BsaXR0ZXIuc2NzcyAqLw0KICAucm93LXNwbGl0dGVyID4gZGl2IHsNCiAgICBwYWRkaW5nOiAxMHB4IDA7IH0NCg==
+  BlobID: "a8c06c99-2957-4bc6-a65e-27dd56fb7cef"
+  Value: LyogbGluZSAxLCAuLi9TYXNzL2NvbXBvbmVudC1yb3ctc3BsaXR0ZXIuc2NzcyAqLw0KLnJvdy1zcGxpdHRlciB7DQogIGRpc3BsYXk6IGlubGluZS1ibG9jazsNCiAgd2lkdGg6IDEwMCU7IH0NCiAgLyogbGluZSA0LCAuLi9TYXNzL2NvbXBvbmVudC1yb3ctc3BsaXR0ZXIuc2NzcyAqLw0KICAucm93LXNwbGl0dGVyID4gZGl2IHsNCiAgICBwYWRkaW5nOiAxMHB4IDA7DQogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOw0KICAgIHdpZHRoOiAxMDAlOyB9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 214
+  Value: 260
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: text/css
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170403T085836Z
+      Value: 20170406T111342Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

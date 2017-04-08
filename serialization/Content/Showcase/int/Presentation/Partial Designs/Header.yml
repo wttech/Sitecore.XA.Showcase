@@ -25,8 +25,48 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{DB8BF178-11FB-40D8-A7B3-4D1C5E19961D}"
+              uid="{22BB95DC-40FE-4831-8118-E5002935B566}"
               p:before="*"
+              s:ds="{244D9970-1319-44B4-A73B-E63426A8EF15}"
+              s:id="{69D0A00E-FF06-4B17-BE59-BED330577680}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={119D3AE2-5F46-455A-925A-90D519738D4C}"
+              s:ph="header">
+              <rls>
+                <ruleset>
+                  <rule
+                    uid="{C48DFAF6-9BB0-4C8C-A653-3E43396C1302}"
+                    s:name="Done">
+                    <conditions>
+                      <condition
+                        uid="6D057F8AEE4C486BA9876CD8B39B1739"
+                        s:id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+                        s:fieldname="ContentStatus"
+                        s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                        s:value="Finished" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="4128E2E4563B46ED9F04AC0EA48CD3E0"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{7E3F47D6-C607-448E-AA8D-668C19E6989E}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="1D9457B45E394E84B113FF264A949E2D"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{DB8BF178-11FB-40D8-A7B3-4D1C5E19961D}"
+              p:after="r[@uid='{22BB95DC-40FE-4831-8118-E5002935B566}']"
               s:ds="{BF499E3F-3E67-4263-9305-F2BC8500904B}"
               s:id="{F0DE3E5B-F5E0-4299-B3A2-59C234B985C3}"
               s:par=""
@@ -57,7 +97,7 @@ Languages:
               p:after="r[@uid='{5C73474C-1808-4F34-834B-BDFAD083D696}']"
               s:ds=""
               s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
-              s:par="LevelTo={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;Filter={D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Styles={43FF29A8-AE35-4C4C-8B8C-5435D99DF403}&amp;NavigationRoot={2C1DB24E-0C8E-49FC-9569-F587509C3FD9}&amp;FieldNames={0D2C374D-4E31-44A8-AC33-B21328E6F7A1}&amp;Caching=0|0|0|0|0|0|0|0&amp;GridParameters={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}"
+              s:par="LevelTo={A5B4C448-4764-4C76-8737-94270639BAFD}&amp;Filter={D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Styles={43FF29A8-AE35-4C4C-8B8C-5435D99DF403}&amp;NavigationRoot={2C1DB24E-0C8E-49FC-9569-F587509C3FD9}&amp;FieldNames={0D2C374D-4E31-44A8-AC33-B21328E6F7A1}&amp;Caching=0|0|0|0|0|0|0|0&amp;GridParameters={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;NavigationFieldNames={A59325BB-5A27-46F9-8110-9D499715F3BE}=%7B40F4FE4C-2749-49D6-89BA-5EE9C1C2A721%7D&amp;{A5B4C448-4764-4C76-8737-94270639BAFD}=%7BE5986034-6177-4169-BC8E-33799B74DE82%7D&amp;{A5B4C448-4764-4C76-8737-94270639BAFD}=%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D%2C%7BE5986034-6177-4169-BC8E-33799B74DE82%7D"
               s:ph="/header/container-1/column-2-1" />
             <r
               uid="{B716F5F7-46B3-4672-9627-61839AFE7054}"

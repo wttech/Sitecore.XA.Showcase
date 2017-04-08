@@ -39,8 +39,43 @@ Languages:
               s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=9&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/container-4" />
             <r
-              uid="{5CDAB3FE-5CFA-400A-B27F-E10DEBDE344C}"
+              uid="{6129B5F0-620E-432A-A792-FA83E8DCBFEA}"
               p:after="r[@uid='{A8F24250-75F4-4F8F-BF3C-0DE15957EBAA}']"
+              s:ds="local:/Data/Text 33"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:ph="/main/sxa-general-content/container-1/container-4" />
+            <r
+              uid="{8AD52100-A023-429F-AC50-2256CED1266F}"
+              p:after="r[@uid='{6129B5F0-620E-432A-A792-FA83E8DCBFEA}']"
+              s:ds="local:/Data/Text 34"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
+              s:ph="/main/sxa-general-content/container-1/container-4" />
+            <r
+              uid="{E00D172B-C394-4872-9CCE-969E93661ABB}"
+              p:after="r[@uid='{8AD52100-A023-429F-AC50-2256CED1266F}']"
+              s:ds="local:/Data/Hero Promo"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F2FCE948-4F77-44AF-A188-B2030061F793}|{2040C827-8640-4E61-907E-D3D5A25696C3}|{E3C1E8D1-6185-4379-8A66-446EC4FD3019}&amp;FieldNames={32472A7B-5614-4346-9593-8F3CC97C5016}&amp;Styles={A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}|{A91776F8-E4B0-4598-B906-32B5237E47EF}&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-general-content/container-1/container-4" />
+            <r
+              uid="{FAFFC16F-8EE9-4441-A472-A311128A22CE}"
+              p:after="r[@uid='{E00D172B-C394-4872-9CCE-969E93661ABB}']"
+              s:ds="local:/Data/Promo Left"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}|{1864351A-0EDC-4650-95C0-7AB675D646AF}|{C9D693C2-C086-4AAC-8F4D-D4797645BF85}&amp;FieldNames={32472A7B-5614-4346-9593-8F3CC97C5016}&amp;Styles={12B91E6C-3F31-478F-B27A-6C8F0140EF96}|{A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}|{A91776F8-E4B0-4598-B906-32B5237E47EF}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1/container-4" />
+            <r
+              uid="{5D302122-7C26-4D03-97F3-A38DE806C12A}"
+              p:after="r[@uid='{FAFFC16F-8EE9-4441-A472-A311128A22CE}']"
+              s:ds="local:/Data/Promo Right"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}|{1864351A-0EDC-4650-95C0-7AB675D646AF}&amp;FieldNames={32472A7B-5614-4346-9593-8F3CC97C5016}&amp;Styles={12B91E6C-3F31-478F-B27A-6C8F0140EF96}|{A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}|{A91776F8-E4B0-4598-B906-32B5237E47EF}&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-general-content/container-1/container-4" />
+            <r
+              uid="{5CDAB3FE-5CFA-400A-B27F-E10DEBDE344C}"
+              p:after="r[@uid='{5D302122-7C26-4D03-97F3-A38DE806C12A}']"
               s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
               s:par="BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=4&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -92,11 +127,24 @@ Languages:
               p:after="r[@uid='{B3A6684D-C0FF-4796-A63F-17F8C71F56A0}']"
               s:ds="local:/Data/Text 24"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}|{1BAB38C1-2242-4469-AAC1-ADA231CA4DCA}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
+              s:ph="/main/sxa-general-content/container-1/container-4/row-5-1" />
+            <r
+              uid="{B61E66B9-82DA-4351-8266-9BD17B74798C}"
+              p:after="r[@uid='{66E6143C-9439-4000-A028-7D9A7105ED4F}']"
+              s:ds="local:/Data/Image 6"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{968D2D51-1E55-4D75-9679-528029D8A2E8}|{1BAB38C1-2242-4469-AAC1-ADA231CA4DCA}&amp;Styles"
+              s:ph="/main/sxa-general-content/container-1/container-4/row-5-1" />
+            <r
+              uid="{BD0F7F62-6E28-448B-9B31-0857451698DE}"
+              p:after="r[@uid='{B61E66B9-82DA-4351-8266-9BD17B74798C}']"
+              s:id="{5B9272A5-E147-4C16-B9F7-41CCDCB4CB5D}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
               s:ph="/main/sxa-general-content/container-1/container-4/row-5-1" />
             <r
               uid="{2CF534DD-B707-4D64-A00A-EA7D4E704A3F}"
-              p:after="r[@uid='{66E6143C-9439-4000-A028-7D9A7105ED4F}']"
+              p:after="r[@uid='{BD0F7F62-6E28-448B-9B31-0857451698DE}']"
               s:ds="local:/Data/Text 25"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{3FF5702C-1D77-4B24-AA97-083FDA07D591}&amp;Styles={98953AFA-41A7-4FAF-BF56-1AC53608C1E7}"
@@ -339,6 +387,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
@@ -347,6 +398,4 @@ Languages:
       Value: Layout
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
-      Value: |
-        <p>Building layout in SXA is based on a grid, e.g. <a href="http://getbootstrap.com/" target="_blank" title="Bootstrap">Bootstrap</a>, <a href="http://foundation.zurb.com/" target="_blank" title="Foundation">Foundation</a> or our Responsive Web Design version of <a href="https://960.gs/">960 Grid System</a>. The platform is shipped with just one single layout but allows you to build your own custom layouts from it.</p>
-        <p>This magical transformation is possible thanks to so-called splitters, which as the name suggests splits an area into smaller ones. There are two types of splitters: row splitter and column splitter, dividing space into rows and columns respectively. You may not believe it, until you try it yourself, how easy it is to compose a layout in SXA.</p>
+      Value: "<p>Building layout in SXA is based on a grid, e.g. <a href=\"http://getbootstrap.com/\" target=\"_blank\" title=\"Bootstrap\">Bootstrap</a>, <a href=\"http://foundation.zurb.com/\" target=\"_blank\" title=\"Foundation\">Foundation</a> or our Responsive Web Design version of <a href=\"https://960.gs/\" target=\"_blank\" title=\"960 Grid System \">960 Grid System</a>. The platform ships with just one single Sitecore layout but allows you to build your own custom layouts from it.</p><p>This magical transformation is possible thanks to so-called splitters, which as the name suggests splits an area into smaller ones. There are two types of splitters: row splitter and column splitter, dividing space into rows and columns respectively. You may not believe it, until you try it yourself, how easy it is to compose a layout in SXA.</p><p>On top of that our components allow you to configure how much of the layout a component will take so, you can achieve&nbsp;a design in a number of ways depending on what your needs are.</p>"

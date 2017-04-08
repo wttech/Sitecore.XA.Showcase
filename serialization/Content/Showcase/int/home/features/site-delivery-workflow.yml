@@ -39,7 +39,7 @@ Languages:
               p:after="r[@uid='{DDAC7F1D-8670-42E8-8745-1AD2BAF69140}']"
               s:ds="local:/Data/Text 2"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
               s:ph="/main/sxa-general-content/container-1/container-1" />
             <r
               uid="{7C0265CE-D5C2-4DDA-9774-962654D6280C}"
@@ -53,7 +53,7 @@ Languages:
               p:after="r[@uid='{7C0265CE-D5C2-4DDA-9774-962654D6280C}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
               s:ph="/main/sxa-general-content/container-1/container-1" />
             <r
               uid="{7E201D45-91A9-4B83-AAFD-48BE3972BC80}"
@@ -74,7 +74,7 @@ Languages:
               p:after="r[@uid='{136ED123-387C-4572-AB60-7E21EAEF6724}']"
               s:ds="local:/Data/Text 5"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="GridParameters={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}|{1E34DFC6-3B3F-4AC0-AC85-6B8F577C6587}&amp;Styles"
+              s:par="GridParameters={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}|{1E34DFC6-3B3F-4AC0-AC85-6B8F577C6587}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
               s:ph="/main/sxa-general-content/container-1/container-1" />
             <r
               uid="{9256A5D6-75E2-41BC-9905-CED623CC94A2}"
@@ -171,6 +171,12 @@ Languages:
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>Overview of site delivery workflow which can be used in SXA.</p>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
