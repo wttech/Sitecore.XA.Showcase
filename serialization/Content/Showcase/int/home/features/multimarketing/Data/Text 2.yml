@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<p>Thanks to the multi-tenant nature of SXA architecture, clients are able to run multiple micro-sites along their main sites on a single instance of Sitecore. Additionally, each tenant is divided into markets allowing for entire customer journeys to be completed in various languages, either through one-to-one translated versions (native Sitecore language support) or an internationalisation model whereby a separate site map exists for different languages.</p>"
+      Value: "<p>Thanks to the multi-tenant nature of SXA architecture, clients are able to run multiple micro-sites along their main sites on a single instance of Sitecore. Additionally, each tenant is divided into markets allowing for entire customer journeys to be completed in various languages, either through one-to-one translated versions (native Sitecore language support) or an internationalization model whereby a separate sitemap exists for different languages.</p>"

@@ -39,8 +39,15 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{5B2AE463-1B5A-4665-9AE3-511A7EDB3E64}"
+              uid="{852F31F5-9206-4582-AD17-C3E9C48EACE8}"
               p:before="*"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{13E972EE-50F2-476F-A488-9E87DFFF4B71}|{B0B52160-DA46-442C-B7FB-D66E335725D0}&amp;Styles"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{5B2AE463-1B5A-4665-9AE3-511A7EDB3E64}"
+              p:after="r[@uid='{852F31F5-9206-4582-AD17-C3E9C48EACE8}']"
               s:ds=""
               s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
               s:par="ListSignature&amp;PageSize=20&amp;Offset&amp;Grid Parameters&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -66,6 +73,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
@@ -76,7 +86,7 @@ Languages:
       Hint: Content
       Value: |
         <p>Sitecore Experience Accelerator (SXA) accelerates deployment of responsive websites quickly and cost effectively, minimising reliance on technical skills while improving maintenance of governance standards.</p>
-        <p>This tool uniquely separates front-end and back-end development enabling the parallelisation of design, content and development.  SXA has an extensive library of re-usable themes, templates and over 50 flexible components allowing you to achieve any layout imaginable.</p>
+        <p>This tool uniquely separates front-end and back-end development enabling the parallelisation of design, content and development. SXA has an extensive library of re-usable themes, templates and over 50 flexible components allowing you to achieve any layout imaginable.</p>
         <p>As well, SXA features the innovative Creative Exchange which accelerates and simplifies sharing of website design files between development roles and agencies. SXA provides 90% of the functionality required to deploy large numbers of websites out of the box.</p>
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType

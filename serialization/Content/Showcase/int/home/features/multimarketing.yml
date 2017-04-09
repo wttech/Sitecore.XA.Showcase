@@ -127,4 +127,4 @@ Languages:
       Value: Multimarketing
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
-      Value: <p>Sitecore and SXA.</p>
+      Value: "<p>Thanks to the multi-tenant nature of SXA architecture, clients are able to run multiple micro-sites along their main sites on a single instance of Sitecore. Additionally, each tenant is divided into markets allowing for entire customer journeys to be completed in various languages, either through one-to-one translated versions (native Sitecore language support) or an internationalization model whereby a separate sitemap exists for different languages.</p>"
