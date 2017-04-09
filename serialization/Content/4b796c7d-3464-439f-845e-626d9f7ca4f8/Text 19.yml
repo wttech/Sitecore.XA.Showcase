@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: <h4>Fat navigation hidden in toggle (a.k.a. hamburger navigation)</h4>
+      Value: <h4>Mobile navigation hidden in toggle (a.k.a. hamburger navigation)</h4>

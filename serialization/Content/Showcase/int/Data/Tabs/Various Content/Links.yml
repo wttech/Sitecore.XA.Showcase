@@ -45,7 +45,14 @@ Languages:
               p:before="*"
               s:ds="{DE402313-2CC1-4EC6-BF20-FAEA56E93BD6}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
+              s:ph="section-tab-content" />
+            <r
+              uid="{B5F4A740-8E6B-48A1-9510-346BA6FC0A51}"
+              p:after="r[@uid='{8C9AACFF-7C3B-48BA-A5C6-C5516347C45F}']"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={0D2C374D-4E31-44A8-AC33-B21328E6F7A1}&amp;Styles={600FE463-0C0C-4575-A87A-8EC374AAC5AC}&amp;NavigationRoot&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
               s:ph="section-tab-content" />
             <r
               uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"

@@ -26,7 +26,7 @@ Languages:
               p:before="*"
               s:ds="{DEA968CB-E2BB-4A11-8BA1-3C586EB2A301}"
               s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={CB7D5458-401D-4E02-9AE1-44EA9F53D9AB}&amp;TabControlBelowContent=1&amp;DynamicPlaceholderId=5"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=5"
               s:ph="/main/sxa-component-content/row-2-1/row-4-1/column-2-3" />
             <r
               uid="{4BBA5BA6-1B63-4917-9698-9124D4024CF8}"
@@ -92,15 +92,15 @@ Languages:
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
             <r
-              uid="{9B9E03CD-BAC2-45D7-B72B-21373F431EF8}"
+              uid="{70CA480D-6A73-405D-B706-ED60C3267CF7}"
               p:after="r[@uid='{FD59737B-B654-47F7-815F-6F80FC49B5C9}']"
               s:ds="{B9D1F82A-3EC5-4E14-9EAF-C065B04E3C91}"
               s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
-              s:par="Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=2&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={CB7D5458-401D-4E02-9AE1-44EA9F53D9AB}&amp;TabControlBelowContent=1&amp;DynamicPlaceholderId=6"
               s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
             <r
               uid="{0FECEC32-E3AC-40D5-AEC4-F6D297287747}"
-              p:after="r[@uid='{9B9E03CD-BAC2-45D7-B72B-21373F431EF8}']"
+              p:after="r[@uid='{70CA480D-6A73-405D-B706-ED60C3267CF7}']"
               s:ds="{B9D1F82A-3EC5-4E14-9EAF-C065B04E3C91}"
               s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
               s:par="Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -171,6 +171,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

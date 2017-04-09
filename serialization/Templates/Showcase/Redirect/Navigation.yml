@@ -1,0 +1,14 @@
+﻿---
+ID: "447a457a-390b-46b9-bf17-0d7170bb4720"
+Parent: "553bdbd5-d78d-4643-9b9d-954198ec4285"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Showcase/Redirect/Navigation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170408T235400Z
