@@ -18,6 +18,9 @@ Languages:
     - ID: "4e5dd643-4cb8-4267-93d2-e35ce9104906"
       Hint: NavigationText
       Value: <p>Show more with SXA's wonderful capabilities.</p>
+    - ID: "99b95f25-2a1d-406c-b587-97dd6e1f2fb6"
+      Hint: Title
+      Value: "Customize!"
     - ID: "e6aaaa02-c8a0-45dc-bdf8-abdadee5eeac"
       Hint: NavigationImage
       Value: "<image mediaid=\"{4DCA781F-C7A5-464B-9B2C-F90037E9A420}\" ></image>"

@@ -1,8 +1,8 @@
 ﻿---
 ID: "5def889a-6d28-4126-b5ee-37a811e1a91c"
-Parent: "663c2962-1510-4098-83af-1c37ae1955d4"
+Parent: "6243022a-f573-4ab3-83de-0e0622b21d95"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Navigation/Default/NavigationTitle
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Navigation/Default/Title/NavigationTitle
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
