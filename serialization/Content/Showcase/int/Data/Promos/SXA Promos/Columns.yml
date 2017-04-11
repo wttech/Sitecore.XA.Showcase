@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
       Hint: PromoText
-      Value: <p>Experience Accelerator components can adjust their size out of the box. Just place them in the correct number of columns.</p>
+      Value: <p>Experience Accelerator components can adjust their size out of the box. Just place them in a splitter or specify a custom number of columns.</p>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{30B8FD18-C579-4658-A5CA-E15CB46158EA}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" ></image>"
+      Value: "<image mediaid=\"{84041EF1-8A45-4276-80E9-D24BF74289B7}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160930T094101Z

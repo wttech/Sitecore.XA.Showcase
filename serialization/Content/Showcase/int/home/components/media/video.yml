@@ -32,6 +32,19 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T133158Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: There is no better way to promote or advertise your product than showing a video to customers. In a Zen Garden based site embedding video on the page is super easy. You can use video from Youtube or upload it to the server.
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Embed YouTube Video</li>
+            <li>Play self-hosted videos</li>
+            <li>Themeable and customizable player</li>
+            <li>Attach own thumbnails</li>
+            <li>Integrates with the <a href="~/link.aspx?_id=D494DA834E3F445BBE9218B30E51725F&amp;_z=z">Playlist</a> component</li>
+        </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"

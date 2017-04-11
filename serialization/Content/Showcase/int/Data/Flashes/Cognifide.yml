@@ -10,7 +10,7 @@ SharedFields:
   Value: "<link linktype=\"media\" target=\"\" id=\"{588962C1-65B1-4748-B9DC-B7D132A7F1C5}\" />"
 - ID: "33b40c29-01f9-4782-8a0b-ae6bbe60ed4c"
   Hint: Wmode
-  Value: "{77A42A59-1B52-4047-BA27-A4D587EFE285}"
+  Value: "{0E9D4BD6-0E93-41CE-B3C1-2673C561DF02}"
 - ID: "9ce4e84f-072d-4ec9-b8df-ed4103cca67e"
   Hint: FlashVars
   Value: loop=false&autoPlay=false
@@ -27,4 +27,4 @@ Languages:
       Value: sitecore\admin
     - ID: "9ea96286-f328-4eb5-b4a3-37a83b385f94"
       Hint: FlashCaption
-      Value: Videos have captions.
+      Value: 
