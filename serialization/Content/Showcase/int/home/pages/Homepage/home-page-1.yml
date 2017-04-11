@@ -108,9 +108,6 @@ Languages:
               s:ph="/main/container-1/row-2-2/column-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Home Page 1
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{9CE3812F-8C87-4A8F-B8D2-533AAE5B8128}"
@@ -123,3 +120,6 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Home Page 1

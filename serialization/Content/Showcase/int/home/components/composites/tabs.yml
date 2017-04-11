@@ -149,15 +149,15 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Tabs
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161012T121919Z
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>The tabs component allows you to split content of your page into sections. You can choose from multiple tab layouts and adjust them to your needs.</p>
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: "<p>The tabs component allows you to split content of your page into sections. You can choose from multiple tab layouts and adjust them to your needs. Group your content - divide and conquer.</p>"
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -180,9 +180,9 @@ Languages:
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Tabs
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: "<p>The tabs component allows you to split content of your page into sections. You can choose from multiple tab layouts and adjust them to your needs. Group your content - divide and conquer.</p>"
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Tabs
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Composites

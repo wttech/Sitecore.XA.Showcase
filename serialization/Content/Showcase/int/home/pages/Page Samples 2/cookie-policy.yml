@@ -36,19 +36,13 @@ Languages:
               s:ph="/main/sxa-general-content/container-1/row-1-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Cookie policy
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{A0F2B217-6CA9-4CC5-9BB9-D10879645766}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161117T093800Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
       Value: |
         <h1 style="color: #000000;">Cookie Policy;</h1>
@@ -60,3 +54,9 @@ Languages:
         <h2 style="color: #000000;">How can I block cookies?&nbsp;</h2>
         <p style="color: #000000;">You can choose to accept or decline cookies. Although most web browsers automatically accept cookies, you can usually modify your browser setting to decline cookies to your prefernce. However, this may prevent you from taking full advantage of our website.</p>
         <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Cookie policy

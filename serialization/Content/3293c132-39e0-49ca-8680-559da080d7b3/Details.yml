@@ -5,10 +5,6 @@ Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Results/Component Details/Details
 DB: master
 SharedFields:
-- ID: "4a997ffd-136b-409e-8dc9-fde53ac545a3"
-  Hint: IsLink
-  Type: Checkbox
-  Value: 1
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200

@@ -128,12 +128,14 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Link List
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161005T113235Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: |
+        <p>The Link list component is used to display a list of links or text paragraphs preceded by a title if needed. Links which are used by this component are defined in the content editor and grouped in one list. Each link item contains a target location field in which we can put certain links and if you want to work with texts then a new text item can be added to the link.</p>
+        <p>As already mentioned all those items are grouped into one list which can have an additional title.</p>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -145,11 +147,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: |
-        <p>The Link list component is used to display a list of links or text paragraphs preceded by a title if needed. Links which are used by this component are defined in the content editor and grouped in one list. Each link item contains a target location field in which we can put certain links and if you want to work with texts then a new text item can be added to the link.</p>
-        <p>As already mentioned all those items are grouped into one list which can have an additional title.</p>
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Link List
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Navigation

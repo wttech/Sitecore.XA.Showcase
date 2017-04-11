@@ -295,15 +295,15 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Navigation
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161003T125504Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: Navigation is an important part of any page. Though content is the king, the navigation is equally important, so the users can see and read the whole message. Sitecore Experience Accelerator offers a variety of navigation variants and styles available out of the box, so it can make the content stand out and be easily reachable by the users.
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -319,9 +319,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: Navigation is an important part of any page. Though content is the king, the navigation is equally important, so the users can see and read the whole message. Sitecore Experience Accelerator offers a variety of navigation variants and styles available out of the box, so it can make the content stand out and be easily reachable by the users.
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Navigation
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Navigation

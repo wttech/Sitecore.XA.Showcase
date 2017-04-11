@@ -176,12 +176,12 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Breadcrumb
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161003T080156Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: "<p>Just as in the popular story, the breadcrumb shows the user the path from the place they currently are to the homepage. All you have to do is to make sure there is no witch house at the end!</p>"
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -198,9 +198,9 @@ Languages:
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: "<p>Just as in the popular story, the breadcrumb shows the user the path from the place they currently are to the homepage. All you have to do is to make sure there is no witch house at the end!</p>"
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Breadcrumb
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Navigation

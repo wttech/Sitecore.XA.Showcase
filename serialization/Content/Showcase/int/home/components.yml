@@ -83,9 +83,6 @@ Languages:
               s:ph="/main/sxa-general-content/container-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Components
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
@@ -95,17 +92,20 @@ Languages:
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>We would like to show you all the components we offer on this page, but sadly there was not enough space. Then we though about grouping them by category, but this did not work either. Finally we decided to spare a page for each component and let the flourish with their natural beauty.</p>
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: |
+        <p>We would like to show you all the components we offer on this page but sadly there was not enough space. Then we thought about grouping them by category but this did not work either. Finally, we decided to spare a page for each component and let the flourish with their natural beauty.</p>
+        <p>You can browse the components by category or simply use the navigation at the top.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: |
-        <p>We would like to show you all the components we offer on this page but sadly there was not enough space. Then we thought about grouping them by category but this did not work either. Finally, we decided to spare a page for each component and let the flourish with their natural beauty.</p>
-        <p>You can browse the components by category or simply use the navigation at the top.</p>
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Components
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 

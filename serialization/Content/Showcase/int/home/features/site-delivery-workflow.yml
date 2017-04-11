@@ -162,15 +162,15 @@ Languages:
               s:ph="/main/sxa-general-content/container-1/container-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Site Delivery Workflow
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T102818Z
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>Overview of site delivery workflow which can be used in SXA.</p>
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites. By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites, but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of have the entire site built before entering any content, only to find the templates are not able to service the needs of the authors.</p><p>By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you in to a particular way of working.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
@@ -183,9 +183,9 @@ Languages:
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Site Delivery Workflow
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: <p>Sitecore Experience Accelerator is not just an extension of the Sitecore interface, but a new way of approaching the production of websites. By enabling parallel work streams (content, creative, UX, coding,) you can not only speed up the production of websites, but improve the quality of the work to allow the work streams to feedback and validate each other's work. This avoids the classic situation of have the entire site built before entering any content, only to find the templates are not able to service the needs of the authors.</p><p>By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can be constantly validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you in to a particular way of working.</p>
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Site Delivery Workflow
     - ID: "ddaa2a8d-957f-445c-86e0-3c8e51212d83"
       Hint: SummaryImage
       Value: "<image mediaid=\"{88128831-8BA6-42B3-96B0-C8008D2E05BF}\" />"

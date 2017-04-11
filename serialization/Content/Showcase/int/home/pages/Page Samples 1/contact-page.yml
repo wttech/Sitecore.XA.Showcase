@@ -113,20 +113,20 @@ Languages:
               s:ph="main" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Contact Page
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{9CE3812F-8C87-4A8F-B8D2-533AAE5B8128}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161117T093652Z
-    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
-      Hint: __Created by
-      Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
       Value: |
         <h1>Maps</h1>
         <h1></h1>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Contact Page

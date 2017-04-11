@@ -23,9 +23,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Pages
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
@@ -35,15 +32,18 @@ Languages:
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>Couple of examples showing how Home page, About Us page and many more pages can look like.</p>
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: "<p style=\"text-align: justify;\">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>"
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: "<p style=\"text-align: justify;\">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>"
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Pages
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 

@@ -99,12 +99,14 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Event Calendar
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T064512Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: |
+        <p>SXA is shipped with two components dedicated for presenting information about events: <strong>Event List</strong> and <strong>Event Calendar</strong>.</p>
+        <p><strong>Event Calendar</strong> allows you to present your events using an interactive calendar widget. Calendar can operate in various configurable modes, e.g. show a month, week or day at a time, browsing can be enabled or disabled. A powerful feature of this component is the ability to display events coming from an external source. It can be configured to fetch events from an existing Google Calendar feed. If you use that already, you can start showing your events right away. In case you use other software to manage your calendar of events, you will likely be able to use the popular iCalendar (.ics) format to import it into Google Calendar.</p>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -124,11 +126,9 @@ Languages:
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Event Calendar
-    - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
-      Hint: Content
-      Value: |
-        <p>SXA is shipped with two components dedicated for presenting information about events: <strong>Event List</strong> and <strong>Event Calendar</strong>.</p>
-        <p><strong>Event Calendar</strong> allows you to present your events using an interactive calendar widget. Calendar can operate in various configurable modes, e.g. show a month, week or day at a time, browsing can be enabled or disabled. A powerful feature of this component is the ability to display events coming from an external source. It can be configured to fetch events from an existing Google Calendar feed. If you use that already, you can start showing your events right away. In case you use other software to manage your calendar of events, you will likely be able to use the popular iCalendar (.ics) format to import it into Google Calendar.</p>
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Event Calendar
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Events

@@ -37,18 +37,31 @@ Languages:
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Playlist
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T133148Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: The playlist component is an addition to the video component as it allows you to create a list of movies which will be played in a single player with switching options.&nbsp;
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Multiple playlists on the same page - select the target video</li>
+            <li>Automatically play from the beginning or from selected video</li>
+            <li>Show 'Previous' and 'Next' buttons</li>
+            <li>Automatically repeat the playlist</li>
+            <li>Supports variants</li>
+        </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Playlist
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Media

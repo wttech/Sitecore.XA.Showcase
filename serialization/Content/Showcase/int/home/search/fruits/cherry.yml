@@ -16,9 +16,6 @@ Languages:
     - ID: "09c123c7-22a3-47d2-b408-3bdaa4df2063"
       Hint: Size
       Value: Small
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Cherry
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161220T121828Z
@@ -31,6 +28,9 @@ Languages:
     - ID: "5b19e26c-c7cc-4edb-ad90-01e959df9cbd"
       Hint: Colour
       Value: Red
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Cherry
     - ID: "7fb9f70c-1397-453a-a578-d441942b04aa"
       Hint: Benefit
       Value: Cherries are one of the very low calorie fruits; however, are rich source of nutrients, vitamins, and minerals. Both sweet as well as tart cherries are packed with numerous health benefiting compounds.

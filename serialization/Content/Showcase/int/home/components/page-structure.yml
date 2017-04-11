@@ -17,9 +17,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: Page Structure
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T112737Z
@@ -28,4 +25,7 @@ Languages:
       Value: sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
+      Value: Page Structure
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
       Value: Page Structure

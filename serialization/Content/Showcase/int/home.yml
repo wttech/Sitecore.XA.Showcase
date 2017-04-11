@@ -266,9 +266,6 @@ Languages:
               s:ph="main" />
           </d>
         </r>
-    - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
-      Hint: Title
-      Value: SXA Showcase
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{9CE3812F-8C87-4A8F-B8D2-533AAE5B8128}"
@@ -290,6 +287,9 @@ Languages:
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Home
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: SXA Showcase
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 
