@@ -26,12 +26,18 @@ Languages:
     - ID: "1ab993c6-6e09-4367-aaf2-9372b017910b"
       Hint: Title
       Value: Pages
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T084103Z
     - ID: "261f5672-aad7-40b3-825b-581844ba66f6"
       Hint: SummaryText
       Value: <p>Couple of examples showing how Home page, About Us page and many more pages can look like.</p>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

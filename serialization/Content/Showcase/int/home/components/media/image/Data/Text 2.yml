@@ -19,4 +19,4 @@ Languages:
       Hint: Text
       Value: |
         <h2>Image size</h2>
-        <p>The image component will automatically fit the image to the size of the containing placeholder or it will resize it to whatever dimension you specify.</p>
+        <p>The component will automatically fit the image to the size of the containing placeholder or it will resize it to whatever dimensions you specify.</p>

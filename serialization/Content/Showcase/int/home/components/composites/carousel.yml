@@ -26,7 +26,7 @@ Languages:
               p:before="*"
               s:ds="local:/Data/Mixed"
               s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
-              s:par="Styles={F25E6FC0-7E6F-4C71-8096-5C9F54C9E58C}&amp;Navigation={848DFE42-2B13-430E-A0B9-89CE25730A06}&amp;Transition={D4B706CC-7EEC-4DB9-A87D-123B29803490}&amp;Timeout=2000&amp;PauseOnHover=1&amp;NavigationPrefix&amp;NavigationPostfix&amp;DynamicPlaceholderId=6&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={F25E6FC0-7E6F-4C71-8096-5C9F54C9E58C}&amp;Navigation={848DFE42-2B13-430E-A0B9-89CE25730A06}&amp;Transition={D4B706CC-7EEC-4DB9-A87D-123B29803490}&amp;Timeout&amp;PauseOnHover=1&amp;NavigationPrefix&amp;NavigationPostfix&amp;DynamicPlaceholderId=6"
               s:ph="/main/sxa-component-content/row-2-1/row-6-1" />
             <r
               uid="{CD75A051-3520-4998-8EDC-4D91A7342B48}"
@@ -129,6 +129,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

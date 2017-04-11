@@ -1,0 +1,43 @@
+﻿---
+ID: "2c76bdd4-8bea-4b97-9e61-5cbd7ce3d851"
+Parent: "8b1657b7-70c4-4b01-85f7-aa87143b46e3"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Showcase/Images/Icons/Navigation/fa-slideshare"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2C76BDD48BEA4B979E615CBD7CE3D851.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 24
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "95061321-5311-45d3-8bba-61e2ddba5898"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAABX1BMVEUAAAAzMzNRisFHRkaioaHt68GmbTOLUTPt6+tzc3MzM22mpG04MzPDilEzMziPVzfi6+vC5euLwet9tOjt6+Pt5cbm2sDt6LpHf7Y2VYczOHHWpG81OlczM1F7Xk25gkkzM0kzOERXRUE1NT5FOzNWOTNSNjPm6+vQ6+up6+vc5evI5euc2uu01Oum1OuVyevB2uWgw+Dc69pmntqvu9bt69R7rNRypNTt68nm5caLqcaDocZUjMXt4MN1n8OLpsDm5b5YjL6v667Yu66ioa5Acaim66SvoaGZoaFde6Hiw5/tzpc4X5dAX5TtwYzmwoqimIpac4rWs4NOXHurinpzc3ozPnhrc3PtqHGpqHGoim0zQG3moWk4TGncnmajgmRzc2RHVmQzM2Sje1xFTlygdFNUVFGte08zOk9HRk5eXklORkZ/SkQ+RESpcUB4PjNfODM9ODNuMzNAMzM6MzOzaCxHAAAAAXRSTlMAQObYZgAAAP9JREFUKM+1z0VzQjEUhuF81YRe7oUiLYVC0bq7u7u7u+v/n55chklgwbDhXZxFnpkkh+XJdxkrze56tFFCJLq9VKa3FY576Ly8spblNGSV2EAzp4qiwEr4ebmV+W5fd7uzYCMJYL7ng2aoUwcnKMfCD6gxHS4MAAcznzTN3jTUvCXktIDoIA8mgHU3wTstHfw9n2zh3tm5Ls65f7HPxf0nqdMOumsnifjdoRD7I8N7QoirmIFAO5ON339DZj7ALjThyiy0mYIq4FabHhmgGl5sqGtW4ITMUQVZfXUBcKbDTZuC1S8N1poUeCP2q8eG/IKHafU//sGcnrKAp4H0yT/rzh9yMEfggQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 688
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 24 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T100244Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: SlideShare icon

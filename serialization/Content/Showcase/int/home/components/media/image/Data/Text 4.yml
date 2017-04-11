@@ -18,8 +18,8 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p>In case you need you can add multiple image components. Each will be connected to dedicated data source item which can be later reused.</p>
-        <p>In the toolbox you can see there are two different image components. One is marked as reusable while the other is just a regular one. But what is the difference?</p>
+        <p>In case you need to, you can add multiple image components. Each will be connected to dedicated data source item which can be later reused.</p>
+        <p>In the toolbox, you can see there are two different image components. One is marked as reusable while the other is just a regular one. But what is the difference?</p><p><br /></p>
         <table>
             <tbody>
                 <tr>
@@ -27,17 +27,17 @@ Languages:
                     <th style="text-align: center;">Reusable Image component&nbsp;</th>
                 </tr>
                 <tr>
-                    <td style="text-align: left;">allows you to create an image which is available on the particular page only</td>
-                    <td style="text-align: left;">allows you to create an image which is available for all pages<br>
+                    <td style="text-align: left;">Allows you to create an image which is available on the particular page only. The data source&nbsp;will be managed for you automatically.</td>
+                    <td style="text-align: left;">Allows you to create an image which is available for all pages. The data source will be placed under the global site data source folder.<br />
                     </td>
                 </tr>
                 <tr>
-                    <td style="text-align: left;">does not bother naming the image</td>
-                    <td style="text-align: left;">asks you to name the image, so it can be easily identified and reused later<br>
+                    <td style="text-align: left;">Does not bother you about naming the image.</td>
+                    <td style="text-align: left;">Asks you to name the image and pick its placement, so it can be easily identified and reused later<br />
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="2" style="text-align: center;">&nbsp;contains all the features you would expect from Image component</td>
+                    <td colspan="2" style="text-align: center;">&nbsp;Contains all the features you would expect from an Image component.<br />Can be styled and resized just like all other components<br /></td>
                 </tr>
             </tbody>
         </table>

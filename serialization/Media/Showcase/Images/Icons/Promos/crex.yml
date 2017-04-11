@@ -1,0 +1,43 @@
+﻿---
+ID: "4bdfff0a-b105-450d-b22a-b45e274b1955"
+Parent: "310aa4db-af72-44e4-8829-9679ea251834"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Promos/crex
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/4BDFFF0AB105450DB22AB45E274B1955.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 128
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a8a6cc4c-9dc3-49fe-a72c-6347023f661c"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2398
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 128 x 128
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 128
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T100244Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Diamond

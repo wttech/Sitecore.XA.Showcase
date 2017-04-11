@@ -1,0 +1,43 @@
+﻿---
+ID: "062d3aea-e075-4929-872d-6d45372433fe"
+Parent: "8b1657b7-70c4-4b01-85f7-aa87143b46e3"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Showcase/Images/Icons/Navigation/about-16"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/062D3AEAE0754929872D6D45372433FE.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 16
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "393f0f9d-0d6b-42c7-a581-0bacd08aaf62"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0Iv+qAAAAJHRSTlMAmImtpoSdknVrTi8IsaGVjns5IQTEubSAW1JKQRkXDgzUymPesDnRAAAAkklEQVQY0z2P2RaDIAxEww7iAuJu1S7//4+FpHUeuJMzSQAoSpZ3HbcJfuJCVd5XquFYnlN4UnCZ+coQrhR1XU4rAT4MU0ZoV2g9uuNA9C1QAntFZGDIjG+i+XdIgRgY6B5dMyEeGjaKtESIvCrE4X5HYGXsdQIpSWzjLo+6bXd8trht9FEzpdSy0pc6s0S6iPQF7bcFvNsS22sAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 371
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 16 x 16
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 16
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161117T100244Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: About Us icon

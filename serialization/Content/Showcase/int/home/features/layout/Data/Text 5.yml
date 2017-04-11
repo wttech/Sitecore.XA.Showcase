@@ -20,4 +20,5 @@ Languages:
       Value: |
         <h4>Step 2</h4>
         <p>Once the first layer of rows is in place, it's time to insert some columns. The story begins akin to rows: <a href="~/link.aspx?_id=6054C188ED984183BBD3E129C09E57E5&amp;_z=z">drag &amp; drop</a> first, then adjust the number of columns. Voilà, the placeholder is now divided into columns.</p>
-        <p>However, you need one more setting here. For each column, use its toolbar to set column's width.  In the chapter below, you will learn what the numbers from 1 to 12 mean in this context.</p>
+        <p>However, you need one more setting here. For each column placeholder, use its Styling button to set column's width.</p>
+        <p style="text-align: center;"><img alt="" src="-/media/357DA2FB66714226845074A8A4EB8457.ashx?h=187&amp;w=240&amp;hash=CB5651C02B5D0AB8656715772E84DFF86EBDA687" style="height: 187px; width: 240px;" /></p>

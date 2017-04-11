@@ -4,10 +4,6 @@ Parent: "a2293645-34c2-430a-a20d-2ce7395411dd"
 Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
 Path: /sitecore/content/Showcase/int/home/components/composites/carousel/Data/Mixed/Image
 DB: master
-SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window_width.png"
 Languages:
 - Language: en
   Versions:

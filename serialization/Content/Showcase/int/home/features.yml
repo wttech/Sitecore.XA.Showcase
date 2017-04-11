@@ -85,8 +85,8 @@ Languages:
     - ID: "7152697d-e946-4ec4-aad5-223fcc204ce7"
       Hint: Content
       Value: |
-        <p>Sitecore Experience Accelerator (SXA) accelerates deployment of responsive websites quickly and cost effectively, minimising reliance on technical skills while improving maintenance of governance standards.</p>
-        <p>This tool uniquely separates front-end and back-end development enabling the parallelisation of design, content and development. SXA has an extensive library of re-usable themes, templates and over 50 flexible components allowing you to achieve any layout imaginable.</p>
+        <p>Sitecore Experience Accelerator (SXA) accelerates deployment of responsive websites quickly and cost effectively, minimizing reliance on technical skills while improving maintenance of governance standards.</p>
+        <p>This tool uniquely separates front-end and back-end development enabling the parallelisation of design, content, and development. SXA has an extensive library of re-usable themes, templates and over 50 flexible components allowing you to achieve any layout imaginable.</p>
         <p>As well, SXA features the innovative Creative Exchange which accelerates and simplifies sharing of website design files between development roles and agencies. SXA provides 90% of the functionality required to deploy large numbers of websites out of the box.</p>
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType

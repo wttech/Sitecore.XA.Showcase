@@ -2,7 +2,7 @@
 ID: "21a7ec83-9d1b-451c-8deb-71723d8edcb3"
 Parent: "ceee5c23-104f-489d-840f-c0b2b0420960"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/Showcase/Images/Promos/communication-dialer-telephone-3073"
+Path: "/sitecore/media library/Project/Showcase/Images/Promos/communication-dialer-telephone"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -21,12 +21,6 @@ SharedFields:
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/jpeg
-- ID: "90a6fe48-f3e0-42f3-a18a-edaa7db9ca57"
-  Hint: DateTime
-  Value: 
-- ID: "b0145335-8735-414b-9169-a1d4e4dc9641"
-  Hint: Software
-  Value: 
 - ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
   Hint: Extension
   Value: jpg

@@ -8,6 +8,19 @@ SharedFields:
 - ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
   Hint: CentralPointLongitude
   Value: 16.93638999999996
+- ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
+  Hint: Width
+  Value: 
+- ID: "ad71f7f9-2690-4b61-936b-dadf18455792"
+  Hint: Height
+  Value: 640
+- ID: "d9dd5de6-af41-4d3b-9f73-4ff9bd05898b"
+  Hint: CentralPointMode
+  Value: "{4D3501A6-E34B-4E19-B6B2-BDA2CFDA2C8A}"
+- ID: "df9686ee-85f7-4ad3-bdd2-8a28d31740df"
+  Hint: POI
+  Type: Treelist
+  Value: 
 - ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
   Hint: CentralPointLatidiute
   Value: 52.42820099999999
