@@ -1,23 +1,23 @@
 ﻿---
-ID: "af679a3b-2e0d-4eb9-9072-6b5a5c436490"
+ID: "d8a3bf23-4dc4-4189-8acd-ef8856d40c98"
 Parent: "8b1657b7-70c4-4b01-85f7-aa87143b46e3"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/Showcase/Images/Icons/Navigation/home-16"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Navigation/breadcrumb
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/AF679A3B2E0D4EB990726B5A5C436490.ashx?h=16&thn=1&w=16"
+  Value: "-/media/D8A3BF234DC441898ACDEF8856D40C98.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
   Value: 16
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "4b08c1cd-5d4e-4244-84c3-107c64bb7522"
-  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAUVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcqRVCAAAAGnRSTlMAZXiKYW9quHW/koCwp1jDoZqFWUEW209MD4D1VHYAAAB5SURBVBjTdYlHDsMwDASH6pbcS4r//9BYEKFbBlgMd4kyjs29GzMxly/KlGGf0uujfc0Auci79W1rtlG9ouRd90604O+Tznl7DjvD5VPyF8z2AC/gFpHFgXjACITQIkYHMdV/BwcuQaquQ5F6tIcUIAzWxidDfBL4AQG3A34HS0HPAAAAAElFTkSuQmCC
+  BlobID: "73808c1a-fcd4-416f-b557-b668204ea517"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAAAAbGxsYGBgWFhYfHx8SEhIoKCghISEjIyM5OTkXFxc8PDwzMzNiYmJnZ2d7e3uAgIDd3d2mpqa1tbUkJCQsLCwzMzNAQEBaWlpiYmJLS0tRUVGHh4ePj496enpra2uPj4+UlJR9fX17e3uUlJS+vr4lLY0jAAAAJnRSTlMAzMx+y3/Durmle3RnUEUzFgwLB8q8rZxkX1RPSkQ9OjYsHh4QBqHGjEQAAABbSURBVBjTtYu3EcAwDANB0nKOknOO+69o3bnxAvoCxeMeTihiSQ0mkRFPKvGGjol30zD7+iDiCKHdrPSIvCtnouAnzk9ENlm1z1Tfhf1aLEqSCoNSPapE1AwXvAPJA8MMzStcAAAAAElFTkSuQmCC
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 309
+  Value: 324
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/png
@@ -37,7 +37,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161117T100245Z
+      Value: 20170411T142456Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
-      Value: Home
+      Value: Breadcrumb icon

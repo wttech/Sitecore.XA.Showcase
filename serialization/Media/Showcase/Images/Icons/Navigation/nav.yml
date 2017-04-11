@@ -1,23 +1,23 @@
 ﻿---
-ID: "87546745-6b4b-4a7e-a011-ab5a9635089e"
+ID: "2d9b8a26-570d-4c76-9519-24b4d564d41a"
 Parent: "8b1657b7-70c4-4b01-85f7-aa87143b46e3"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/Showcase/Images/Icons/Navigation/service-16"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Navigation/nav
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/875467456B4B4A7EA011AB5A9635089E.ashx?h=16&thn=1&w=16"
+  Value: "-/media/2D9B8A26570D4C76951924B4D564D41A.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
   Value: 16
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "f1e0165d-075f-4302-97ab-867063034e79"
-  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAbFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0Iv+qAAAAI3RSTlMAnZQjTrmtmY57cGxmYFhLPjosFQjZzrOiiYBBLxoSv4t9dmItGf8AAAC1SURBVBjTRc9XbsMwAATRYVEhxU41q7nd/46JEwR5wAL7O/wa2nbgXxadUp3IfFRFeUsA+S6oyjqrtG5iHMW2JjWvbCbsjteyvHB7MBvW5XiD22cxO4sdPE3Ee2KDHyzmOenahBhDU/X0NDxEkg45TRInk3jQJzEKi5TY75N6+nAsZ6tBt+dyhJ7xXrK+Wmgvnct9BDVXkOcpoc4KYG8u+lJ6rmbnR+fpjqPDd3/tGqOUQQ/AF4JMClPVH5tHAAAAAElFTkSuQmCC
+  BlobID: "f13aa2f0-0762-47cc-8a0c-90f7905dfa81"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEUAAAAbGxskJCQcHBy/v78ODg729vYODg4cHBwcHBwQEBAVFRUYGBgNDQ02NjZLS0vKyspbW1sHBwf5+fliYmIiIiIcHBwnJyczMzMuLi5MTEw/Pz+KBhDeAAAAHHRSTlMAzMXCRjwUzIKADYHCzKBgMCgNCQXAu7mqpnllzPVKPgAAAEtJREFUGNNlzscRwDAIBdFvyxmU5dx/n7rC8ArYWRiRdoF+uEFDGJUHdVEqjDwrGbdunrj8KnhGmpQEo5VDKA2BncCvXY+0CfSZZgd+hgTdY/JyowAAAABJRU5ErkJggg==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 405
+  Value: 268
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/png
@@ -37,7 +37,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161117T100245Z
+      Value: 20170411T141715Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
-      Value: Service icon
+      Value: Navigation icon

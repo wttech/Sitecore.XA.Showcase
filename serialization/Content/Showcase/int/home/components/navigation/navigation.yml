@@ -4,6 +4,10 @@ Parent: "ada2ec1a-5ae5-4299-a9ce-12137d3dfd27"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: /sitecore/content/Showcase/int/home/components/navigation/navigation
 DB: master
+SharedFields:
+- ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
+  Hint: NavigationIcon
+  Value: "<image mediaid=\"{2D9B8A26-570D-4C76-9519-24B4D564D41A}\" />"
 Languages:
 - Language: en
   Fields:

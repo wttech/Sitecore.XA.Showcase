@@ -24,6 +24,9 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 75
+- ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
+  Hint: NavigationIcon
+  Value: "<image mediaid=\"{A688FE08-060F-487E-9D63-9B96DE6DDECA}\" />"
 Languages:
 - Language: en
   Fields:

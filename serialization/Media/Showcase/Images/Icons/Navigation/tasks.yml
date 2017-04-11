@@ -1,23 +1,23 @@
 ﻿---
-ID: "a44f14a4-cb4b-4c1b-a05b-cdba791db5f2"
+ID: "96dc896e-dde4-4d5f-805d-ccf5e415d1f1"
 Parent: "8b1657b7-70c4-4b01-85f7-aa87143b46e3"
 Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
-Path: "/sitecore/media library/Project/Showcase/Images/Icons/Navigation/fa-tag"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Navigation/tasks
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/A44F14A4CB4B4C1BA05BCDBA791DB5F2.ashx?h=16&thn=1&w=16"
+  Value: "-/media/96DC896EDDE44D5F805DCCF5E415D1F1.ashx?h=16&thn=1&w=16"
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
   Value: 24
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "319f014c-4f7b-4f73-8ca9-c473c74d31f2"
-  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAb1BMVEUAAAAzMzMzQG1UODOjz+W01OtQMzPtwYo4VIDiu4ft6+vWs4Bimdft68kzNTvA5evN4Oup2ut1q+viy7Wop7WEmKFykqHtzpRTbZHmvoo4VIqiknGZg2IzQF/Ah04zOEy3gEWeZkCSWDNFODNcMzMChvKzAAAAAXRSTlMAQObYZgAAAHBJREFUKM+tzVcKgEAMRdGJvffe2/7XKEgwaGbwx/d5DyHiz4UrXIsa8wm2BTjNeMNcDTvKEwLPW/CGwQQkBGPZW/cf9pxJfYBcwg0U0uoqcZmkCokyIZcuFlJxTKwk1Gm+zjoJdSbYmWBny4tEfO4E8DkErUIvNDMAAAAASUVORK5CYII=
+  BlobID: "bb592296-7ab6-46be-8324-cd34e0f51e54"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAbFBMVEUAAAAzMzNHRkZzc3OioaHtwYozUYpRMzMzM2rt69SZzc3t68HPzbHt2qhJdajtzpg5YJhzc2iLUTOBTjNTPjNgOTM9ODOm6+tupOuou9SYu9S8p6G8l4Jzc4Jec3NJXnMzM0l4TkY6QEZ1RDi2oxF4AAAAAXRSTlMAQObYZgAAAG5JREFUKM+t0VcKgEAMBNDR2Hvv3fvf0QURYU3+fJ87sEMS/CitDU4G29WeViLKK+cbdADCggkOU2kcxLvJSSDyJ2LMw93x9ZZ7AV5RKQfyV/5ocXqI4tPgJFrHM3ijlXstFGaJ20LKvXbxUP+5AJsnBalrC9GdAAAAAElFTkSuQmCC
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 305
+  Value: 300
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/png
@@ -38,6 +38,3 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161117T100245Z
-    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
-      Hint: Alt
-      Value: Tag icon

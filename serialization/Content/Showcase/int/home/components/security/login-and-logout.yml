@@ -1,0 +1,49 @@
+﻿---
+ID: "d45b1930-5f14-4666-9be3-a450bc264121"
+Parent: "d66d63cd-d70a-4e25-b1b0-874fb482be3a"
+Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
+Path: "/sitecore/content/Showcase/int/home/components/security/login-and-logout"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Login & Logout
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T070318Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: "If you have content or functionality that you want to keep away from public access, there is no better way than to ask users to authenticate with your site. All you need is the \"Open Sesame\" functionality, also known as the Login component. Once your users are in the treasury, they need a way to get out. This emergency exit is called the Logout component. Read below to learn how to combine these two SXA components to build a complete password-protected website."
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Sign in and out users from the system.</li>
+            <li>Protect website areas that shall not be publicly available.</li>
+            <li>Display login and logout components only if applicable to current user's status.</li>
+            <li>Create separate login and logout pages or add login and logout boxes to each page with snippets.</li>
+            <li>All copies are editable and localizable.</li>
+            <li>Default configuration is provided for each new market, so no prompts to create data source.</li>
+            <li>Additional configuration can be created if needed.&nbsp;</li>
+        </ul>
+        <p>Find detailed information on our documentation page.</p>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: Login & Logout
+    - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
+      Hint: Section
+      Value: Security
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{C09689F8-0F78-4CF3-B92E-0071E2E4F8C6}\" />"

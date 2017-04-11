@@ -10,7 +10,7 @@ SharedFields:
   Value: NavigationIcon
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
-  Value: "fa fa-home"
+  Value: 
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{8F007B01-2AB4-4968-8665-2AE033929D13}"

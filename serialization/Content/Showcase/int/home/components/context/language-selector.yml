@@ -16,6 +16,20 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T064338Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: Once your business has gone international you will quickly need to think about customizing your site for different languages. Sitecore Experience Accelerator provides components to do this. You will need to allow your users to switch between different versions of your site. These might be simple translations of the same content, or quite different content. We can facilitate both options. This page describes a component for switching between different language versions of a page.
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Integrates with Sitecore multi language support.</li>
+            <li>Users can easily switch between different languages on a page</li>
+            <li>No configuration needed - component automatically includes active languages</li>
+        </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

@@ -16,6 +16,20 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T064351Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: Once your business has gone international you will want to consider adding separate sites for each region your company is present in. Sitecore Experience Accelerator has you covered. You can enable your users to switch between different versions of your site. These sites might be very similar or have completely different content. This page describes a component for switching between different sites.
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Integrates with Sitecore Experience Accelerator multi-site support.</li>
+            <li>Users can easily navigate between differentsites within a tenant.</li>
+            <li>No configuration needed - component automatically includes all active sites within a tenant.</li>
+        </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
