@@ -65,7 +65,7 @@ Languages:
               p:after="r[@uid='{36B7EBDF-9B88-4061-A269-7D61FE7677F5}']"
               s:ds=""
               s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles={B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}|{A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}|{731E7872-B3D9-4C6F-AC1B-2B94EC144895}&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{968D2D51-1E55-4D75-9679-528029D8A2E8}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles={B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}|{731E7872-B3D9-4C6F-AC1B-2B94EC144895}|{A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
               s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
             <r
               uid="{C84F4AD1-B4AC-468A-90B0-BBE6C6004A33}"
@@ -86,7 +86,7 @@ Languages:
               p:after="r[@uid='{F17A9E43-F6B6-42EB-9A24-FCB8B483F644}']"
               s:ds=""
               s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation=1&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles={A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}&amp;BreadcrumbRoot&amp;Separator=&gt;&amp;IsNavigation=1&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
               s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
             <r
               uid="{253D1196-05BF-49EC-A560-CF48EB19C1C2}"
@@ -171,6 +171,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

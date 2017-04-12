@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: <h2>Shortened breadcrumb</h2>
+      Value: <h2>Breadcrumb with an ellipsis...</h2>
