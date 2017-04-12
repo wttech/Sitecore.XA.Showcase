@@ -1,16 +1,13 @@
 ﻿---
-ID: "800776fd-c9fb-4421-a098-e66569b92794"
+ID: "ec6700a9-735c-412d-9870-81c43cd62716"
 Parent: "32f80d51-420f-421c-84ed-7e275ca67f72"
 Template: "a6ddac75-7d24-4bdb-b3f6-5f47fbb21379"
-Path: /sitecore/content/Showcase/int/Data/Accordions/Impressive/Fun
+Path: /sitecore/content/Showcase/int/Data/Accordions/Impressive/Apple
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "http://sxa_showcase/temp/iconcache/office/32x32/photo_landscape.png"
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 400
+  Value: Office/32x32/photo_landscape.png
 Languages:
 - Language: en
   Versions:
@@ -18,13 +15,13 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161012T132849Z
+      Value: 20161012T130543Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<img alt=\"\" height=\"352\" width=\"850\" src=\"-/media/BE5E2CF18AF14F5483A842802A54769D.ashx\">"
+      Value: "<img alt=\"Apple\" height=\"352\" width=\"850\" src=\"-/media/C88D9A38AEB94BA1A09E14986DF210AA.ashx\" />"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
-      Value: "<img alt=\"\" height=\"352\" width=\"50\" src=\"-/media/C9835F24688746EBBD85DE684FAABBE8.ashx\">"
+      Value: "<img alt=\"Apple\" height=\"352\" width=\"50\" src=\"-/media/A224E90CCEA34B7FBE7BA4EB6C10B9BB.ashx\" />"

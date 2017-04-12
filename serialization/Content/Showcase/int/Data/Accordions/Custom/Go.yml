@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "http://sxa_showcase/temp/iconcache/office/32x32/note_text.png"
+  Value: Office/32x32/note_text.png
 Languages:
 - Language: en
   Versions:

@@ -8,6 +8,22 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: Office/32x32/tab_pane.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2A4334BD-A026-4DCE-BA51-40087AB58D1D}"
+          s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+        <r
+          uid="{73C48CD6-93B8-4D15-9C2B-B141D3A38F40}"
+          s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -26,11 +42,11 @@ Languages:
               p:before="*"
               s:ds="{B9D1F82A-3EC5-4E14-9EAF-C065B04E3C91}"
               s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
-              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;Styles=%7BEFDD9F86-71BB-494A-A422-015CE6D6AB6A%7D&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1"
-              s:ph="section-accordion-content" />
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={EFDD9F86-71BB-494A-A422-015CE6D6AB6A}&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1"
+              s:ph="section-content" />
             <r
               uid="{2A4334BD-A026-4DCE-BA51-40087AB58D1D}"
-              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
             <r
               uid="{73C48CD6-93B8-4D15-9C2B-B141D3A38F40}">
               <p:d />

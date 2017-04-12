@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window.png"
+  Value: Office/32x32/window.png
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
@@ -45,18 +45,18 @@ Languages:
               p:before="*"
               s:ds="{DE402313-2CC1-4EC6-BF20-FAEA56E93BD6}"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;TitleHeadingLevel={6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
-              s:ph="section-tab-content" />
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames&amp;Styles=%7B1842651B-5B44-4DB0-B1D8-E8EFB2C262F5%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D"
+              s:ph="section-content" />
             <r
               uid="{B5F4A740-8E6B-48A1-9510-346BA6FC0A51}"
               p:after="r[@uid='{8C9AACFF-7C3B-48BA-A5C6-C5516347C45F}']"
               s:ds=""
               s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={0D2C374D-4E31-44A8-AC33-B21328E6F7A1}&amp;Styles={600FE463-0C0C-4575-A87A-8EC374AAC5AC}&amp;NavigationRoot&amp;LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
-              s:ph="section-tab-content" />
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B0D2C374D-4E31-44A8-AC33-B21328E6F7A1%7D&amp;Styles=%7B600FE463-0C0C-4575-A87A-8EC374AAC5AC%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;Filter&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames"
+              s:ph="section-content" />
             <r
               uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
-              s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles" />
             <r
               uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
               <p:d />

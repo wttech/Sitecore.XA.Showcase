@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "http://sxa_showcase/temp/iconcache/office/32x32/window.png"
+  Value: Office/32x32/window.png
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -42,8 +42,8 @@ Languages:
               p:before="*"
               s:ds="{8E2004CB-34AB-49DA-8D2C-E0CCA7E5BBBB}"
               s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
-              s:ph="section-tab-content" />
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;Styles"
+              s:ph="section-content" />
             <r
               uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
               s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}" />
