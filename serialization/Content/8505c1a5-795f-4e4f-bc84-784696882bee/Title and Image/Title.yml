@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
-  Value: Title
+  Value: LinkText
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"

@@ -12,3 +12,6 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161004T135814Z
+    - ID: "31eb03b0-13e7-4c65-9bc0-0e7887a51b05"
+      Hint: Title
+      Value: "Example list of files to download:"

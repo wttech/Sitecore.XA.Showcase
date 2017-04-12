@@ -14,7 +14,10 @@ Languages:
       Value: 20161005T104352Z
     - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
       Hint: CustomImage
-      Value: "<image mediaid=\"{30B8FD18-C579-4658-A5CA-E15CB46158EA}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
+      Value: "<image mediaid=\"{2623691E-0A1B-48D6-84A8-E5695E980493}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
+    - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
+      Hint: LinkText
+      Value: Forest
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin

@@ -1,8 +1,8 @@
 ﻿---
 ID: "010d4802-a0d8-423b-b51d-9115ce980ebe"
-Parent: "6712e921-55a8-4f3c-8676-d623e084eb06"
+Parent: "dbc31aa4-f8fa-4072-b899-65ad176a5a04"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
-Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/File List/Documents with Links/Title
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/File List/Documents with Links/File/Title
 DB: master
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
@@ -10,7 +10,7 @@ SharedFields:
   Value: Title
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 500
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
   Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
