@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{D8A3BF23-4DC4-4189-8ACD-EF8856D40C98}\" />"
+  Value: "<image mediaid=\"{D8A3BF23-4DC4-4189-8ACD-EF8856D40C98}\" ></image>"
 Languages:
 - Language: en
   Fields:

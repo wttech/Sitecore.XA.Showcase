@@ -10,7 +10,7 @@ SharedFields:
   Value: 300
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{87546745-6B4B-4A7E-A011-AB5A9635089E}\" />"
+  Value: "<image mediaid=\"{87546745-6B4B-4A7E-A011-AB5A9635089E}\" ></image>"
 Languages:
 - Language: en
   Fields:
