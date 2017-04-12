@@ -22,8 +22,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{8E6AC7D2-EB6A-433B-8F45-F2D71F2F4EBC}"
+              uid="{B360E19C-84AD-4BBB-A758-0CAF45109A3B}"
               p:before="*"
+              s:ds="local:/Data/Tabs in toggle"
+              s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;Styles&amp;TabControlBelowContent&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/row-5-1/toggle-4" />
+            <r
+              uid="{D53AEA1B-9F45-4662-823D-5CD8EECF8C6A}"
+              p:after="r[@uid='{B360E19C-84AD-4BBB-A758-0CAF45109A3B}']"
+              s:ds="local:/Data/Text 7"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;Styles={1434C38F-69A4-4E1B-8AC0-FD040D6DEA11}|{A3BEF973-7DC4-489B-BFDD-DF52C954BF4B}"
+              s:ph="/main/sxa-component-content/row-2-1/row-5-1/toggle-4" />
+            <r
+              uid="{8E6AC7D2-EB6A-433B-8F45-F2D71F2F4EBC}"
+              p:after="r[@uid='{D53AEA1B-9F45-4662-823D-5CD8EECF8C6A}']"
               s:ds="local:/Data/Text 6"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -57,15 +71,22 @@ Languages:
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/row-5-1" />
             <r
-              uid="{ABCD5D3B-6706-4A19-A9F7-D8D4DCC88BB9}"
+              uid="{68BF49F4-AB20-4CC7-9557-92D27650E8E5}"
               p:after="r[@uid='{F3699C52-05E6-4D31-9967-5229CB297891}']"
-              s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth2={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/row-6-1" />
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{5D87E990-D33A-4613-BE6D-0D0235197254}"
+              s:ph="/main/sxa-component-content/row-2-1/row-5-1" />
+            <r
+              uid="{988C9A0E-C063-4F80-AC57-97AC99B16FB2}"
+              p:after="r[@uid='{68BF49F4-AB20-4CC7-9557-92D27650E8E5}']"
+              s:ds="local:/Data/Multiple controls inside"
+              s:id="{60A49017-0BB4-4D92-AB59-587E6C618B30}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{984977BA-B796-4B68-9F6F-5FEEC149D57B}&amp;SplitterSize=2&amp;Styles&amp;EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-component-content/row-2-1/row-5-1" />
             <r
               uid="{D60769F0-64AC-45B8-9F92-C851AE4BDD65}"
-              p:after="r[@uid='{ABCD5D3B-6706-4A19-A9F7-D8D4DCC88BB9}']"
+              p:after="r[@uid='{988C9A0E-C063-4F80-AC57-97AC99B16FB2}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -78,15 +99,8 @@ Languages:
               s:par="SplitterSize=2&amp;EasingFunction=Swing&amp;Speed=500&amp;ExpandOnHover&amp;ExpandedByDefault&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/row-2-1" />
             <r
-              uid="{68BF49F4-AB20-4CC7-9557-92D27650E8E5}"
-              p:after="r[@uid='{885F42E2-2EDC-4725-954A-4D59BFFD2EB2}']"
-              s:ds="local:/Data/Text 2"
-              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/row-6-1/column-1-1" />
-            <r
               uid="{9CC1DB9E-54DD-4891-8565-08E14BEC2472}"
-              p:after="r[@uid='{68BF49F4-AB20-4CC7-9557-92D27650E8E5}']"
+              p:after="r[@uid='{885F42E2-2EDC-4725-954A-4D59BFFD2EB2}']"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -96,7 +110,7 @@ Languages:
               p:after="*[1=2]"
               s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
-              s:par="SplitterSize=6&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles4={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles5={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles6={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="SplitterSize=5&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles4={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles5={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles6={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>
@@ -109,19 +123,22 @@ Languages:
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
       Value: |
-        <p>Toggle component displays a collapsible content panel for presenting information. In order to expand/collapse content the user needs to click toggle's header. There is a property that lets the user to toggle content on mouseover as well.</p>
-        <p>Within the toggle the content can be made up from various other drag and droppable components.</p>
+        <p>Toggle component displays a collapsible content panel for presenting information. In order to expand/collapse content, the user needs to click toggle's header. There is a property that lets the user toggle content on mouseover as well.</p>
+        <p>Within the toggle, the content can be made up from various other drag and droppable components.&nbsp;<span style="font-size: 16px;">It's like a mini single slide accordion.</span></p>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
         <ul>
             <li>Showing collapsible panels</li>
             <li>Possibility to toggle on mouseover or open panel by default</li>
-            <li>Other components can be put on the panel</li>
+            <li>Other components can be put inside the placeholder.</li>
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

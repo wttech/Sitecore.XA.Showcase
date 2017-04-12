@@ -1,8 +1,8 @@
 ﻿---
-ID: "440f981c-3d26-4f04-9d72-8de384009a28"
+ID: "303b9c54-a8dd-4143-92e6-802124f384d8"
 Parent: "4b67b9b8-3515-4670-b753-10e69be0f845"
 Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
-Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Text 2"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Text 7"
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161017T141850Z
+      Value: 20170412T203405Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: Here we have Toggle component containing components, which in turn contain other components.
+      Value: "<p>What's can be more awesome than Toggle? Tabs possibly? You know what is better than Tabs and Toggle? Tabs in toggle!</p>"

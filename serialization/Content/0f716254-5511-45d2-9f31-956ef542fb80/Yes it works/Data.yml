@@ -1,0 +1,17 @@
+﻿---
+ID: "d9e19686-b1d6-4436-8982-7ad732d01bc5"
+Parent: "6a37831c-37bf-45c5-bad5-7c5a949ae1c3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Tabs in toggle/Yes it works/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170412T204157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
