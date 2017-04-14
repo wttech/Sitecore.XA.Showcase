@@ -5,6 +5,9 @@ Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: /sitecore/content/Showcase/int/home/components/navigation/navigation
 DB: master
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{3581659B-3761-41E3-933B-70D12A276919}"
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
   Value: "<image mediaid=\"{2D9B8A26-570D-4C76-9519-24B4D564D41A}\" ></image>"
@@ -320,6 +323,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

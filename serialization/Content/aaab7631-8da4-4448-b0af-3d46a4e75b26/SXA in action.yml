@@ -20,4 +20,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
       Hint: PromoLink
-      Value: "<link text=\"Contact Us\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}\" />"
+      Value: "<link id=\"{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}\" querystring=\"\" text=\"Contact Us\" title=\"\" class=\"\" linktype=\"internal\" url=\"/Showcase/int/home/about\" target=\"\" />"

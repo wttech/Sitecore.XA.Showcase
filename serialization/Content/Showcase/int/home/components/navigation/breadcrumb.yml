@@ -5,6 +5,9 @@ Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: /sitecore/content/Showcase/int/home/components/navigation/breadcrumb
 DB: master
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{3581659B-3761-41E3-933B-70D12A276919}"
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
   Value: "<image mediaid=\"{D8A3BF23-4DC4-4189-8ACD-EF8856D40C98}\" ></image>"
@@ -171,6 +174,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished

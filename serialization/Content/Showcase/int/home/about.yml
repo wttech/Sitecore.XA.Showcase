@@ -2,14 +2,14 @@
 ID: "d94d1f25-c0cf-4d0d-b809-7fc32e9a759e"
 Parent: "2c1db24e-0c8e-49fc-9569-f587509c3fd9"
 Template: "4573fa4b-b6df-4165-ba9f-8dba934c533f"
-Path: "/sitecore/content/Showcase/int/home/contact-us"
+Path: /sitecore/content/Showcase/int/home/about
 DB: master
 Languages:
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: Contact Us
+    Value: About
   Versions:
   - Version: 1
     Fields:
@@ -22,9 +22,9 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{4B44A350-2E2B-489B-B30E-6E4491987439}"
-              s:ds="{D35ADF42-57B3-4CA8-823C-A2C62EC84915}"
-              s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
+              uid="{2F350169-5DFA-4BEB-899D-B9058EB4F354}"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
               s:ph="/main/sxa-general-content/container-1" />
           </d>
@@ -37,7 +37,7 @@ Languages:
       Value: <p>We are always happy to hear from you.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<h1 style=\"text-align: center;\">We are always happy to hear from you!</h1>"
+      Value: "<h1 style=\"text-align: center;\">What is this site?</h1>"
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
@@ -46,4 +46,4 @@ Languages:
       Value: sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
-      Value: Contact Us
+      Value: About
