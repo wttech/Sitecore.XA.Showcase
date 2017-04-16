@@ -11,6 +11,9 @@ SharedFields:
 - ID: "76fb6ffd-4487-4028-a1cf-705fbe360cba"
   Hint: Priority
   Value: 
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:

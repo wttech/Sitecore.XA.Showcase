@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "22379a66-606e-4205-abee-f9ac597084dd"
       Hint: PosterImage
-      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" alt=\"Cognifide\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+      Value: "<image mediaid=\"{23EB30F1-4F0C-4002-A068-D141C4895F1D}\" alt=\"Cognifide\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161017T103153Z
@@ -20,4 +20,4 @@ Languages:
       Value: sitecore\admin
     - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
       Hint: YoutubeMovie
-      Value: "x4NV2dy-h9E"
+      Value: L6xIIVQ0G6E

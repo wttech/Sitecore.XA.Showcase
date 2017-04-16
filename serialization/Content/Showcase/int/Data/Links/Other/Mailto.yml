@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link text='Mail us your feedback' linktype='mailto' style='' url='mailto:zensitecore@cognifide.com?subject=Feedback about Zen Garden'  title='' />"
+      Value: "<link linktype=\"mailto\" text=\"Mail us your feedback\" url=\"mailto:adna@sitecore.net\" anchor=\"\" />"

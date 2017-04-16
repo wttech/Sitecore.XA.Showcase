@@ -33,15 +33,8 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0F1A303C-3834-4CF8-B7B0-FF5AFD1723A0}"
-              p:before="*"
-              s:ds="{A29A680A-58A7-4356-A7AC-E925B5A29D8E}"
-              s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
-            <r
               uid="{8236B9FC-9848-486D-96F4-82FD165510F8}"
-              p:after="r[@uid='{0F1A303C-3834-4CF8-B7B0-FF5AFD1723A0}']"
+              p:before="*"
               s:ds="{5004324A-4D90-4EC2-B721-C441B30F4B99}"
               s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles"

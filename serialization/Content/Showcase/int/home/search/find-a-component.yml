@@ -33,22 +33,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0F1A303C-3834-4CF8-B7B0-FF5AFD1723A0}"
-              p:before="*"
-              s:ds="{A29A680A-58A7-4356-A7AC-E925B5A29D8E}"
-              s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
-            <r
               uid="{8236B9FC-9848-486D-96F4-82FD165510F8}"
-              p:after="r[@uid='{0F1A303C-3834-4CF8-B7B0-FF5AFD1723A0}']"
+              p:before="*"
               s:ds="{5004324A-4D90-4EC2-B721-C441B30F4B99}"
               s:id="{B036EA2E-A7A1-4FFC-B296-F8E5212C46AC}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
             <r
-              uid="{69245079-CC53-435B-9AB4-8C20DE1D8EDC}"
+              uid="{3B164674-BDB9-4CFC-831B-ED028D5410C7}"
               p:after="r[@uid='{8236B9FC-9848-486D-96F4-82FD165510F8}']"
+              s:ds="{C16C85D6-527E-4DCB-8C50-B5796DFBE66C}"
+              s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{69245079-CC53-435B-9AB4-8C20DE1D8EDC}"
+              p:after="r[@uid='{3B164674-BDB9-4CFC-831B-ED028D5410C7}']"
               s:ds=""
               s:id="{54A41030-BFF4-49E5-90FC-42A99E602863}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}&amp;SearchSignature&amp;Styles&amp;AvailableVariants={FC13847D-A431-4A37-AA7E-0E330C3D6E9D}|{3293C132-39E0-49CA-8680-559DA080D7B3}"

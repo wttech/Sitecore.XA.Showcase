@@ -9,6 +9,9 @@ SharedFields:
   Hint: NavigationFilter
   Type: Checklist
   Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:

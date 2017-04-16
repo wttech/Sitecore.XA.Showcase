@@ -4,6 +4,10 @@ Parent: "ada2ec1a-5ae5-4299-a9ce-12137d3dfd27"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/components/navigation/link-list"
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{4D3E85E4-619B-4EC1-9E43-C74534C32F14}|{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:
@@ -155,7 +159,7 @@ Languages:
       Value: Navigation
     - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
       Hint: ComponentType
-      Value: Rendering Variant
+      Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: "<image mediaid=\"{7028017A-B690-4CE5-9171-0AE8D09E26B4}\" />"

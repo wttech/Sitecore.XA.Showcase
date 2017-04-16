@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link text=\"Say hello to Zen Garden\" linktype=\"javascript\" url=\"javascript:window.alert('Hello Zen Garden!')\" anchor=\"\" />"
+      Value: "<link linktype=\"javascript\" text=\"Say hello to SXA\" url=\"javascript:window.alert('Hello SXA!')\" anchor=\"\" />"

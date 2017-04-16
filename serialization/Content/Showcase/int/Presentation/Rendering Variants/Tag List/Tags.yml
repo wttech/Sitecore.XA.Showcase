@@ -1,0 +1,14 @@
+﻿---
+ID: "5a624a69-2bb5-453d-9515-79d40d14144e"
+Parent: "46f6ec60-40ce-4396-b2ec-9450283662e9"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Tag List/Tags
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160623T082501Z

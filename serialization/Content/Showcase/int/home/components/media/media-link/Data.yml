@@ -1,8 +1,8 @@
 ﻿---
-ID: "e544ef73-11eb-4193-8121-66a6cf7776e3"
-Parent: "882f4a73-6b97-4646-904c-72dcb78e888b"
-Template: "d2923fee-da4e-49be-830c-e27764dfa269"
-Path: /sitecore/content/Showcase/int/Data/Component Type/Composite
+ID: "f933b028-e835-4c88-bb05-edbd9854e665"
+Parent: "fcbbed28-1733-4417-9c73-7b91380171b2"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/media/media-link/Data"
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170403T151433Z
+      Value: 20170416T181231Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

@@ -1,0 +1,21 @@
+﻿---
+ID: "8fee667f-11e3-41b9-be87-0094e1d48a71"
+Parent: "8ccefd32-cade-4293-8eb4-667d87feec16"
+Template: "e379ca4e-ec5d-4001-9489-c0a7ceca4c94"
+Path: /sitecore/content/Showcase/int/Settings/Item Queries/Children
+DB: master
+SharedFields:
+- ID: "e9657877-584c-4ccf-8300-dc9246c8c80b"
+  Hint: Query
+  Value: "query:./*[@@templatename!='Page Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160630T132035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

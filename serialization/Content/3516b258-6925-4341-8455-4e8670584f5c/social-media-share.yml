@@ -4,6 +4,10 @@ Parent: "3516b258-6925-4341-8455-4e8670584f5c"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/components/other/social/social-media-share"
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:

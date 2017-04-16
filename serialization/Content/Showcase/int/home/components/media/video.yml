@@ -4,6 +4,10 @@ Parent: "0e449363-b378-4ca9-b1a2-1bff15906615"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: /sitecore/content/Showcase/int/home/components/media/video
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:
@@ -23,9 +27,9 @@ Languages:
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
               uid="{BA469F10-244F-4AA7-B1F2-83838C4C1F69}"
-              s:ds="{8E2004CB-34AB-49DA-8D2C-E0CCA7E5BBBB}"
+              s:ds="{D35ADF42-57B3-4CA8-823C-A2C62EC84915}"
               s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={16DB1206-B4B4-4A9D-9345-1CC6B9D7BD37}"
               s:ph="/main/sxa-component-content/row-2-1" />
           </d>
         </r>

@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<p><span style=\"font-size: 14px; line-height: 1.5;\">You can even point to documents in your media library, but this is something we'd recommend using the Media Link component for (described below).</span></p>"
+      Value: "<p><span style=\"font-size: 14px; line-height: 1.5;\">You can even point to documents in your media library, but this is something we'd recommend using the <a href=\"~/link.aspx?_id=FCBBED28173344179C737B91380171B2&amp;_z=z\">Media Link</a>&nbsp;or <a href=\"~/link.aspx?_id=149D6760977A47EDB2E2495A67111634&amp;_z=z\">File List</a> components for.</span></p>"

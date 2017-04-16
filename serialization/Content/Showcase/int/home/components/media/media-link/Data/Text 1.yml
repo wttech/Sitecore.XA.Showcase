@@ -1,0 +1,22 @@
+﻿---
+ID: "84db530f-8494-47da-814b-2e35c6d47ece"
+Parent: "f933b028-e835-4c88-bb05-edbd9854e665"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/media/media-link/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170416T181231Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Media link</h2>
+        <p>If your web page needs a link to a document, or to any other asset stored in the Media Library, please take a look at the Media Link component. This dedicated component allows you to display additional file metadata: e.g. longer description, custom image,&nbsp;size&nbsp;of the asset, etc. The better you present your asset, the more likely is your user to follow the link.</p>

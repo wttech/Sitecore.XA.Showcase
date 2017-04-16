@@ -8,6 +8,9 @@ SharedFields:
 - ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
   Hint: NavigationClass
   Value: "{3581659B-3761-41E3-933B-70D12A276919}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{4D3E85E4-619B-4EC1-9E43-C74534C32F14}|{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
   Value: "<image mediaid=\"{D8A3BF23-4DC4-4189-8ACD-EF8856D40C98}\" ></image>"
@@ -191,7 +194,7 @@ Languages:
       Value: Navigation
     - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
       Hint: ComponentType
-      Value: Rendering Variant
+      Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: "<image mediaid=\"{DD7E4938-9358-446D-B07B-C4D44851B672}\" />"

@@ -4,6 +4,10 @@ Parent: "1df6019d-7636-40ab-95f1-7a3f347de178"
 Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/components/taxonomy/tag-cloud"
 DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{4D3E85E4-619B-4EC1-9E43-C74534C32F14}|{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:
@@ -13,9 +17,36 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{58AAE042-ED67-4CB8-ADAA-F8997BA52C6B}"
+              s:ds="{2C1DB24E-0C8E-49FC-9569-F587509C3FD9}"
+              s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchResultPage&amp;Facet&amp;FieldNames&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T070439Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: Compared to conventional navigation patterns tag cloud can provide visitors with an instant illustration of the main topics, giving a very specific and precise orientation of the site’s content. Since human beings tend to think in concepts and models, it’s easier to get an idea of presented content if the main concepts are given straight away — in digestible pieces, and prioritized by their weight. In fact, the main advantage of tag clouds lies in their ability to highlight the most important or/and popular subjects dynamically which is not the case in conventional navigation menus.&nbsp;
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Allows for easy blog and site branch tag clouds</li>
+            <li>Enables easy styling based on how many articles tagged by particular tags exist</li>
+            <li>Allows for navigation to a search page with a clicked tag selected</li>
+        </ul>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

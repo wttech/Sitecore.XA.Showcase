@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link linktype=\"external\" text=\"SXA from Cognifide\" url=\"http://cognifide.com/accelerators/zen-garden-for-sitecore/\" anchor=\"\" target=\"\" />"
+      Value: "<link linktype=\"external\" text=\"SXA from Sitecore\" url=\"http://www.sitecore.net/en/products/sitecore-experience-platform/wcm/experience-accelerators\" anchor=\"\" target=\"\" />"
