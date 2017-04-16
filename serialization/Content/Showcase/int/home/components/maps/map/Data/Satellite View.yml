@@ -1,0 +1,36 @@
+﻿---
+ID: "a2be105c-b7e6-4cdb-93cf-ade0fe95bcb1"
+Parent: "00912205-01d2-49a5-8fad-dce6cd1c53a1"
+Template: "0aacd498-cea9-4e37-8ca0-61d1f024fb34"
+Path: /sitecore/content/Showcase/int/home/components/maps/map/Data/Satellite View
+DB: master
+SharedFields:
+- ID: "37b1dd2c-ac94-4281-b9b5-c6437028072a"
+  Hint: CentralPointLongitude
+  Value: "-74.0444"
+- ID: "54addae0-9c54-42a0-9220-5aaac5312e1a"
+  Hint: Zoom
+  Value: "{06B69B04-82B1-479F-93BB-6006C151038A}"
+- ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
+  Hint: Width
+  Value: 
+- ID: "a07c174f-60f9-467f-8a05-6f272f22f4ea"
+  Hint: Mode
+  Value: "{3E924E01-D3E5-4E32-B12D-28BEF8262055}"
+- ID: "d9dd5de6-af41-4d3b-9f73-4ff9bd05898b"
+  Hint: CentralPointMode
+  Value: "{4D3501A6-E34B-4E19-B6B2-BDA2CFDA2C8A}"
+- ID: "fcc4f148-2f8a-4310-a898-c38fee380e9e"
+  Hint: CentralPointLatidiute
+  Value: 40.6895
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170416T062500Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
