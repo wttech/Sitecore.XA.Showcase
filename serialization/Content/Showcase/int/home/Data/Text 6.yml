@@ -18,8 +18,9 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p style="text-align: center;" class="dropcap"><strong><span style="font-size: 32px;"><em class="fa fa-circle-o"></em><em style="margin-left: -4px;" class="fa fa-circle-o"></em></span><br />
+        <p style="text-align: center;" class="dropcap"><strong><span style="font-size: 38px;"><em class="fa fa-circle-o"></em><em style="margin-left: -4px;" class="fa fa-circle-o"></em></span><br />
         </strong></p>
-        <div style="text-align: center;"><strong><br />limitless possibilities</strong></div>
+        <div style="text-align: center;"><strong><br />
+        limitless possibilities</strong></div>
         <strong>
         </strong>

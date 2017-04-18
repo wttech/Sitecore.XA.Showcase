@@ -1,0 +1,29 @@
+﻿---
+ID: "1aface58-7d4e-4119-b2b7-e6e87744d1a9"
+Parent: "765b845a-ef81-45f1-a525-8520c478b897"
+Template: "ade9eff4-da78-4e26-9248-b01bd93eae95"
+Path: /sitecore/content/Showcase/int/Data/Videos/We are Cognifide
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22379a66-606e-4205-abee-f9ac597084dd"
+      Hint: PosterImage
+      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T181912Z
+    - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
+      Hint: MovieThumbnail
+      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
+      Hint: MovieCaption
+      Value: We're Cognifide
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: "x4NV2dy-h9E"

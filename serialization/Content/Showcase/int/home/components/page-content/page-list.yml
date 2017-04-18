@@ -29,53 +29,60 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{B1C2146B-752C-45A8-A931-8EE16C1C4A2E}"
-              p:before="*"
-              s:ds="{A6494612-F743-4162-8C46-E01A9D1E772B}"
-              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize=5&amp;Offset&amp;FieldNames={1B5EFC8D-8982-49C7-955C-98E973AA6458}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=2&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-2" />
-            <r
-              uid="{8835E75E-0694-4BBD-9082-4639115AA79A}"
-              p:after="r[@uid='{B1C2146B-752C-45A8-A931-8EE16C1C4A2E}']"
-              s:ds="local:/Data/Text 2"
-              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
-              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
-            <r
-              uid="{448FDBAE-AF2E-42A6-AD48-3B403F090471}"
-              p:after="r[@uid='{8835E75E-0694-4BBD-9082-4639115AA79A}']"
-              s:ds="{1CA5FAC6-2B87-4AA7-8CD5-3E7095D44CBE}"
-              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="ListSignature&amp;PageSize=5&amp;Offset&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
-            <r
               uid="{981084DE-810F-48B2-919D-30D36FFFE9F7}"
-              p:after="r[@uid='{448FDBAE-AF2E-42A6-AD48-3B403F090471}']"
+              p:before="*"
               s:ds="local:/Data/Text 1"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
-              uid="{6A1E650C-4CEE-4D19-802D-D205CA28B789}"
+              uid="{448FDBAE-AF2E-42A6-AD48-3B403F090471}"
               p:after="r[@uid='{981084DE-810F-48B2-919D-30D36FFFE9F7}']"
-              s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ds="{1CA5FAC6-2B87-4AA7-8CD5-3E7095D44CBE}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize=5&amp;Offset&amp;FieldNames={35EDB31D-0B02-41D5-809E-AE27CC0E5627}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{1E34DFC6-3B3F-4AC0-AC85-6B8F577C6587}"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{8835E75E-0694-4BBD-9082-4639115AA79A}"
+              p:after="r[@uid='{448FDBAE-AF2E-42A6-AD48-3B403F090471}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={847986C1-FF5D-4B49-9477-B126B3520A97}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{F17B323B-1C98-40A9-86C2-1153D4D4505D}"
-              p:after="r[@uid='{6A1E650C-4CEE-4D19-802D-D205CA28B789}']"
+              p:after="r[@uid='{8835E75E-0694-4BBD-9082-4639115AA79A}']"
               s:ds="local:/Data/Text 3"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="Styles={44829208-73A4-45C5-B2F1-94D7EC00BB4A}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
-              uid="{F9D65124-3A12-45C3-9B24-E61E8B7C2C24}"
+              uid="{5DFF231F-5B1E-48F0-BB9A-E9795D543DBD}"
               p:after="r[@uid='{F17B323B-1C98-40A9-86C2-1153D4D4505D}']"
-              s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth2={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=2&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ds="{EA18DC2A-B757-4295-98E9-5B4CB1DF7FCC}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize=3&amp;Offset&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={B3B0951D-7970-4C6D-BC97-93F43A62FEE9}&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{02FE54B1-A84E-477C-A930-5CD8F462A4CB}"
+              p:after="r[@uid='{5DFF231F-5B1E-48F0-BB9A-E9795D543DBD}']"
+              s:ds="{EA18DC2A-B757-4295-98E9-5B4CB1DF7FCC}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize=15&amp;Offset&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={31672603-F0E6-4B49-A149-6DEA85A9B0B2}&amp;Styles={15752FE1-E15D-4171-96B9-DB695CAADC72}&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{B977759D-3017-48D9-946C-EE25BC561E4E}"
+              p:after="r[@uid='{02FE54B1-A84E-477C-A930-5CD8F462A4CB}']"
+              s:ds="{EA18DC2A-B757-4295-98E9-5B4CB1DF7FCC}"
+              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+              s:par="ListSignature&amp;PageSize&amp;Offset&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames&amp;Styles&amp;SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{96ACC6C6-68EB-4E94-A018-16BEED6634D7}"
+              p:after="r[@uid='{B977759D-3017-48D9-946C-EE25BC561E4E}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{0C19DA1B-8FDE-41AD-B493-EF9B3DC122F4}"
@@ -91,7 +98,7 @@ Languages:
       Value: 20161006T072310Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p>The Page List component renders a list of pages. Simple. The listing content is generated from fields on pages being listed. You can configure which fields should be shown, and style them any way you want. The pages list is constructed using a Sitecore query. We can also choose if we would like to display child or sibling pages or items with the same template. The options for this component are endless! There are a set of out of the box variants to choose from, but you can of course define your own. It is used for everything from scrolling full width hero images to a basic table of contents. If you have the content in Sitecore this component can render it in a list!</p>"
+      Value: "<p>The Page List component that renders... a list of pages. Simple. The listing content is generated from fields on pages being listed. You can configure which fields should be shown, and style them any way you want. The pages list is constructed using a Sitecore query, so you can choose if you would like to display child or sibling pages or items with the same template... or any other query you can construct. The options for this component are endless! The component supports <a href=\"~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z\">rendering variants</a>. It comes with a simple example, but you can of course define your own. It is used for everything from scrolling full width hero images to a basic table of contents.</p>"
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -104,6 +111,9 @@ Languages:
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

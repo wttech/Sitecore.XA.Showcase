@@ -1,0 +1,40 @@
+﻿---
+ID: "32355aca-0500-4855-bf00-3880f67ccf4a"
+Parent: "487e81fa-34d2-401d-bb4c-9e2c3bf997ab"
+Template: "75746d59-692e-47db-a87c-b5d4b756a1ee"
+Path: /sitecore/content/Showcase/int/Data/Playlists/Playlist/We are Cognifide
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22379a66-606e-4205-abee-f9ac597084dd"
+      Hint: PosterImage
+      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T181134Z
+    - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
+      Hint: MovieThumbnail
+      Value: "<image mediaid=\"{CA8E0329-D7EC-4044-B31E-E63BEC1206F9}\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "75562c38-22f6-4b63-af7a-daf44f0730f1"
+      Hint: MovieDescription
+      Value: |
+        <p>We're a customer experience consultancy. A team of passionate individuals, transforming how our clients build and run their digital operations.
+        </p>
+        <p>
+        Watch this short film to find out more about us.</p>
+    - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
+      Hint: MovieCaption
+      Value: Hi, we're Cognifide.
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: "x4NV2dy-h9E"

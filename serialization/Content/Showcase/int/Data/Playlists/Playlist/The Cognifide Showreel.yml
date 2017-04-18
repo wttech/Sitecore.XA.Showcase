@@ -1,0 +1,36 @@
+﻿---
+ID: "caffc40b-e3e1-4d65-b1bd-5f42afec4b12"
+Parent: "487e81fa-34d2-401d-bb4c-9e2c3bf997ab"
+Template: "75746d59-692e-47db-a87c-b5d4b756a1ee"
+Path: /sitecore/content/Showcase/int/Data/Playlists/Playlist/The Cognifide Showreel
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22379a66-606e-4205-abee-f9ac597084dd"
+      Hint: PosterImage
+      Value: "<image mediaid=\"{6F909D95-0B8A-4E61-AC63-94F697E8953A}\" />"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T191410Z
+    - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
+      Hint: MovieThumbnail
+      Value: "<image mediaid=\"{6F909D95-0B8A-4E61-AC63-94F697E8953A}\" />"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "75562c38-22f6-4b63-af7a-daf44f0730f1"
+      Hint: MovieDescription
+      Value: Take a look at some of our work, see how we free our clients to create amazing experiences online and learn about some of their success stories.
+    - ID: "c4a0614e-5a4a-4ecf-b49b-b0d82e5eee7e"
+      Hint: MovieCaption
+      Value: The Cognifide Showreel
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: d9wCau17E1g

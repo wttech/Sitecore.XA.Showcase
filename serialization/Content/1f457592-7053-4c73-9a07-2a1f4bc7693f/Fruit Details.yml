@@ -4,6 +4,11 @@ Parent: "1f457592-7053-4c73-9a07-2a1f4bc7693f"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Page Content/Fruit Details
 DB: master
+SharedFields:
+- ID: "696c70e2-eb4e-425d-81e4-802bab6a03cf"
+  Hint: AllowedInTemplates
+  Type: Multilist
+  Value: "{BDA146E9-1CD3-4955-A2DA-6676F677562F}"
 Languages:
 - Language: en
   Versions:

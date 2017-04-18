@@ -1,0 +1,34 @@
+﻿---
+ID: "1091eeb4-74a7-4b04-a8d9-3399fe4e7960"
+Parent: "2ec663fc-332c-4018-8a7a-0ed299c7a3db"
+Template: "62aa32c6-5c12-4d5d-899d-19375d69bb41"
+Path: "/sitecore/content/Showcase/int/Settings/Datasource Configurations/3C84ED23-7591-45E0-8850-1AE96D1342B1"
+DB: master
+SharedFields:
+- ID: "68bfa8e2-0f2e-4afa-b95b-a44b6b75ffcb"
+  Hint: CompatibleRenderings
+  Type: Treelist
+  Value: |
+    {3C84ED23-7591-45E0-8850-1AE96D1342B1}
+    {F16CE601-EECF-4DFC-B278-DE5F9562551B}
+- ID: "a69fef91-cd50-4b8c-917a-3b5435029570"
+  Hint: DatasourceLocation
+  Type: Treelist
+  Value: |
+    {295D7E4B-69A8-409E-AD3C-7DA6FB7CE445}
+    {765B845A-EF81-45F1-A525-8520C478B897}
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Video
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T185956Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

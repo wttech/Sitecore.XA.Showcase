@@ -18,8 +18,9 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
-        <p style="text-align: center;"><strong><span class="dropcap">2011</span><br />
+        <p style="text-align: center;"><strong><span class="dropcap" style="font-size: 38px; font-weight: bold;">2011</span><br />
         </strong></p>
-        <div style="text-align: center;"><strong><br />expertly developed since</strong></div>
+        <div style="text-align: center;"><strong><br />
+        expertly developed since</strong></div>
         <strong>
         </strong>
