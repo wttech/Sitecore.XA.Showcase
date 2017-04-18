@@ -20,9 +20,55 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5F1249B0-23F6-4933-98AA-DA3A27150518}"
+              p:before="*"
+              s:ds="{A9A36B63-1BFA-437E-80FA-721A7E5B165E}"
+              s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1" />
+            <r
+              uid="{BFA7E1B2-D8EF-4CF5-BDEC-F2E4093F0F1D}"
+              p:after="r[@uid='{5F1249B0-23F6-4933-98AA-DA3A27150518}']"
+              s:ds="{E4F35F3C-0768-46D8-AB41-6352EEF56120}"
+              s:id="{76891D2D-6653-483F-AE86-A77FE6E96AC6}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={F312E046-02C0-4DC7-B259-5214C174420E}&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1/row-1-1" />
+            <r
+              uid="{9CCF02D5-368A-443F-BC55-F8D054692EF9}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=2&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T065833Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: <p>There are pages, there are products and there are pages about products. Products have specifications that need to be listed. This can be done best with Field Editor.</p>
+    - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
+      Hint: FeatureList
+      Value: |
+        <ul>
+            <li>Renders list of fields in a table</li>
+            <li>Ideal for specification listings</li>
+            <li>Displays any field on an item</li>
+            <li>Point data source to another item to render that instead of fields of the current page.</li>
+        </ul>
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

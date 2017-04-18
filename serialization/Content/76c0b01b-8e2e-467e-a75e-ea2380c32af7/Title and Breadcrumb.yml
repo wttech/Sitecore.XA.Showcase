@@ -36,7 +36,7 @@ Languages:
               p:after="r[@uid='{54F3C581-FD30-4C60-B9A3-7BF73ADBCC85}']"
               s:ds=""
               s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;BreadcrumbRoot={2C1DB24E-0C8E-49FC-9569-F587509C3FD9}&amp;Separator=&gt;&amp;IsNavigation&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;FieldNames={FF5BE240-92E5-44CD-A206-2F8505A0C7C2}&amp;Styles={1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}&amp;BreadcrumbRoot={2C1DB24E-0C8E-49FC-9569-F587509C3FD9}&amp;Separator=&gt;&amp;IsNavigation=1&amp;Filter={E0A2A027-0932-4878-A7D6-0416D5263EFB}"
               s:ph="/main/container-1" />
             <r
               uid="{A74DC3D3-0645-45B1-9FAB-05F9FA067023}"
