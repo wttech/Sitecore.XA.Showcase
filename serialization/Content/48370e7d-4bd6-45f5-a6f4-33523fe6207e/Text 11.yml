@@ -19,7 +19,7 @@ Languages:
       Hint: Text
       Value: |
         Font Awesome support:
-        <blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><em class="fa fa-check-circle-o"></em> Done<br>
-        <em class="fa fa-circle-o"></em> Not done<br>
+        <blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><em class="fa fa-check-circle-o"></em> Done<br />
+        <em class="fa fa-circle-o"></em> Not done<br />
         <em class="fa fa-times"></em> Cancelled
         </blockquote>

@@ -1,0 +1,34 @@
+﻿---
+ID: "012dd852-7d6c-4075-9b05-ecca1e064420"
+Parent: "6f047f60-a385-46b3-9585-d8d7b72ce227"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: /sitecore/media library/Project/Showcase/Themes/Showcase/Sass/fontawesome/_path
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/012DD8527D6C40759B05ECCA1E064420.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "997726d0-20ea-4c08-a7a6-e5c479b5e974"
+  Value: LyogRk9OVCBQQVRICiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tICovCgpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ0ZvbnRBd2Vzb21lJzsKICBzcmM6IHVybCgnI3skZmEtZm9udC1wYXRofS9mb250YXdlc29tZS13ZWJmb250LmVvdD92PSN7JGZhLXZlcnNpb259Jyk7CiAgc3JjOiB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vZm9udGF3ZXNvbWUtd2ViZm9udC5lb3Q/I2llZml4JnY9I3skZmEtdmVyc2lvbn0nKSBmb3JtYXQoJ2VtYmVkZGVkLW9wZW50eXBlJyksCiAgICB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vZm9udGF3ZXNvbWUtd2ViZm9udC53b2ZmMj92PSN7JGZhLXZlcnNpb259JykgZm9ybWF0KCd3b2ZmMicpLAogICAgdXJsKCcjeyRmYS1mb250LXBhdGh9L2ZvbnRhd2Vzb21lLXdlYmZvbnQud29mZj92PSN7JGZhLXZlcnNpb259JykgZm9ybWF0KCd3b2ZmJyksCiAgICB1cmwoJyN7JGZhLWZvbnQtcGF0aH0vZm9udGF3ZXNvbWUtd2ViZm9udC50dGY/dj0jeyRmYS12ZXJzaW9ufScpIGZvcm1hdCgndHJ1ZXR5cGUnKSwKICAgIHVybCgnI3skZmEtZm9udC1wYXRofS9mb250YXdlc29tZS13ZWJmb250LnN2Zz92PSN7JGZhLXZlcnNpb259I2ZvbnRhd2Vzb21lcmVndWxhcicpIGZvcm1hdCgnc3ZnJyk7Ci8vICBzcmM6IHVybCgnI3skZmEtZm9udC1wYXRofS9Gb250QXdlc29tZS5vdGYnKSBmb3JtYXQoJ29wZW50eXBlJyk7IC8vIHVzZWQgd2hlbiBkZXZlbG9waW5nIGZvbnRzCiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICBmb250LXN0eWxlOiBub3JtYWw7Cn0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 783
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T082028Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

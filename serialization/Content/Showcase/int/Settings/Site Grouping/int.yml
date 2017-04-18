@@ -13,7 +13,7 @@ SharedFields:
   Value: "formsRoot=%7B89790C84-71CF-46E1-B2AC-921478F207BA%7D"
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: sxa
+  Value: *
 - ID: "bdda404f-9835-456a-84d2-6e9cfe6b5909"
   Hint: HtmlCacheSize
   Value: 16

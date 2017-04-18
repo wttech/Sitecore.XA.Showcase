@@ -57,8 +57,9 @@ Languages:
       Hint: FeatureList
       Value: |
         <ul>
-            <li>Possibility to read and post comments hosted on Facebook</li>
-            <li>Easy configuration in the component properties</li>
+            <li>Possibility to read and post comments hosted on Disqus.</li>
+            <li>Easy configuration in the component properties.</li>
+            <li>Ability to login with various social network accounts.</li>
         </ul>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by

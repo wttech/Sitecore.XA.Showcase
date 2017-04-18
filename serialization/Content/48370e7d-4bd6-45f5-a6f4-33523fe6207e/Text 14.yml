@@ -21,7 +21,7 @@ Languages:
         <p>Multi-level lists:</p>
         <ol>
             <li>Oranges </li>
-            <li>Apples<br>
+            <li>Apples<br />
             <ol>
                 <li>Pink Lady</li>
                 <li>Red Delicious</li>
