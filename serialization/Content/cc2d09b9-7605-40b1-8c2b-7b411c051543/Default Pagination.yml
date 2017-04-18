@@ -1,0 +1,14 @@
+﻿---
+ID: "dfd88cab-239b-4148-994f-97931c4e986d"
+Parent: "cc2d09b9-7605-40b1-8c2b-7b411c051543"
+Template: "458a37ba-8222-4182-86e5-e086cfcdad5c"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/pagination/Data/Default Pagination"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T200438Z

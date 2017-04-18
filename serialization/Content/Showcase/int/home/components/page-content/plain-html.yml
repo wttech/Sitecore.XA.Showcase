@@ -125,7 +125,7 @@ Languages:
       Value: |
         <ul>
         <li>Include a specific HTML code portion</li>
-        <li>You have a full control over the markup</li>
+        <li>You have full control over the markup</li>
         <li>Support for both shared and single page use</li>
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"

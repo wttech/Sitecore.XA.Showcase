@@ -1,0 +1,20 @@
+﻿---
+ID: "ae186734-3c72-4fac-a513-80e92a9c3f7a"
+Parent: "cc2d09b9-7605-40b1-8c2b-7b411c051543"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/pagination/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T205432Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>With the threshold at 10 (since we have less than 10 pages) you see all the page numbers. Additionally you see that each page list can have multiple Pagination components &nbsp;attached to it.&nbsp;</p>
