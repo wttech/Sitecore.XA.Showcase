@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
-  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}|{58CFCBEC-0898-4F82-B8A6-D045E883F9EB}"
 Languages:
 - Language: en
   Fields:
@@ -20,6 +20,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T070100Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

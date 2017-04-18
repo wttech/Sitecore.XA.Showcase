@@ -196,10 +196,10 @@ Languages:
             <li>Use buttons to build CTA boxes.</li>
             <li>Various display of the same promo in different contexts with component variants.</li>
             <li>Embed other components inside extensible promo.</li>
-            <li>Limitless desing options and different styles to choose from.</li>
+            <li>Limitless design options and different styles to choose from.</li>
             <li>Reusable on any number of pages.</li>
         </ul>
-        <p>Find detailed information on our <a href="https://confluence.cognifide.com/confluence/display/ZGS/Using+promo">documentation page</a>.</p>
+        <p>Find detailed information on our documentation page.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"

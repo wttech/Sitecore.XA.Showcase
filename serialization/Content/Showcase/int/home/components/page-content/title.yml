@@ -157,6 +157,9 @@ Languages:
             <li> Can be used anywhere on the page</li>
             <li>More detailed information can be found in the documentation for <a href="https://confluence.cognifide.com/confluence/display/ZGS/Using+title" target="_blank" title="Link to our documentation">Title</a></li>
         </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
