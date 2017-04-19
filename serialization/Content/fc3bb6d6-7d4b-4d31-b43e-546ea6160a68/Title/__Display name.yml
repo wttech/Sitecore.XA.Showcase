@@ -1,0 +1,21 @@
+﻿---
+ID: "bfd04ff5-8211-4f1a-83f6-10993990f321"
+Parent: "fbc2484d-36b7-4404-836b-55e92e9a7b81"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Title/Page Title with Fallback/Title/__Display name
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: __Display name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170419T150049Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

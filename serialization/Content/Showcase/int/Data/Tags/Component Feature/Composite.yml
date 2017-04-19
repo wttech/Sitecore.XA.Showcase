@@ -1,8 +1,8 @@
 ﻿---
-ID: "4d3e85e4-619b-4ec1-9e43-c74534c32f14"
+ID: "bca47677-aaad-48fc-91df-7d79c18e94ee"
 Parent: "b424f0c6-a6ff-4c03-b073-376c82045218"
 Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
-Path: /sitecore/content/Showcase/int/Data/Tags/Component/Rendering Variants
+Path: /sitecore/content/Showcase/int/Data/Tags/Component Feature/Composite
 DB: master
 Languages:
 - Language: en
@@ -11,10 +11,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170416T213010Z
+      Value: 20170416T213017Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
     - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
       Hint: Title
-      Value: Rendering Variants
+      Value: Composite

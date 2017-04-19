@@ -1,0 +1,23 @@
+﻿---
+ID: "03a1e3d1-0c25-4062-92aa-036648468072"
+Parent: "cfcd1a9d-cd14-4ec3-97fe-8f1fa8c9b118"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/title/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170419T145815Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Title with fall back</h2>
+        <p>But what if your page does not have a Title field? Don't worry we have a variant for that. This component variant with fall back allows you to define what happens in such a case. In the example presented here the following is happening: if the primary title of the page is not defined then the navigation title is displayed. If this field is also empty the display name is shown and if that fails a custom text message will appear.</p>
+        <p><img height="207" alt="Rendering variants field fallback with warning" width="489" src="-/media/2ADAEB54AEFA4AB3889699E8D3C0C7DE.ashx" /></p>
