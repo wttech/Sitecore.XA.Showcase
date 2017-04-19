@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
-  Value: "{4D3E85E4-619B-4EC1-9E43-C74534C32F14}|{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
+  Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
 Languages:
 - Language: en
   Fields:
@@ -269,6 +269,9 @@ Languages:
             <li>Apply component variants for various display of the same media link in different contexts.<br /></li>
         </ul>
         <p>Find detailed information on our documentation page.</p>
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
