@@ -8,10 +8,14 @@ SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
   Value: Benefit
+- ID: "7310794a-15c4-4b69-bebe-29e084aff571"
+  Hint: UseFieldRenderer
+  Type: Checkbox
+  Value: 0
 - ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
   Hint: IsLink
   Type: Checkbox
-  Value: 1
+  Value: 0
 Languages:
 - Language: en
   Versions:
