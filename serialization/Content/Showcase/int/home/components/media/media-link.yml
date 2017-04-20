@@ -108,7 +108,7 @@ Languages:
       Value: 20161013T133134Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<div><span style=\"font-size: 16px;\">Media link allows you to build rich and consistent asset downloads across your site.</span><br /></div>"
+      Value: Media link allows you to build rich and consistent asset downloads across your site.
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -120,6 +120,9 @@ Languages:
             <li>Use tokens to display basic asset properties: file type and size.</li>
         </ul>
         <div>Find detailed information on our documentation page.</div>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished

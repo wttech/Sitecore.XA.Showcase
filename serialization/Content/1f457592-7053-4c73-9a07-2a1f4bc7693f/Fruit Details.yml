@@ -9,6 +9,9 @@ SharedFields:
   Hint: AllowedInTemplates
   Type: Multilist
   Value: "{BDA146E9-1CD3-4955-A2DA-6676F677562F}"
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "fruit-details"
 Languages:
 - Language: en
   Versions:

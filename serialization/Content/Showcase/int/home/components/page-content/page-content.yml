@@ -97,7 +97,7 @@ Languages:
       Value: With Page Content component you can drag &amp; drop the content wherever you think it fits best and thanks to component variants you can easily select appropriate field to be shown from a drop down list.
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: <p>Your content is stored as fields on Sitecore pages. <b>Title</b>, <b>Main copy</b>, or <b>Header image</b> are just few examples of fields you might have. With Page Content component you can drag &amp; drop the content wherever you think it fits best and thanks to component variants you can easily select the appropriate field to be shown from a drop down list.</p>
+      Value: "<p>Your content is stored as fields on Sitecore pages. The title, main copy, or header image are just a&nbsp;few examples of fields you might have. With Page Content component you can drag &amp; drop the content wherever you think it fits best and thanks to <a href=\"~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z\">rendering variants</a> you can easily select the appropriate field to be shown from a drop down list.</p>"
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -106,6 +106,9 @@ Languages:
             <li>Compatible with Rendering Variants which reduces the risk of choosing non existing content element because of typos.<br /></li>
             <li>Fully themeable.</li>
         </ul>
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished

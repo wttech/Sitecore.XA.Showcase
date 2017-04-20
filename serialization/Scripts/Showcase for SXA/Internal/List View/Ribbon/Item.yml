@@ -1,0 +1,17 @@
+﻿---
+ID: "8828a05b-43e2-4177-b5fb-5f93e60249e2"
+Parent: "069a798e-41ec-4619-a774-1d42214a73b3"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Showcase for SXA/Internal/List View/Ribbon/Item
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T000312Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

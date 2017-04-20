@@ -35,8 +35,12 @@ SharedFields:
     $source = Get-Item 'master:\media library\Project\Showcase' | New-ItemSource -Name 'Media' -InstallMode Overwrite
     $package.Sources.Add($source);
     
-    # content
+    # Content
     $source = Get-Item 'master:\content\Showcase' | New-ItemSource -Name "Content" -InstallMode Overwrite
+    $package.Sources.Add($source);
+    
+    # Scripts
+    $source = Get-Item 'master:\system\Modules\PowerShell\Script Library\Showcase for SXA' | New-ItemSource -Name "Scripts" -InstallMode Overwrite
     $package.Sources.Add($source);
     
     # Files
@@ -46,6 +50,7 @@ SharedFields:
     $packageName = "$($package.Name)-$Version";
     Export-Package -Project $package -Path "$packageName.zip" -Zip
     Download-File "$SitecorePackageFolder\$packageName.zip"
+    Close-Window
 Languages:
 - Language: en
   Versions:

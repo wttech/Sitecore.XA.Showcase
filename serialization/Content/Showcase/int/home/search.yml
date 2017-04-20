@@ -5,6 +5,9 @@ Template: "4573fa4b-b6df-4165-ba9f-8dba934c533f"
 Path: /sitecore/content/Showcase/int/home/search
 DB: master
 SharedFields:
+- ID: "a4960085-5c00-4b39-ba38-cdb43f1d776f"
+  Hint: Body Id
+  Value: "search-hub"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 94
@@ -26,8 +29,20 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{E66863B9-9CDF-4B01-8E2E-B21344FAC99A}"
+              uid="{EFB55672-E184-4759-ACDD-1004DFD62EEE}"
               p:before="*"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:ph="/main/sxa-general-content/container-1/container-1" />
+            <r
+              uid="{0C9BBC71-52C5-4C10-9B27-6513D435730F}"
+              p:after="r[@uid='{EFB55672-E184-4759-ACDD-1004DFD62EEE}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;BackgroundImage=%3Cimage%20mediaid%3D%22%7BB04F34AF-F73A-46E9-944B-CDC2A7D22F6B%7D%22%20%2F%3E&amp;Styles=%7B6E5B5D45-AB76-44D2-AC7D-0F45C24C2306%7D&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1" />
+            <r
+              uid="{E66863B9-9CDF-4B01-8E2E-B21344FAC99A}"
+              p:after="r[@uid='{0C9BBC71-52C5-4C10-9B27-6513D435730F}']"
               s:ds="local:/Data/Text 6"
               s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -74,13 +89,6 @@ Languages:
               s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-general-content/container-1/row-2-1" />
             <r
-              uid="{488937F6-D907-4055-A3B5-01DA152CE01A}"
-              p:after="r[@uid='{7DEFB867-61F0-439A-B23A-FD6A8D2BBD85}']"
-              s:ds="local:/Data/Image 3"
-              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={7890728B-5DC0-4D3F-848D-17F80F98CCF6}"
-              s:ph="/main/sxa-general-content/container-1/row-1-1" />
-            <r
               uid="{832B2690-5855-4509-A0CE-3AD53F351E3A}"
               p:after="*[1=2]"
               s:ds=""
@@ -99,10 +107,13 @@ Languages:
       Hint: Content
       Value: |
         <h1 style="text-align: center;">Search</h1>
-        <h2>Built-in powerful and flexible search solution</h2>
+        <h2 style="text-align: center;">Built-in powerful and flexible search solution</h2>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

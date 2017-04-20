@@ -112,7 +112,7 @@ Languages:
       Value: Title is one of the most basic but also one of the most important components on a page.<br>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: <p>The&nbsp;<b>Title</b> component is one of the most basic but also one of the most important components on a page. A title is the first thing noticed by a visitor when they open your page and is often the key to making the decision whether to read on or go somewhere else. Sitecore Experience Accelerator does not provide tools to create engaging titles but, of course, allows you to place your title on the page where you need using the drag and drop toolbox.</p>
+      Value: <p>The Title component is one of the most basic but also one of the most important components on a page. A title is the first thing noticed by a visitor when they open your page and is often the key to making the decision whether to read on or go somewhere else. Sitecore Experience Accelerator does not provide tools to create engaging titles but, of course, allows you to place your title on the page where you need using the drag and drop toolbox.</p>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |

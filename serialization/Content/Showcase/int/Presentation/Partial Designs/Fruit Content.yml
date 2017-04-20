@@ -25,25 +25,18 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{7A151A1E-B954-401F-9D75-D7EFBD65E796}"
-              p:before="*"
-              s:ds=""
-              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="FieldNames={25B1F02E-387F-4DDF-8A5C-C99E0C19D823}&amp;Styles={21E98220-BFB7-4E2F-8AF9-D9114958EEB6}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/container-1/column-2-1" />
-            <r
               uid="{0A8C56F8-DCC9-484D-ADBF-A263A25A2538}"
-              p:after="r[@uid='{7A151A1E-B954-401F-9D75-D7EFBD65E796}']"
+              p:before="*"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="Styles&amp;FieldNames={8756FBA8-53CB-4C8E-90DE-CD08B1829D94}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/container-1/column-1-1" />
+              s:par="Styles&amp;FieldNames={8756FBA8-53CB-4C8E-90DE-CD08B1829D94}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}|{1BAB38C1-2242-4469-AAC1-ADA231CA4DCA}"
+              s:ph="main" />
             <r
-              uid="{E98D0F09-4DB4-411B-81FC-4F159B41A57F}"
+              uid="{7A151A1E-B954-401F-9D75-D7EFBD65E796}"
               p:after="r[@uid='{0A8C56F8-DCC9-484D-ADBF-A263A25A2538}']"
               s:ds=""
-              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
-              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={9D5C21FA-51C0-40DF-AA73-25C8CDE4CB0E}&amp;ColumnWidth2={F6043E6B-4CE6-4381-87CA-A33E8FD7F3B4}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/container-1" />
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="FieldNames={25B1F02E-387F-4DDF-8A5C-C99E0C19D823}&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}"
+              s:ph="main" />
             <r
               uid="{7947422F-FDAD-40D5-874F-6B62AFA4EAA0}"
               p:after="*[1=2]"
@@ -56,6 +49,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T093021Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: "{\"items\":[]}"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

@@ -23,6 +23,35 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3A6DF570-B0E6-4E47-B131-82B19891E991}"
+              p:before="*"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}&amp;Styles"
+              s:ph="/main/sxa-content-placeholder/row-1-1/container-1" />
+            <r
+              uid="{FFCB679B-0FAB-4695-88C4-8556E640CED0}"
+              p:after="r[@uid='{3A6DF570-B0E6-4E47-B131-82B19891E991}']"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{1E34DFC6-3B3F-4AC0-AC85-6B8F577C6587}&amp;FieldNames&amp;Styles={C26297D2-6A59-4537-BEF4-A40C767F6F7C}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
+              s:ph="/main/sxa-content-placeholder/row-1-1/container-1" />
+            <r
+              uid="{9854DB68-5E8D-4726-B820-6B13EDC547E5}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-content-placeholder/row-1-1" />
+          </d>
+        </r>
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
@@ -34,10 +63,13 @@ Languages:
       Value: <p>Couple of examples showing how Home page, About Us page and many more pages can look like.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p style=\"text-align: justify;\">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>"
+      Value: "<p style=\"text-align: justify;\">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with the platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>"
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

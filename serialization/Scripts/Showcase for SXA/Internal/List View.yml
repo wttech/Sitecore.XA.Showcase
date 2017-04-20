@@ -1,0 +1,17 @@
+﻿---
+ID: "92b3f1f4-e6af-42ab-8175-e792bbefc71b"
+Parent: "306f96c1-a0fd-461c-8fa7-0b78edac29d2"
+Template: "ab154d3d-1126-4ab4-ac21-8b86e6bd70ea"
+Path: /sitecore/system/Modules/PowerShell/Script Library/Showcase for SXA/Internal/List View
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T000259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

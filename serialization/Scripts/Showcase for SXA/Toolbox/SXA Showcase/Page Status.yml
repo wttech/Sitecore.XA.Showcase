@@ -11,9 +11,30 @@ SharedFields:
 - ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
   Hint: Script
   Value: |
-    gci master:\content\Showcase\int\home -Recurse | 
-        ? {Test-BaseTemplate -Item $_ -TemplateItem (gi master:\templates\Project\Showcase\Page) } | 
-        Show-ListView -Property "__Display Name", @{Name="Parent"; Expression={$_.Parent.Name}}, ContentStatus -PageSize 2000
+    $workInProgress = 0;
+    $finished = 0;
+    $total = 0;
+    $pages = gci master:\content\Showcase\int\home -Recurse | 
+        ? {Test-BaseTemplate -Item $_ -TemplateItem (gi master:\templates\Project\Showcase\Page) }
+        
+    $pages | % { 
+            $total++; 
+            if($_.ContentStatus -like "Finished") { 
+                $finished++
+            } else {
+                $workInProgress++;
+            }
+    }
+    $pages | 
+        Show-ListView -Title "SXA Showcase Page Statistics" `
+            -InfoTitle "Finished: <b>$finished</b>,<br/>Work in Progress: <b>$workInProgress</b>,<br/>Total: <b>$total</b>,<br/>" `
+            -Property `
+                @{Name="Name"; Expression={$_."__Display Name"}}, 
+                @{Name="Parent"; Expression={$_.Parent.Name}}, 
+                @{Name="ContentStatus"; Expression={ if ($_.ContentStatus -like "Finished") {"<span style='color:green'>$($_.ContentStatus)</span>"} else {"<b style='color:red'>$($_.ContentStatus)</b>"}}} `
+            -PageSize 2000
+    
+    Close-Window
 Languages:
 - Language: en
   Versions:
