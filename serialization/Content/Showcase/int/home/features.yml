@@ -91,3 +91,6 @@ Languages:
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{E3317FEE-88B8-4DE3-96CF-C6DAF92A6504}\" />"

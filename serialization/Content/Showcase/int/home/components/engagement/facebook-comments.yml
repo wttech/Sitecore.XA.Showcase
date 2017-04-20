@@ -5,6 +5,9 @@ Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/components/engagement/facebook-comments"
 DB: master
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{3581659B-3761-41E3-933B-70D12A276919}"
 - ID: "508c54c0-cd02-4266-8b68-d71f88de1aa9"
   Hint: ChangeFrequency
   Value: 

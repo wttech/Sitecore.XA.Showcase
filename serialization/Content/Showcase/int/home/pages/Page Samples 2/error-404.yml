@@ -26,3 +26,6 @@ Languages:
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Error 404
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{B678D615-D80A-4A00-9E4C-B13808ED821E}\" />"

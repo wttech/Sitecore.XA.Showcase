@@ -5,6 +5,9 @@ Template: "d89463c9-06db-435e-afcd-f535075fd1ab"
 Path: "/sitecore/content/Showcase/int/home/components/page-structure/iframe"
 DB: master
 SharedFields:
+- ID: "0d83e59a-c3f1-41be-81b2-762d35e0799f"
+  Hint: NavigationClass
+  Value: "{3581659B-3761-41E3-933B-70D12A276919}"
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"

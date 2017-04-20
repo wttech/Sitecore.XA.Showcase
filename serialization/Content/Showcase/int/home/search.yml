@@ -11,6 +11,9 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 94
+- ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
+  Hint: NavigationIcon
+  Value: 
 Languages:
 - Language: en
   Fields:
@@ -120,3 +123,6 @@ Languages:
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Search
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{94E4F91D-CD5F-43BF-A4DD-D56B9E8393EB}\" />"
