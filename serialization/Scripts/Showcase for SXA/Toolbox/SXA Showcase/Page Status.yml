@@ -26,7 +26,7 @@ SharedFields:
             }
     }
     $pages | 
-        Show-ListView -Title "SXA Showcase Page Statistics" `
+        Show-ListView -Title "SXA Showcase Page Statistics" -ViewName "Sitecore.XA.Showcase" `
             -InfoTitle "Finished: <b>$finished</b>,<br/>Work in Progress: <b>$workInProgress</b>,<br/>Total: <b>$total</b>,<br/>" `
             -Property `
                 @{Name="Name"; Expression={$_."__Display Name"}}, 
