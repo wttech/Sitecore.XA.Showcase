@@ -61,11 +61,18 @@ Languages:
               s:par="SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
             <r
-              uid="{E52CA131-C6C2-482C-8495-3C98DA3CB5B5}"
+              uid="{A59D08C5-0D36-4D9F-B28A-EC720D5B9260}"
               p:after="r[@uid='{D89CF74F-F982-46BB-B9D1-AB98840AD98A}']"
+              s:ds="{2D66DC04-E10E-4050-8635-944DE6A9062B}"
+              s:id="{3C09F738-A63B-451B-A976-8925364316C4}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles&amp;SelectedMinValue&amp;SelectedMaxValue&amp;Ranges=Show manual and managed range&amp;ManagedRangeMode"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{E52CA131-C6C2-482C-8495-3C98DA3CB5B5}"
+              p:after="r[@uid='{A59D08C5-0D36-4D9F-B28A-EC720D5B9260}']"
               s:ds="{81C69A15-FE4F-4E63-8F24-F04A86791AF6}"
               s:id="{2B2EC80B-13E2-445D-BA1A-8B8F037DED66}"
-              s:par="SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles&amp;HighlightThreshold=2&amp;HighlightBehaviour&amp;CollapseOnSelection&amp;MultiSelection=1"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
             <r
               uid="{198AFFF4-5053-456F-A682-5064A3E05F98}"
@@ -125,6 +132,9 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Let's Search Some Fruits
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

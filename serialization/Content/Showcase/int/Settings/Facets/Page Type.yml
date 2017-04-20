@@ -1,13 +1,13 @@
 ﻿---
-ID: "0f132ef9-465b-4e59-bf0c-cc5fcc006d34"
+ID: "dbb64d2d-13ec-41fd-a6ce-e01c5c9d97ee"
 Parent: "f3b5f9bc-90b6-4c94-8f79-bdff26a630d7"
-Template: "09084d21-f597-4c59-a61d-58fc001943c2"
-Path: /sitecore/content/Showcase/int/Settings/Facets/Fruit Price
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Showcase/int/Settings/Facets/Page Type
 DB: master
 SharedFields:
 - ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
   Hint: Parameters
-  Value: Price
+  Value: _templatename
 Languages:
 - Language: en
   Versions:
@@ -15,10 +15,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20161220T131052Z
+      Value: 20170420T101443Z
     - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
       Hint: Name
-      Value: Price
-    - ID: "5de17054-0141-4e58-935b-fec623a60806"
-      Hint: DisplayName
-      Value: Price
+      Value: Page Type
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin

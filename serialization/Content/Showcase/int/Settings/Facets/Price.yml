@@ -1,14 +1,13 @@
 ﻿---
-ID: "43227ead-aec8-448c-882e-77f9c0b4d92e"
+ID: "2e20fc67-cecb-4097-a0f4-0847688d707c"
 Parent: "f3b5f9bc-90b6-4c94-8f79-bdff26a630d7"
-Template: "6042e216-f650-447c-86d1-00fea97454e7"
-Path: /sitecore/content/Showcase/int/Settings/Facets/SxaTags
+Template: "cd7a8a06-aa77-45e9-a585-da9c4686b129"
+Path: /sitecore/content/Showcase/int/Settings/Facets/Price
 DB: master
-BranchID: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
 SharedFields:
 - ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
   Hint: Parameters
-  Value: sxatags
+  Value: Price
 Languages:
 - Language: en
   Versions:
@@ -16,13 +15,13 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170412T151914Z
+      Value: 20170420T201850Z
     - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
       Hint: Name
-      Value: SxaTags
+      Value: Price
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin
     - ID: "5de17054-0141-4e58-935b-fec623a60806"
       Hint: DisplayName
-      Value: Tags
+      Value: Price

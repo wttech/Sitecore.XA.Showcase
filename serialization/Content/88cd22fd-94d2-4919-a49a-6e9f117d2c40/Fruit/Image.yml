@@ -11,6 +11,10 @@ SharedFields:
 - ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
   Hint: CssClass
   Value: "fruit-image"
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
 Languages:
 - Language: en
   Versions:

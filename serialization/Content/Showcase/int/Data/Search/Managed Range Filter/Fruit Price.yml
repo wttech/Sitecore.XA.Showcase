@@ -1,0 +1,33 @@
+﻿---
+ID: "2d66dc04-e10e-4050-8635-944de6a9062b"
+Parent: "e8a2d057-fdd9-48b6-9d4e-ee02fd00486f"
+Template: "b3c7d7ef-474b-4447-a138-7894632ce199"
+Path: /sitecore/content/Showcase/int/Data/Search/Managed Range Filter/Fruit Price
+DB: master
+SharedFields:
+- ID: "42c9489b-01b9-4533-9cac-1a84a4b4ab65"
+  Hint: Facet
+  Value: "{2E20FC67-CECB-4097-A0F4-0847688D707C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d2ad3b3-aff3-4eb3-b186-efe2ee02de2e"
+      Hint: GoButtonLabel
+      Value: Filter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170420T201529Z
+    - ID: "3020ef4a-7b7f-4ed3-a220-2d78cf210974"
+      Hint: ToLabel
+      Value: To
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "8c61c2d2-3b16-4e39-831d-9e45abb9454c"
+      Hint: FromLabel
+      Value: From
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: Price
