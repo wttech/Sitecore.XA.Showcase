@@ -17,4 +17,4 @@ Languages:
       Value: sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link text=\"Sitecore\" linktype=\"external\" url=\"http://sitecore.net\" anchor=\"\" target=\"_blank\" />"
+      Value: "<link text=\"Sitecore\" linktype=\"external\" url=\"http://www.sitecore.net\" anchor=\"\" target=\"_blank\" />"

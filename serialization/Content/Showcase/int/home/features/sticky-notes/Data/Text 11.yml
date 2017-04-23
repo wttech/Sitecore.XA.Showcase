@@ -1,0 +1,20 @@
+﻿---
+ID: "6d4e8a5e-55bb-45a8-8b59-8aefefa53556"
+Parent: "3637d602-f096-4577-899a-6c375256012f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/sticky-notes/Data/Text 11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170423T002246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <h2>Now you can work together</h2>

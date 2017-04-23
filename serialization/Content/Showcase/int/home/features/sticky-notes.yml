@@ -26,18 +26,124 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{F7C4684F-916A-4A04-B9E7-BF753B34D331}"
+              uid="{FAF75A83-F331-4273-88CA-E3F3FD7691F6}"
+              p:before="*"
+              s:ds="local:/Data/Text 11"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}"
+              s:ph="/main/sxa-general-content/container-1/row-3-1" />
+            <r
+              uid="{66DEC4EF-E130-4F79-B716-B3CB70D134D6}"
+              p:after="r[@uid='{FAF75A83-F331-4273-88CA-E3F3FD7691F6}']"
+              s:ds="local:/Data/Image 5"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={15752FE1-E15D-4171-96B9-DB695CAADC72}|{1305E342-4C28-4022-893D-2429D3CB67DD}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
+              s:ph="/main/sxa-general-content/container-1/row-3-1" />
+            <r
+              uid="{C86D36FF-B006-498D-8DD6-5A2583D57B90}"
+              p:after="r[@uid='{66DEC4EF-E130-4F79-B716-B3CB70D134D6}']"
+              s:ds="local:/Data/Text 10"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:ph="/main/sxa-general-content/container-1/row-1-1" />
+            <r
+              uid="{A09C9A8A-A9A5-4E00-BC08-D351508E8138}"
+              p:after="r[@uid='{C86D36FF-B006-498D-8DD6-5A2583D57B90}']"
+              s:ds="local:/Data/Text 9"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={E806AB48-CFD7-4B3B-BE73-EB7A5953D091}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{41A8BE00-45D0-4BD1-A6E1-CEA141AE6E64}"
+              p:after="r[@uid='{A09C9A8A-A9A5-4E00-BC08-D351508E8138}']"
+              s:ds="local:/Data/Image 4"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{15752FE1-E15D-4171-96B9-DB695CAADC72}"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{CBF92548-B760-479E-8809-30924486641C}"
+              p:after="r[@uid='{41A8BE00-45D0-4BD1-A6E1-CEA141AE6E64}']"
+              s:ds="local:/Data/Text 8"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles={E806AB48-CFD7-4B3B-BE73-EB7A5953D091}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1/column-1-1" />
+            <r
+              uid="{23F9A026-D412-4125-B793-4D4D690C002E}"
+              p:after="r[@uid='{CBF92548-B760-479E-8809-30924486641C}']"
+              s:ds="local:/Data/Image 3"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{15752FE1-E15D-4171-96B9-DB695CAADC72}"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1/column-1-1" />
+            <r
+              uid="{78EF29F1-8365-45D1-AE04-4B83EC7D7223}"
+              p:after="r[@uid='{23F9A026-D412-4125-B793-4D4D690C002E}']"
+              s:ds="local:/Data/Text 7"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1" />
+            <r
+              uid="{E6FDA281-1B47-41FA-8251-39F5085F96EF}"
+              p:after="r[@uid='{78EF29F1-8365-45D1-AE04-4B83EC7D7223}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;ColumnWidth2={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1/row-2-1/container-1" />
+            <r
+              uid="{9C34C758-13D3-4BD4-AD78-1532CAA914B0}"
+              p:after="r[@uid='{E6FDA281-1B47-41FA-8251-39F5085F96EF}']"
+              s:ds=""
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}|{11A5C27B-9C4C-49AD-8261-3684503BC220}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-general-content/container-1/row-2-1" />
+            <r
+              uid="{0CB28DF5-FAAF-4CE6-ACB2-5124820E2C33}"
+              p:after="r[@uid='{9C34C758-13D3-4BD4-AD78-1532CAA914B0}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={15752FE1-E15D-4171-96B9-DB695CAADC72}"
+              s:ph="/main/sxa-general-content/container-1/row-1-1" />
+            <r
+              uid="{DC447506-290A-4FD5-B0B5-85F8B5C8BA13}"
+              p:after="r[@uid='{0CB28DF5-FAAF-4CE6-ACB2-5124820E2C33}']"
+              s:ds=""
+              s:id="{5B9272A5-E147-4C16-B9F7-41CCDCB4CB5D}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:ph="/main/sxa-general-content/container-1/row-1-1" />
+            <r
+              uid="{13463B31-6E48-4E4C-8788-E184162786D0}"
+              p:after="r[@uid='{DC447506-290A-4FD5-B0B5-85F8B5C8BA13}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="Styles={E17C1923-0421-42BB-9134-F5AF9B501B3C}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{968D2D51-1E55-4D75-9679-528029D8A2E8}"
+              s:ph="/main/sxa-general-content/container-1/row-1-1" />
+            <r
+              uid="{F5760DD5-5B7B-49E9-8C0B-92903EAB4F46}"
+              p:after="r[@uid='{13463B31-6E48-4E4C-8788-E184162786D0}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{23409F7F-7699-4AAB-B48D-DE32D21B143E}"
+              s:ph="/main/sxa-general-content/container-1/row-1-1" />
+            <r
+              uid="{6A211DE6-D2F2-493A-BAD8-9937E2BA42FB}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=3&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={1434C38F-69A4-4E1B-8AC0-FD040D6DEA11}&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
               s:ph="/main/sxa-general-content/container-1" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161107T093115Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: "<p>Sitecore Experience Accelerator is all about collaboration. But how do you collaborate if you disjoint your discussion from the message and experience you are working on? We've realized that and added sticky notes as an integral part of SXA in Experience Editor.</p>"
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: "{\"items\":[{}]}"
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\Admin

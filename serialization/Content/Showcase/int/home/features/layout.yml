@@ -219,7 +219,7 @@ Languages:
               p:after="r[@uid='{66E6143C-9439-4000-A028-7D9A7105ED4F}']"
               s:ds="local:/Data/Image 6"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{23409F7F-7699-4AAB-B48D-DE32D21B143E}&amp;Styles={1305E342-4C28-4022-893D-2429D3CB67DD}|{727D2457-0B45-45F1-B8E8-E97771F8F972}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{23409F7F-7699-4AAB-B48D-DE32D21B143E}&amp;Styles={1305E342-4C28-4022-893D-2429D3CB67DD}|{E17C1923-0421-42BB-9134-F5AF9B501B3C}"
               s:ph="/main/sxa-general-content/container-1/row-5-1" />
             <r
               uid="{BD0F7F62-6E28-448B-9B31-0857451698DE}"
@@ -370,7 +370,10 @@ Languages:
       Value: <p>No site can exist without good and usable layout. Divide and conquer to make room for Your precious content.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p>Building layout in SXA is based on a grid, e.g. <a href=\"http://getbootstrap.com/\" target=\"_blank\" title=\"Bootstrap\">Bootstrap</a>, <a href=\"http://foundation.zurb.com/\" target=\"_blank\" title=\"Foundation\">Foundation</a> or our Responsive Web Design version of <a href=\"https://960.gs/\" target=\"_blank\" title=\"960 Grid System \">960 Grid System</a>. The platform ships with just one single Sitecore layout but allows you to build your own custom layouts from it.</p><p>This magical transformation is possible thanks to so-called splitters, which as the name suggests splits an area into smaller ones. There are two types of splitters: row splitter and column splitter, dividing space into rows and columns respectively. You may not believe it, until you try it yourself, how easy it is to compose a layout in SXA.</p><p>On top of that our components allow you to configure how much of the layout a component will take so, you can achieve&nbsp;a design in a number of ways depending on what your needs are.</p>"
+      Value: |
+        <p>Layouts in SXA are built using grid systems like&nbsp;<a href="http://getbootstrap.com/" title="Bootstrap" target="_blank">Bootstrap</a>, <a href="http://foundation.zurb.com/" title="Foundation" target="_blank">Foundation</a> or our Responsive Web Design version of <a href="https://960.gs/" title="960 Grid System " target="_blank">960 Grid System</a>. The platform ships with just one single Sitecore layout but allows you to build your custom designs from it.</p>
+        <p>This magical transformation is possible thanks to so-called splitters, which as the name suggests splits an area into smaller ones. There are two types of splitters: row splitter and column splitter, dividing space into rows and columns respectively. You may not believe it, until you try it yourself, how easy it is to compose a layout in SXA.</p>
+        <p>On top of that our components now allow you to configure how much width they will take so, you can achieve&nbsp;a design many ways depending on your needs.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
       Value: "{\"items\":[]}"

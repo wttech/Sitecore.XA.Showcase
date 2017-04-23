@@ -18,13 +18,15 @@ Languages:
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: |
+        <p>The site was originally created by <a href="http://www.cognifide.com/" target="_blank">Cognifide</a> for Zen Garden - a product that later evolved into <a href="www.sitecore.net/en/products/sitecore-experience-platform/wcm/experience-accelerators" target="_blank">Sitecore Experience Accelerator</a>. And is currently passionately maintained by the following members of the SXA Team:</p>
+        <ul>
+            <li>Adam Najmanowicz</li>
+            <li>more to come...</li>
+        </ul>
         <p>The site may contain free Stock images downloaded from the following sites:</p>
         <ul>
-            <li>Pixabay	http://pixabay.com/
-            </li>
-            <li>Compfight	http://compfight.com/
-            </li>
-            <li>PEXELS	http://www.pexels.com/
-            </li>
-            <li>morgueFile	http://www.morguefile.com/</li>
+            <li><a href="http://pixabay.com/" target="_blank">Pixabay</a></li>
+            <li><a href="http://compfight.com/" target="_blank">Compfight</a></li>
+            <li><a href="http://www.pexels.com/" target="_blank">PEXELS</a></li>
+            <li><a href="http://www.morguefile.com/" target="_blank">morgueFile</a></li>
         </ul>

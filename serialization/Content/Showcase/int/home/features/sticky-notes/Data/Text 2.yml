@@ -1,0 +1,17 @@
+﻿---
+ID: "b3d686be-0ba8-4e8f-8a74-98c4c9349af2"
+Parent: "3637d602-f096-4577-899a-6c375256012f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/sticky-notes/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170422T181955Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
