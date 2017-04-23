@@ -1,0 +1,22 @@
+﻿---
+ID: "b510e867-f5db-4f4d-9f66-04fea492bb49"
+Parent: "264dfb55-c63d-4073-8bac-af98cfef59a5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/media/video/Data/Text 5
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170423T224213Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Customizable</h2>
+        <div>If you worry about customization of the player, then stop. Thanks to a dedicated player you can customize your video in a way it will look as it was part of your site, while the video stream can still be flowing from an external hosting service.</div>

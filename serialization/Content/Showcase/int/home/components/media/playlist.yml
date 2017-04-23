@@ -40,7 +40,7 @@ Languages:
               p:after="r[@uid='{25D0B7B8-6A4E-4D95-9541-A2F51C43401F}']"
               s:ds="{0ADE3EAE-9989-48F8-9FB5-40622574686E}"
               s:id="{3C84ED23-7591-45E0-8850-1AE96D1342B1}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{23409F7F-7699-4AAB-B48D-DE32D21B143E}&amp;Styles={B5AF5C4A-2A52-4886-835A-3D0D0FF6D028}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{23409F7F-7699-4AAB-B48D-DE32D21B143E}&amp;Styles={B5AF5C4A-2A52-4886-835A-3D0D0FF6D028}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{5D371343-E7E2-4E2B-8560-80EB46CD5B7B}"

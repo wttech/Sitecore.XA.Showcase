@@ -1,0 +1,17 @@
+﻿---
+ID: "264dfb55-c63d-4073-8bac-af98cfef59a5"
+Parent: "ee2e0c1f-cc7e-4a4c-bcb1-e5db8f919351"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Showcase/int/home/components/media/video/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170423T220302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\Admin
