@@ -47,15 +47,8 @@ Languages:
               s:par="SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
             <r
-              uid="{4290FF25-A8BF-4C2B-BB9E-3337BD43B356}"
-              p:after="r[@uid='{C2E2C871-B7D8-4BC0-BA41-C3DDEA8AC27A}']"
-              s:ds=""
-              s:id="{EFEEAB82-D1B1-44F0-ADD3-07EDAE59A49E}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{4D4B771B-9954-430E-AEE1-E76C54BD50C3}&amp;SearchSignature&amp;Styles&amp;PageSize={1733E7AA-2B48-43B5-9F44-3FD8B32D7522}&amp;PagingSchema={C65D6563-5C9B-4B34-83C4-FEC2C7A92B87}"
-              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
-            <r
               uid="{D89CF74F-F982-46BB-B9D1-AB98840AD98A}"
-              p:after="r[@uid='{4290FF25-A8BF-4C2B-BB9E-3337BD43B356}']"
+              p:after="r[@uid='{C2E2C871-B7D8-4BC0-BA41-C3DDEA8AC27A}']"
               s:ds="{A2799E71-ABF2-4B4F-A0C0-51F6D5CFDEC8}"
               s:id="{FF6523B5-E93D-4396-8990-38FC537D71AD}"
               s:par="SearchSignature&amp;Styles&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
@@ -93,20 +86,27 @@ Languages:
               p:after="r[@uid='{C2109825-1ED3-45BE-A189-756F44A547AC}']"
               s:ds="{E5EB8384-7F24-4BC8-81AC-390FA3644C98}"
               s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
-              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;FieldNames&amp;Styles&amp;Scope={63831C94-8B86-431C-A678-67D5FF102A3D}&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;FieldNames&amp;Styles={B377D775-A0F4-4060-9E74-0ADFEBBB36F6}&amp;Scope={63831C94-8B86-431C-A678-67D5FF102A3D}&amp;PageSize=8&amp;DefaultLanguageFilter&amp;DefaultSortOrder"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
+            <r
+              uid="{05F8468A-F85F-43FA-A277-EE850FE40ACD}"
+              p:after="r[@uid='{6CB870E6-2982-4776-B23E-46F18F836D02}']"
+              s:ds="local:/Data/Count"
+              s:id="{5B249C53-F580-4623-8613-3AF9614126FE}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={15752FE1-E15D-4171-96B9-DB695CAADC72}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
+            <r
+              uid="{6D9EE597-9CB9-4D99-B69E-F50CC6682485}"
+              p:after="r[@uid='{05F8468A-F85F-43FA-A277-EE850FE40ACD}']"
+              s:ds="{53633438-FDA6-4824-9DCE-52201CB0947E}"
+              s:id="{8B668FFA-D23C-43DB-A86F-D47D1D97090C}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;SearchSignature&amp;Styles={15752FE1-E15D-4171-96B9-DB695CAADC72}"
               s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
             <r
               uid="{A033FFB8-B7B5-46E4-8DEF-F1D5C9048671}"
-              p:after="r[@uid='{6CB870E6-2982-4776-B23E-46F18F836D02}']"
+              p:after="r[@uid='{6D9EE597-9CB9-4D99-B69E-F50CC6682485}']"
               s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
               s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={5BDCFE4D-69EC-421F-8DE9-FA42A33036E0}&amp;ColumnWidth2={213B3872-C223-48A6-86F0-AF0D04B1380C}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
-              s:ph="/main/sxa-component-content/row-2-1/container-1" />
-            <r
-              uid="{D6220081-04A1-4FF4-96B8-A64EC99E3B5E}"
-              p:after="r[@uid='{A033FFB8-B7B5-46E4-8DEF-F1D5C9048671}']"
-              s:ds="{667379A4-CDDF-4338-A504-2A92155EBD6B}"
-              s:id="{C4060A7D-74EF-4998-9B8A-737EDB4E41B5}"
-              s:par="SearchSignature&amp;Styles&amp;CollapsedModeTreshold=6&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}"
               s:ph="/main/sxa-component-content/row-2-1/container-1" />
             <r
               uid="{CA90CA2F-D772-43DF-B1E4-2202BB96D3D6}"
