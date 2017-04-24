@@ -4,6 +4,10 @@ Parent: "f62f3180-9914-43c4-880d-50c244c0c42d"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Navigation/Summary Fields
 DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "summary-navigation"
 Languages:
 - Language: en
   Versions:

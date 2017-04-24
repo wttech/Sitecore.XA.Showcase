@@ -14,7 +14,7 @@ Languages:
       Value: Choose whether to include root page in the navigation or not.
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{30B8FD18-C579-4658-A5CA-E15CB46158EA}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" ></image>"
+      Value: "<image mediaid=\"{B4602E55-F0C9-4ABF-9B83-255113E35292}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161004T085303Z

@@ -35,3 +35,6 @@ Languages:
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Navigation
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: "<image mediaid=\"{6E34318B-186F-41C2-8F0D-E18487041EFF}\" />"
