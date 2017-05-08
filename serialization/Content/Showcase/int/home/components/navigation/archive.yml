@@ -11,6 +11,22 @@ SharedFields:
 - ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
   Hint: SxaTags
   Value: "{4D3E85E4-619B-4EC1-9E43-C74534C32F14}|{CE6B4083-C9FF-4475-8322-0C028ACF8D68}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D793C036-955E-4BF8-A7EB-4761C5955B77}"
+          s:ds="{EA18DC2A-B757-4295-98E9-5B4CB1DF7FCC}"
+          s:id="{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}"
+          s:par="SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={3BCBAE0F-1682-4F39-858A-01E62EB423CB}&amp;Styles={8ABCA6B6-9645-4CD5-9B6F-156B3B5C2124}&amp;Format={37AE53FC-2245-4679-BCAC-1929CD17B409}&amp;FieldName=__Created"
+          s:ph="/main/sxa-component-content/row-2-1" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Fields:
@@ -20,22 +36,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Type: Layout
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{D793C036-955E-4BF8-A7EB-4761C5955B77}"
-              s:ds="{EA18DC2A-B757-4295-98E9-5B4CB1DF7FCC}"
-              s:id="{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}"
-              s:par="SourceType={90105CB9-2CFD-4151-9FA8-6CDF92B158C2}&amp;GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames={3BCBAE0F-1682-4F39-858A-01E62EB423CB}&amp;Styles={8ABCA6B6-9645-4CD5-9B6F-156B3B5C2124}&amp;Format={37AE53FC-2245-4679-BCAC-1929CD17B409}&amp;FieldName=__Created"
-              s:ph="/main/sxa-component-content/row-2-1" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T065750Z

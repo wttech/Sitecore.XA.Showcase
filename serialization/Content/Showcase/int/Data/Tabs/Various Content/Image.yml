@@ -17,11 +17,19 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
-          s:par="GridParameters&amp;FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+          uid="{0092A731-F2B7-46E4-82E8-7C3B2F734925}"
+          p:before="*"
+          s:ds="local:/Data/Image 1"
+          s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+          s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;Styles"
+          s:ph="section-content" />
         <r
-          uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}"
-          s:par="GridParameters&amp;FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+          uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
+          s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles" />
+        <r
+          uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
+          <p:d />
+        </r>
       </d>
     </r>
 Languages:
@@ -29,30 +37,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Type: Layout
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{0092A731-F2B7-46E4-82E8-7C3B2F734925}"
-              p:before="*"
-              s:ds="local:/Data/Image 1"
-              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;Styles"
-              s:ph="section-content" />
-            <r
-              uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
-              s:par="GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles" />
-            <r
-              uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}">
-              <p:d />
-            </r>
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T111151Z
