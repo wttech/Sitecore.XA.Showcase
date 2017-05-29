@@ -4,6 +4,13 @@ Parent: "43b8defa-23ff-4dda-8543-7a83f72dda0d"
 Template: "6669dc16-f106-44b5-96be-7a31ae82b5b5"
 Path: /sitecore/content/Showcase/int
 DB: master
+SharedFields:
+- ID: "33d9005e-1f71-415f-b107-53b965c3b037"
+  Hint: SiteMediaLibrary
+  Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"
+- ID: "d7264a2b-e343-4613-a71a-1727f50dbc15"
+  Hint: ThemesFolder
+  Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"
 Languages:
 - Language: en
   Versions:

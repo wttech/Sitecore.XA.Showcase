@@ -1,0 +1,15 @@
+﻿---
+ID: "705176ae-c02c-4cc2-b937-9c5f84277859"
+Parent: "f31a614c-4cef-4174-b9b9-f969e9e77539"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/Showcase/int/Settings/Site Grouping/int/CORS
+DB: master
+BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170529T111142Z
