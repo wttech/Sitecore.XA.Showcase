@@ -1,0 +1,21 @@
+﻿---
+ID: "335c3a69-39ba-4e7a-a957-10dbdc78b2c5"
+Parent: "cc2d09b9-7605-40b1-8c2b-7b411c051543"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/pagination/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T205504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: My pagination does not show all of the page numbers. This can be achieved by setting collapse pagination threshold (here set to 3). This means that at maximum 3 page numbers will show that are in the immediate vicinity to the selected page.

@@ -1,0 +1,41 @@
+﻿---
+ID: "8ef40296-070c-470e-89db-1c66b6d81a5f"
+Parent: "a6494612-f743-4162-8c46-e01a9d1e772b"
+Template: "9192e4e3-a8d2-42e3-a762-fd1dc339917f"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/page-list/first-example-article"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: First Example Article
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T073347Z
+    - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat orem ipsum dolor sit amet, consectetur adipisicing elit. Incididunt ut labore et dolore magna aliqua. Ut enim ad et dolore magna exercitation ullamco lesse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non sadips ipsums proident, sunt in commodo consequat orem ipsum dolor sits.<br>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
+      Hint: Title
+      Value: First Example Article

@@ -1,0 +1,32 @@
+﻿---
+ID: "c612ff40-a14a-4a0d-a587-c6e98ec2bdc9"
+Parent: "fa5fb73a-3fbf-445f-86bf-6a5680b2343f"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/Data/Carousels/Home Page 3/Carousel Slide1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170620T112815Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{9EBDBC74-09A1-497A-B1BD-FAEBB5832D8B}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: |
+        <p style="font-size: 56px; color: #ffffff; font-style: normal; text-align: left; font-weight: 900;">PASSION</p>
+        <br />
+        <p style="font-size: 30px; color: #ffffff; font-style: normal; text-align: left; font-weight: 400;">Is what drives us forward</p>
+    - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
+      Hint: SlideLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}" />

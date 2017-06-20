@@ -1,0 +1,22 @@
+﻿---
+ID: "0e944cb1-c20c-4d75-9575-89998c7d94b4"
+Parent: "636a28ad-68e8-4f42-8ea8-ea36d6cfe46a"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Common/Gray Borders
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "gray-borders"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170609T102810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

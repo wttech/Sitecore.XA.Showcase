@@ -37,7 +37,8 @@ Languages:
       Value: 20161013T072415Z
     - ID: "70181515-2aab-4710-91f4-52a08151693e"
       Hint: Heading
-      Value: "<p><em class=\"fa fa-thumbs-o-up fa-2x\"></em> <strong>Awesome</strong></p>"
+      Value: |
+        <p><em class="fa fa-thumbs-o-up fa-2x"></em> <strong>Awesome</strong></p>
     - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
       Hint: Content
       Value: |

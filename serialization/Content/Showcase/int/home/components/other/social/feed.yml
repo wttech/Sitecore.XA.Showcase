@@ -20,12 +20,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T070354Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Feed
@@ -34,4 +38,5 @@ Languages:
       Value: Social
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{D893ED4C-0CD1-4D78-9296-14D3D587A3EF}\" />"
+      Value: |
+        <image mediaid="{D893ED4C-0CD1-4D78-9296-14D3D587A3EF}" />

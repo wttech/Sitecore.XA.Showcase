@@ -1,0 +1,29 @@
+﻿---
+ID: "beb86859-d9af-4221-87d9-8c3341d7b22f"
+Parent: "eb03147f-9c47-4205-9046-80cac8371a47"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Showcase/int/Data/Promos/SXA Promos/Documentation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: SXA comes with documentation and best practices for your developers so all that they do is of the same excellent quality as the platform they are building upon.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{94E4F91D-CD5F-43BF-A4DD-D56B9E8393EB}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170605T130108Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="See the documentation" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E5E94792-28BC-4473-87EF-33D956E6AFF1}" />

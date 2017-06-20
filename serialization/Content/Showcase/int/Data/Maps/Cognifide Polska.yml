@@ -11,6 +11,9 @@ SharedFields:
 - ID: "61bbf86d-0746-47db-92bd-3183d997cbe5"
   Hint: Width
   Value: 
+- ID: "a07c174f-60f9-467f-8a05-6f272f22f4ea"
+  Hint: Mode
+  Value: "{CC4C3061-B6AB-4C6D-B185-BB8B6E38D3E8}"
 - ID: "ad71f7f9-2690-4b61-936b-dadf18455792"
   Hint: Height
   Value: 640

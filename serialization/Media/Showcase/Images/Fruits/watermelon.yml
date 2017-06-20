@@ -46,7 +46,8 @@ Languages:
       Value: "20141106T094912:635508641526795339"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: en
   Versions:
   - Version: 1
@@ -56,7 +57,8 @@ Languages:
       Value: 20141106T094912
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
       Value: Watermelon
@@ -69,7 +71,8 @@ Languages:
       Value: "20141106T094913:635508641530125336"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -79,7 +82,8 @@ Languages:
       Value: "20141106T094913:635508641531137105"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "pl-PL"
   Versions:
   - Version: 1
@@ -89,7 +93,8 @@ Languages:
       Value: "20141106T094912:635508641528003568"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ru-RU"
   Versions:
   - Version: 1
@@ -99,4 +104,5 @@ Languages:
       Value: "20141106T094912:635508641529044806"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr

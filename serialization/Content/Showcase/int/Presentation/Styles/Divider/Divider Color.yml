@@ -1,0 +1,22 @@
+﻿---
+ID: "f0cfa0d4-380a-482a-8f85-3814f8eb40d6"
+Parent: "cd923abd-8356-4664-9164-1b801daa3b5f"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Divider/Divider Color
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "divider-color"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T113812Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

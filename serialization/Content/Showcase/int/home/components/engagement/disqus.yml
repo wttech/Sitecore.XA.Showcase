@@ -50,12 +50,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T064452Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<span style=\"color: rgb(116, 116, 116); font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-weight: normal;\">There is a variety of comment systems out there and we give you the possibility to integrate two of them out-of-the-box. All you need to do is to decide which one you would like to use on your page and setup all the required properties. It only takes seconds to allow your customers to comment on your content. Just make sure you have your moderators on duty!</span>"
+      Value: |
+        <span style="color: rgb(116, 116, 116); font-family: ProximaNova-Light, Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; font-weight: normal;">There is a variety of comment systems out there and we give you the possibility to integrate two of them out-of-the-box. All you need to do is to decide which one you would like to use on your page and setup all the required properties. It only takes seconds to allow your customers to comment on your content. Just make sure you have your moderators on duty!</span>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -69,7 +73,8 @@ Languages:
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Disqus
@@ -78,4 +83,5 @@ Languages:
       Value: Engagement
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{C54CFF81-5BB3-4455-871E-C703816FBA3A}\" />"
+      Value: |
+        <image mediaid="{C54CFF81-5BB3-4455-871E-C703816FBA3A}" />

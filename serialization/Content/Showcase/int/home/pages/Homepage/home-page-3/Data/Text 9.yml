@@ -1,0 +1,24 @@
+﻿---
+ID: "36f2bec7-d31f-4d0d-99b3-ec7376f6dae1"
+Parent: "06ab34d3-38a7-4890-a3e0-c3cc3f8ea541"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Homepage/home-page-3/Data/Text 9"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170609T094154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="font-size: 36px; color: #15909c; text-align: center;"><strong>1200</strong>
+        </p>
+        <p style="text-align: center;">Hours of Development</p>

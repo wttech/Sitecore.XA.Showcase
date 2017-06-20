@@ -43,7 +43,8 @@ Languages:
       Value: "20141009T104417:635484482573338359"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
 - Language: en
   Versions:
   - Version: 1
@@ -63,7 +64,8 @@ Languages:
       Value: "20141009T104417:635484482577498898"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -73,7 +75,8 @@ Languages:
       Value: "20141009T104417:635484482578399009"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
 - Language: "pl-PL"
   Versions:
   - Version: 1
@@ -83,7 +86,8 @@ Languages:
       Value: "20141009T104417:635484482575258608"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
 - Language: "ru-RU"
   Versions:
   - Version: 1
@@ -93,4 +97,5 @@ Languages:
       Value: "20141009T104417:635484482576448763"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin

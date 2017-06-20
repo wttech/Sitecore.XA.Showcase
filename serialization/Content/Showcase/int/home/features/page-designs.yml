@@ -169,13 +169,15 @@ Languages:
       Value: <p>In Sitecore you will normally create a set of content templates for your site. For each of these you would usually have a developer build the layout and components. With SXA you do not need a developer for this task. You create the layouts using the Drag &amp; Drop interface and Partial Designs. You then apply them to the Sitecore content templates using Designs.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Page Designs
@@ -184,4 +186,5 @@ Languages:
       Value: Page Designs
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{D15F9431-41B5-4A55-AB2B-EECFDDAEA5A8}\" />"
+      Value: |
+        <image mediaid="{D15F9431-41B5-4A55-AB2B-EECFDDAEA5A8}" />

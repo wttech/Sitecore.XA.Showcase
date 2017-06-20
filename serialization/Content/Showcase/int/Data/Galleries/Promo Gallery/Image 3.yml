@@ -1,0 +1,22 @@
+﻿---
+ID: "bc629c2f-7d31-4fcc-b5c6-1a1feaf16552"
+Parent: "8aa3bed5-80ee-4dc6-a089-40dbc76c04c4"
+Template: "9d77c212-a828-4792-8e72-749f19c0154d"
+Path: /sitecore/content/Showcase/int/Data/Galleries/Promo Gallery/Image 3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170609T090442Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
+      Hint: Image
+      Value: |
+        <link linktype="media" target="" id="{84266EEB-F61C-4DB1-BC7F-11B2C11730F4}" />

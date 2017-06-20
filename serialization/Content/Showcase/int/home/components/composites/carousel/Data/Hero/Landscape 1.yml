@@ -1,0 +1,22 @@
+﻿---
+ID: "90ddb596-c092-4941-adea-9e61b501d2f0"
+Parent: "9a9a7526-ce65-4f8e-8fdd-d426fb042df6"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/home/components/composites/carousel/Data/Hero/Landscape 1
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T124300Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{94978FDD-A0F1-4734-B999-794F2BE93906}" />

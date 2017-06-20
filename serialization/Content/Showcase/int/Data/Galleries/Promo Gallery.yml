@@ -1,0 +1,18 @@
+﻿---
+ID: "8aa3bed5-80ee-4dc6-a089-40dbc76c04c4"
+Parent: "750ca4bc-c218-42bd-93f6-e18add38d6a0"
+Template: "57bcf1ce-35cb-4752-b23b-2d4522af6292"
+Path: /sitecore/content/Showcase/int/Data/Galleries/Promo Gallery
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170609T090300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -20,12 +20,78 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C32FC332-4067-48BD-B531-65FB90A6ED4F}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{B276FAB9-FA0D-448C-BF93-E1C15C42D07C}"
+              p:after="r[@uid='{C32FC332-4067-48BD-B531-65FB90A6ED4F}']"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;ColumnWidth2={FB140AEF-DE33-4088-9F1D-406C6BA32A8E}&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/container-1" />
+            <r
+              uid="{B9AF9ECF-FBAE-4C2D-8096-EA45D14166EC}"
+              p:after="r[@uid='{B276FAB9-FA0D-448C-BF93-E1C15C42D07C}']"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;BackgroundImage&amp;Styles={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1" />
+            <r
+              uid="{DF18E662-0183-4BB8-A856-CA3FF8ADD96E}"
+              p:after="r[@uid='{B9AF9ECF-FBAE-4C2D-8096-EA45D14166EC}']"
+              s:ds="local:/Data/Text 3"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{1E8277EA-B360-4D21-A6DC-64F3445907BE}"
+              p:after="r[@uid='{DF18E662-0183-4BB8-A856-CA3FF8ADD96E}']"
+              s:id="{0F77C4A9-0727-4FE2-8E22-511A565B9959}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}|{F6DC722E-15DB-4826-920B-ACCFDA772432}&amp;Styles"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{B0B5C14F-8C15-42B9-84F0-550BD33368D0}"
+              p:after="r[@uid='{1E8277EA-B360-4D21-A6DC-64F3445907BE}']"
+              s:ds="local:/Data/Text 4"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={847986C1-FF5D-4B49-9477-B126B3520A97}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}|{C81E412F-A011-45EB-9FB5-8602994EF4B9}"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{64646B21-9A6E-4E2A-AA85-52B5277E721D}"
+              p:after="r[@uid='{B0B5C14F-8C15-42B9-84F0-550BD33368D0}']"
+              s:ds="{868B51E0-7D74-4461-A1FC-93CD71D1E15C}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-2-1" />
+            <r
+              uid="{4B809387-1141-44CD-8000-A81210E6B1AE}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Text 2"
+              s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Styles={847986C1-FF5D-4B49-9477-B126B3520A97}|{C81E412F-A011-45EB-9FB5-8602994EF4B9}|{1842651B-5B44-4DB0-B1D8-E8EFB2C262F5}|{B377D775-A0F4-4060-9E74-0ADFEBBB36F6}"
+              s:ph="/main/sxa-component-content/row-2-1/container-1/column-1-1" />
+          </d>
+        </r>
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T064338Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: Once your business has gone international you will quickly need to think about customizing your site for different languages. Sitecore Experience Accelerator provides components to do this. You will need to allow your users to switch between different versions of your site. These might be simple translations of the same content, or quite different content. We can facilitate both options. This page describes a component for switching between different language versions of a page.
+      Value: Once your business has gone international, you will quickly need to think about customizing your site for different languages. Sitecore Experience Accelerator provides components to do this. You will need to allow your users to switch between the various versions of your site. These might be simple translations of the same content or entirely different content. We can facilitate both options. This page describes a component for switching between the various language versions of a page.
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -36,10 +102,15 @@ Languages:
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
+    - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
+      Hint: ContentStatus
+      Value: Pending Review
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Language Selector
@@ -48,4 +119,5 @@ Languages:
       Value: Context
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{E06F29E4-E4D8-4E66-B301-12F81FD04473}\" />"
+      Value: |
+        <image mediaid="{E06F29E4-E4D8-4E66-B301-12F81FD04473}" />

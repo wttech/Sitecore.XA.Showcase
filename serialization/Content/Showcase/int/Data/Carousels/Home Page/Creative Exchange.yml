@@ -21,7 +21,8 @@ Languages:
       Value: 20161017T083233Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{69E6DD9E-C383-4C29-84E1-96A85356236B}\" ></image>"
+      Value: |
+        <image mediaid="{69E6DD9E-C383-4C29-84E1-96A85356236B}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: |
@@ -29,4 +30,5 @@ Languages:
         <h4>Empowering your Creative &amp; Front-End developers.</h4>
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{CB380895-FA6E-4981-9A46-B9EC169EBA18}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{CB380895-FA6E-4981-9A46-B9EC169EBA18}" />

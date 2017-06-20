@@ -1,0 +1,18 @@
+﻿---
+ID: "23770809-a440-4c37-a0b2-b8161a0c00ef"
+Parent: "32472a7b-5614-4346-9593-8f3cc97c5016"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Promo/Icon and Text/Text
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T114352Z

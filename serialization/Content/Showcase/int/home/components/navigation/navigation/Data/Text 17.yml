@@ -1,0 +1,21 @@
+﻿---
+ID: "c73ff854-4dc6-44bc-9ee4-450377b48bb9"
+Parent: "4b796c7d-3464-439f-845e-626d9f7ca4f8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/navigation/navigation/Data/Text 17
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T090141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <h4>Fat navigation showing first and second level</h4>

@@ -1,0 +1,21 @@
+﻿---
+ID: "833be8dc-0b0b-484e-b05b-757f2fcc7fea"
+Parent: "9968f33b-afa1-40f1-bc5a-c08d1c445cee"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Showcase/int/Data/Events/Events in American history
+DB: master
+SharedFields:
+- ID: "7cffa839-9ab6-4242-9b50-65b6b1e42691"
+  Hint: GoogleCalendarAPIKey
+  Value: "https://www.google.com/calendar/feeds/k6uq0640ssmipr5buua3pm4onc1b7f4o%40import.calendar.google.com/public/basic"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T085211Z
+    - ID: "c08b42e9-c147-47d1-b50c-6274eb3a8baa"
+      Hint: Title
+      Value: Events in American history

@@ -18,7 +18,8 @@ Languages:
       Value: 20161017T083222Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{941FC2D5-BB70-4901-B34A-5DFEE365212A}\" ></image>"
+      Value: |
+        <image mediaid="{941FC2D5-BB70-4901-B34A-5DFEE365212A}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: |
@@ -26,4 +27,5 @@ Languages:
         <h3>Out of the box with SXA.</h3>
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{BFB957A2-4153-4191-97C4-D376E1A0E402}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{BFB957A2-4153-4191-97C4-D376E1A0E402}" />

@@ -1,0 +1,22 @@
+﻿---
+ID: "6e988d4b-d701-442f-9b34-dd4409ba4b32"
+Parent: "a92e70ea-a78c-4165-bd86-3e66aedd0cea"
+Template: "8e1f74db-15c0-43f3-85f0-86e4651df912"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/iframe/Data/Links"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T122953Z
+    - ID: "4b737984-1eac-4e50-8dd1-883566fa7bde"
+      Hint: Link
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{D9DC2B82-9AF1-4004-A413-F0F56944DB04}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

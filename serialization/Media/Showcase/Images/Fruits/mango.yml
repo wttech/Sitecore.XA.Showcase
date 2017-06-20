@@ -43,7 +43,8 @@ Languages:
       Value: "20141031T151417:635503652577355449"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -57,7 +58,8 @@ Languages:
       Value: "20141031T151417:635503652576403685"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
       Value: mango
@@ -70,7 +72,8 @@ Languages:
       Value: "20141031T151418:635503652581751225"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -80,7 +83,8 @@ Languages:
       Value: "20141031T151418:635503652583154341"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous
 - Language: "pl-PL"
   Versions:
   - Version: 1
@@ -90,7 +94,8 @@ Languages:
       Value: "20141031T151417:635503652578788001"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous
 - Language: "ru-RU"
   Versions:
   - Version: 1
@@ -100,4 +105,5 @@ Languages:
       Value: "20141031T151418:635503652580279425"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: extranet\Anonymous
+      Value: |
+        extranet\Anonymous

@@ -96,12 +96,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T072310Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p>The Page List component that renders... a list of pages. Simple. The listing content is generated from fields on pages being listed. You can configure which fields should be shown, and style them any way you want. The pages list is constructed using a Sitecore query, so you can choose if you would like to display child or sibling pages or items with the same template... or any other query you can construct. The options for this component are endless! The component supports <a href=\"~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z\">rendering variants</a>. It comes with a simple example, but you can of course define your own. It is used for everything from scrolling full width hero images to a basic table of contents.</p>"
+      Value: |
+        <p>The Page List component that renders... a list of pages. Simple. The listing content is generated from fields on pages being listed. You can configure which fields should be shown, and style them any way you want. The pages list is constructed using a Sitecore query, so you can choose if you would like to display child or sibling pages or items with the same template... or any other query you can construct. The options for this component are endless! The component supports <a href="~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z">rendering variants</a>. It comes with a simple example, but you can of course define your own. It is used for everything from scrolling full width hero images to a basic table of contents.</p>
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -113,13 +117,15 @@ Languages:
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Page List
@@ -131,4 +137,5 @@ Languages:
       Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{19877429-5FBC-481C-B38D-A34824BE2091}\" />"
+      Value: |
+        <image mediaid="{19877429-5FBC-481C-B38D-A34824BE2091}" />

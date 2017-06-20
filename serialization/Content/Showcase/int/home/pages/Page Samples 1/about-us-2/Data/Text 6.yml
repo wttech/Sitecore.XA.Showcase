@@ -1,0 +1,29 @@
+﻿---
+ID: "e859877c-630c-4dad-a1b1-1113a4c05509"
+Parent: "2d8c785b-3c5a-41bf-a08b-58c43b1a986a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Page Samples 1/about-us-2/Data/Text 6"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161215T144834Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <li style="color: #000000;">Themes — concept used to allow for ease of customization of existing sites as well as white-labeling of a site.</li>
+        <li style="color: #000000;">Reusable components — Experience Accelerator provides large list of components which can cover almost 100% simple site needs. This article will give you an overview of these.&nbsp;</li>
+        <li style="color: #000000;">Multitenancy&nbsp;</li>
+        <li style="color: #000000;">Creative Exchange — The designers within the agencies are used to work with static HTML and do not necessarily are familiar with or have time to learn Sitecore.&nbsp;</li>
+        <li style="color: #000000;">Script Library — In Cognifide we make extensive use of Sitecore PowerShell Extensions to automate as much as we can to reduce the burden of management tasks to the minimum.</li>
+        <li style="color: #000000;">Assets Optimizer — module optimizing CSS styles and JS scripts to improve end user experience.&nbsp;</li>
+        <li style="color: #000000;">Market Manager — Idea of the copy market tool that preserves SXA references.&nbsp;</li>
+        <li style="color: #000000;">Sitecore extensions — Apart from the visual elements Sitecore Experience Accelerator also offers a number of improvements that enrich the general authoring experience as well as support the business in the process of delivering a site. Due to the extendible nature of the Sitecore framework, we have been able to streamline the development process to incorporate a number of commonly requested improvements directly in the framework.</li>

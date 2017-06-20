@@ -166,16 +166,19 @@ Languages:
       Value: <p>Description of SXA Rendering Variants feature.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p>Like it says on the tin: Rendering Variants are variations of components. When a user places a component on a page, they are able to select different ways that the component may appear or what content it shows. This might vary quite a lot from project to project, so we have created a facility for a \"super user\" to create their own Rendering Variants. This avoids the need for building specific components which are only slight variations of existing components.</p><br>"
+      Value: |
+        <p>Like it says on the tin: Rendering Variants are variations of components. When a user places a component on a page, they are able to select different ways that the component may appear or what content it shows. This might vary quite a lot from project to project, so we have created a facility for a "super user" to create their own Rendering Variants. This avoids the need for building specific components which are only slight variations of existing components.</p><br>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Rendering Variants

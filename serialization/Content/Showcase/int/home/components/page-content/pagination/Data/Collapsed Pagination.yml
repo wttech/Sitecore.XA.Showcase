@@ -1,0 +1,26 @@
+﻿---
+ID: "498005c1-6c1c-4f73-8eca-fdcaa5edf3e9"
+Parent: "cc2d09b9-7605-40b1-8c2b-7b411c051543"
+Template: "458a37ba-8222-4182-86e5-e086cfcdad5c"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/pagination/Data/Collapsed Pagination"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022bc2fe-8bbb-4b83-a3d5-a5e1273fe57b"
+      Hint: FirstLabel
+      Value: <<
+    - ID: "0d22bfa8-90df-4417-a46a-d5059a1edac9"
+      Hint: NextLabel
+      Value: >
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T202105Z
+    - ID: "b5631789-5ae0-4db2-baa2-995296ef5d8a"
+      Hint: LastLabel
+      Value: >>
+    - ID: "f973fad7-e7a4-471b-b888-5a88f95dc121"
+      Hint: PreviousLabel
+      Value: <

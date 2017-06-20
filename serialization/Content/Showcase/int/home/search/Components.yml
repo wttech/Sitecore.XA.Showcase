@@ -34,10 +34,12 @@ Languages:
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Search
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{CDB8FA30-26E9-4DBF-919B-90D43D46A96B}\" />"
+      Value: |
+        <image mediaid="{CDB8FA30-26E9-4DBF-919B-90D43D46A96B}" />

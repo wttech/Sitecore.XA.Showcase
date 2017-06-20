@@ -21,7 +21,8 @@ Languages:
       Value: 20161017T083214Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{8BC83DA3-1663-4280-B866-CC626C622921}\" ></image>"
+      Value: |
+        <image mediaid="{8BC83DA3-1663-4280-B866-CC626C622921}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: |
@@ -29,4 +30,5 @@ Languages:
         <h4>A new way of approaching the production of websites.</h4>
     - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
       Hint: SlideLink
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{77C07F1F-CD1A-4120-9C43-2E680196D1FC}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{77C07F1F-CD1A-4120-9C43-2E680196D1FC}" />

@@ -10,7 +10,8 @@ SharedFields:
   Value: 400
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{87546745-6B4B-4A7E-A011-AB5A9635089E}\" ></image>"
+  Value: |
+    <image mediaid="{87546745-6B4B-4A7E-A011-AB5A9635089E}" ></image>
 Languages:
 - Language: en
   Fields:
@@ -25,7 +26,8 @@ Languages:
       Value: 20161117T093842Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Services Page 2

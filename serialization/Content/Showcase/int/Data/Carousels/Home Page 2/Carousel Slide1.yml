@@ -1,0 +1,30 @@
+﻿---
+ID: "0e6d0d1e-1acb-4321-b92e-894abdb994a8"
+Parent: "f7264959-1fc2-43e3-b99e-1772f730155d"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/Data/Carousels/Home Page 2/Carousel Slide1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170605T091821Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{2C59C26D-69F4-43B2-AF1A-60BDCADC9B72}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
+      Hint: SlideText
+      Value: |
+        <p style="text-align: center;"><strong><span style="font-size: 28px; font-weight: bold;">Change the way you build the sites forever!</span></strong></p>
+    - ID: "b31d5ddd-1eda-4b22-b97d-ff71fc8e72bc"
+      Hint: SlideLink
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}" />
