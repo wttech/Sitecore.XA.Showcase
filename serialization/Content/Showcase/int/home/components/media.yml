@@ -17,6 +17,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T112651Z
@@ -25,7 +28,8 @@ Languages:
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Media

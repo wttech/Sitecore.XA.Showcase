@@ -1,0 +1,14 @@
+﻿---
+ID: "fc3bb6d6-7d4b-4d31-b43e-546ea6160a68"
+Parent: "b9af50a4-a1cc-49d5-8416-5c75dabc4bca"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Title/Page Title with Fallback
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T132755Z

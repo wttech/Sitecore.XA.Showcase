@@ -1,0 +1,18 @@
+﻿---
+ID: "dcf84be0-4e57-435c-a737-80983d127bb8"
+Parent: "06ab34d3-38a7-4890-a3e0-c3cc3f8ea541"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/Showcase/int/home/pages/Homepage/home-page-3/Data/Image 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170612T075445Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

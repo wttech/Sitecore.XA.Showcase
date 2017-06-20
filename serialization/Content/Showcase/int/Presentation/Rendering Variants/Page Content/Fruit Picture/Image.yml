@@ -1,0 +1,18 @@
+﻿---
+ID: "1953075f-ab75-48d0-b82b-2d161f0ea894"
+Parent: "8756fba8-53cb-4c8e-90de-cd08b1829d94"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Page Content/Fruit Picture/Image
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T093352Z

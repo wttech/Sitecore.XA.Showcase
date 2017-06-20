@@ -46,7 +46,8 @@ Languages:
       Value: "20141031T160645:635503684050491636"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -60,7 +61,8 @@ Languages:
       Value: "20141031T160644:635503684049567522"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
       Value: "guava-e-liquid"
@@ -73,7 +75,8 @@ Languages:
       Value: "20141031T160645:635503684054030796"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -83,7 +86,8 @@ Languages:
       Value: "20141031T160645:635503684055249840"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "pl-PL"
   Versions:
   - Version: 1
@@ -93,7 +97,8 @@ Languages:
       Value: "20141031T160645:635503684051710680"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ru-RU"
   Versions:
   - Version: 1
@@ -103,4 +108,5 @@ Languages:
       Value: "20141031T160645:635503684052811752"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr

@@ -1,0 +1,27 @@
+﻿---
+ID: "108b57c5-2c75-45a3-b578-ae285a1b3229"
+Parent: "1ed9a554-43e4-4119-8e88-767d1fc1081e"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/promo/Data/Everyone"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <h3 style="text-align: center;">Everyone</h3>
+        <p style="text-align: center;">They are everywhere!</p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{4DCA781F-C7A5-464B-9B2C-F90037E9A420}" height="" hspace="" width="" alt="test" vspace="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T114836Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

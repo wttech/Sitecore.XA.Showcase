@@ -10,7 +10,8 @@ SharedFields:
   Value: 800
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{6E34318B-186F-41C2-8F0D-E18487041EFF}\" />"
+  Value: |
+    <image mediaid="{6E34318B-186F-41C2-8F0D-E18487041EFF}" />
 Languages:
 - Language: en
   Fields:
@@ -20,6 +21,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161013T112707Z
@@ -28,7 +32,8 @@ Languages:
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Navigation
@@ -37,4 +42,5 @@ Languages:
       Value: Navigation
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{6E34318B-186F-41C2-8F0D-E18487041EFF}\" />"
+      Value: |
+        <image mediaid="{6E34318B-186F-41C2-8F0D-E18487041EFF}" />

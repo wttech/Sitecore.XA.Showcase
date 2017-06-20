@@ -1,0 +1,25 @@
+﻿---
+ID: "94d50984-6f59-4bab-b459-7becb46fef5f"
+Parent: "d9e19686-b1d6-4436-8982-7ad732d01bc5"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Tabs in toggle/Yes it works/Data/Image 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170412T210939Z
+    - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
+      Hint: ImageCaption
+      Value: "This awesome turkey says yes!"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{6E8DCEFE-2D4D-475F-8ADB-4B0BE311CF76}" />

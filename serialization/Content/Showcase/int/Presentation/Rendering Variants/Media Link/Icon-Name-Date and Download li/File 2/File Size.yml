@@ -1,0 +1,14 @@
+﻿---
+ID: "b196e5eb-9180-45ef-9652-1fc55dcd5158"
+Parent: "42b96299-daf5-4b7a-97c2-82700c0226b6"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: "/sitecore/content/Showcase/int/Presentation/Rendering Variants/Media Link/Icon-Name-Date and Download link/File 2/File Size"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T124848Z

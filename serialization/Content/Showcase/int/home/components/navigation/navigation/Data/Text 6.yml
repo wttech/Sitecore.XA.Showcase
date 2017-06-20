@@ -1,0 +1,21 @@
+﻿---
+ID: "af0d9ecf-c47b-44f6-a679-838f6299a407"
+Parent: "4b796c7d-3464-439f-845e-626d9f7ca4f8"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Showcase/int/home/components/navigation/navigation/Data/Text 6
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161004T070950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: <p>Since the trends show more and more users browsing the web from their mobile devices, dedicated navigation is a must have on every modern page. With Experience Accelerator making the navigation mobile ready is as simple as selecting one of the included classes.</p>

@@ -7,7 +7,8 @@ DB: master
 SharedFields:
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{AF679A3B-2E0D-4EB9-9072-6B5A5C436490}\" ></image>"
+  Value: |
+    <image mediaid="{AF679A3B-2E0D-4EB9-9072-6B5A5C436490}" ></image>
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -157,6 +158,34 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4802FF77-C914-43AC-B47C-2ADDF93CC23D}"
+              s:par="DynamicPlaceholderId=3&amp;Caching=0|0|0|0|0|0|0|0" />
+            <r
+              uid="{0F10A5CA-B69B-4F76-BD0E-5F479DA28803}"
+              s:par="Caching=0|0|0|0|0|0|0|0&amp;FieldNames={FB4FAAA7-3C38-4220-A521-4331F21100AA}&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{9F22AF16-19D0-4632-8385-BC6465464878}"
+              s:par="DynamicPlaceholderId=2&amp;Caching=0|0|0|0|0|0|0|0" />
+            <r
+              uid="{0AA442CF-42A3-406D-AE74-EB6438958BE7}"
+              s:par="DynamicPlaceholderId=1&amp;Caching=0|0|0|0|0|0|0|0" />
+            <r
+              uid="{9D727756-F24B-4E15-B0F5-0A6B5F988C51}"
+              s:par="DynamicPlaceholderId=1&amp;Styles4={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles1={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles2={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles5={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;Styles3={F5692E8C-D245-4A59-9112-4ECE2D7CF5C9}&amp;SplitterSize=5" />
+            <r
+              uid="{634EFE1A-77DC-4A43-B7EE-D4022BD295FA}"
+              s:par="Styles={A7DF2351-75AC-4A71-8D33-6464C6AC651C}&amp;DynamicPlaceholderId=1" />
+          </d>
+        </r>
     - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
       Hint: Page Design
       Value: "{9CE3812F-8C87-4A8F-B8D2-533AAE5B8128}"
@@ -165,10 +194,12 @@ Languages:
       Value: 20161104T101142Z
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Home Page 4

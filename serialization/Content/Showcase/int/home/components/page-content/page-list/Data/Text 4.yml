@@ -1,0 +1,22 @@
+﻿---
+ID: "a86f1923-d56b-42a4-a68f-033e3344c481"
+Parent: "efb5df30-ecf7-47dc-a1aa-acc429d27d73"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/page-list/Data/Text 4"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T131459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        Head to the <a href="/components/page-content/~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z">Rendering Variants</a> &nbsp;page for more amazing examples of the Page List component can do...

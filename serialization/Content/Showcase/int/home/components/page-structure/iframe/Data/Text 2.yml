@@ -1,0 +1,23 @@
+﻿---
+ID: "288cceaf-8b9b-471e-b5ee-701704bf53cf"
+Parent: "a92e70ea-a78c-4165-bd86-3e66aedd0cea"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/iframe/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T122638Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h2>Aggregate</h2>
+        <p>Mix content originating from different internal or external sources and present it to the user with a single page view (e.g. for comparison).</p>

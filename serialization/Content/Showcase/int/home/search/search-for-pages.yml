@@ -102,7 +102,8 @@ Languages:
       Value: "Not sure what you're looking for? Let's look through all the pages."
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Find a component
@@ -111,7 +112,8 @@ Languages:
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Search for any page

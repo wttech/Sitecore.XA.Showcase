@@ -1,0 +1,25 @@
+﻿---
+ID: "b6e0d4ca-f7b9-4c88-8875-46eca7477924"
+Parent: "91c77825-4a09-4801-bd0c-4c8a71a2ddb1"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Search Box/Page Title/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{10CDAEA8-DD82-4A45-A4C6-85D03E5FC725}"
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160930T083557Z

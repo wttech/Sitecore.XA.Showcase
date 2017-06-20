@@ -5,6 +5,10 @@ Template: "eda823fc-bc7e-4ef6-b498-cd09ec6fdaef"
 Path: /sitecore/content/Showcase/int/Settings/Site Grouping/int
 DB: master
 SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{3D55C326-3353-48CD-BEDC-E8AE0CB9EF4D}"
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
   Value: "{2C1DB24E-0C8E-49FC-9569-F587509C3FD9}"

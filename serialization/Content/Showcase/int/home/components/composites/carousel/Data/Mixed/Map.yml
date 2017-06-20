@@ -1,0 +1,38 @@
+﻿---
+ID: "03e80765-d39b-4ca2-b8ae-b0926f9a6e3c"
+Parent: "a2293645-34c2-430a-a20d-2ce7395411dd"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/home/components/composites/carousel/Data/Mixed/Map
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CB7B1C66-77F9-45E4-9AA3-12AC3E1EDF5A}">
+          <p:d />
+        </r>
+        <r
+          uid="{D8969ED7-75F2-480E-9A17-3213BFE7E326}"
+          s:ds="{7D9CDF19-3B89-4104-8914-ACB744CBC4E3}"
+          s:id="{4DD74227-4504-4102-A802-76241F372B9E}"
+          s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;Signature&amp;CenterOnFoundPOI&amp;AnimateFoundPOI&amp;DisableMapScrolling&amp;DisableMapZoomOnScroll&amp;Styles"
+          s:ph="section-carousel-content" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161013T130814Z

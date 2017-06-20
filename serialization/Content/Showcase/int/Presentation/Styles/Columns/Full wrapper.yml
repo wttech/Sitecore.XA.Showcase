@@ -1,0 +1,22 @@
+﻿---
+ID: "d74b9a36-5252-4a21-8359-dc9891768bf6"
+Parent: "f87c7f5f-c517-48e8-bb10-542e4e06d3bd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Columns/Full wrapper
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "full-wrapper"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170606T141938Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

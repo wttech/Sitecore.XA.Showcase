@@ -101,13 +101,15 @@ Languages:
       Value: "<p>What easier way to construct the content for the page you are working on than to simply drag components off the shelf and put them directly where you need them? If you need to structure the layout of your page, you can also drag and drop column and row splitters to divide the content up correctly. No need to go to a developer.</p>"
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Drag & Drop
@@ -116,7 +118,9 @@ Languages:
       Value: Drag And Drop Editing
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{E88BF96B-B4F4-4DB0-9E60-83A912839D2C}\" />"
+      Value: |
+        <image mediaid="{E88BF96B-B4F4-4DB0-9E60-83A912839D2C}" />
     - ID: "ddaa2a8d-957f-445c-86e0-3c8e51212d83"
       Hint: SummaryImage
-      Value: "<image mediaid=\"{E88BF96B-B4F4-4DB0-9E60-83A912839D2C}\" />"
+      Value: |
+        <image mediaid="{E88BF96B-B4F4-4DB0-9E60-83A912839D2C}" />

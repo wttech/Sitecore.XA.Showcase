@@ -1,0 +1,21 @@
+﻿---
+ID: "63a5ebee-301c-4714-88a0-09b3b34b60eb"
+Parent: "8f63305c-0efc-4486-897c-7c5711f6a9cf"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/context/site-selector/Data/Text 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170601T101246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<div>Languages</div><div><br /></div><div>Sitecore as a leading Content Management System provides an ability to create mulitple language versions for each of the items. In Zen Garden we fully support this. What is more we have created a component named Language Selector which enables to easily and quickly switch between available languages.</div><div>Take a look at the right hand side to see how Language Selector works!</div>"

@@ -1,0 +1,25 @@
+﻿---
+ID: "972c7c31-eaf1-4a2e-9c26-ee20b8ecf6c3"
+Parent: "40f4fe4c-2749-49d6-89ba-5ee9c1c2a721"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Navigation/Extended Level 2/Text
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: NavigationText
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T123716Z

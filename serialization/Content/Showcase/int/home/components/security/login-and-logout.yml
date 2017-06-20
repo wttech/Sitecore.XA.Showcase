@@ -20,12 +20,16 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161014T070318Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "If you have content or functionality that you want to keep away from public access, there is no better way than to ask users to authenticate with your site. All you need is the \"Open Sesame\" functionality, also known as the Login component. Once your users are in the treasury, they need a way to get out. This emergency exit is called the Logout component. Read below to learn how to combine these two SXA components to build a complete password-protected website."
+      Value: |
+        If you have content or functionality that you want to keep away from public access, there is no better way than to ask users to authenticate with your site. All you need is the "Open Sesame" functionality, also known as the Login component. Once your users are in the treasury, they need a way to get out. This emergency exit is called the Logout component. Read below to learn how to combine these two SXA components to build a complete password-protected website.
     - ID: "2fd91ca5-61bf-43d2-a0b1-f6fb9aeadc3a"
       Hint: FeatureList
       Value: |
@@ -41,10 +45,12 @@ Languages:
         <p>Find detailed information on our documentation page.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Login & Logout
@@ -53,4 +59,5 @@ Languages:
       Value: Security
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{C09689F8-0F78-4CF3-B92E-0071E2E4F8C6}\" />"
+      Value: |
+        <image mediaid="{C09689F8-0F78-4CF3-B92E-0071E2E4F8C6}" />

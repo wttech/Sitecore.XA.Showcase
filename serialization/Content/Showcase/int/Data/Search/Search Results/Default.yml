@@ -14,7 +14,8 @@ Languages:
       Value: 20160929T081206Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "904cb4ca-42d1-4690-8a99-9ecf22855e88"
       Hint: ResultsNotFoundText
       Value: "Something went wrong... No components? Impossible!"

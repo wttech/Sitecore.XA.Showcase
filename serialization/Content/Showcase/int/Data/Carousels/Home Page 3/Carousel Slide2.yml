@@ -1,0 +1,22 @@
+﻿---
+ID: "07cea2d9-b6f1-464b-abfb-e4e919a07335"
+Parent: "fa5fb73a-3fbf-445f-86bf-6a5680b2343f"
+Template: "142e5fc1-ec62-4540-bad9-cd88f337cd2e"
+Path: /sitecore/content/Showcase/int/Data/Carousels/Home Page 3/Carousel Slide2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170620T114213Z
+    - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{409D4249-F080-4BF7-A655-216FCF5E4404}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

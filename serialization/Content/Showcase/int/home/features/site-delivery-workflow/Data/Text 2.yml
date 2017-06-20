@@ -1,0 +1,21 @@
+﻿---
+ID: "e3ad9f95-f11b-4f92-9929-e36bda5464bc"
+Parent: "05f4239d-cb04-40c7-9f4b-86a2eb42d06a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/features/site-delivery-workflow/Data/Text 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T104628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: In a traditional project, the Site Production is carried out in a linear fashion, with the user experience and design work done before coding begins. Content Entry is left until all these things have been finished. Even if these streams of work are successful, the time to market can be slow.&nbsp;<br>

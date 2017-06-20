@@ -1,0 +1,22 @@
+﻿---
+ID: "28ef15bd-8a15-47b2-877e-84c93075cc47"
+Parent: "221a61d8-7fe0-4898-9441-3942c8b5d0c5"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/pages/Homepage/home-page-1/Data/Text 13"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170619T080912Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div style="font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;">Tel. +48 (61) 843 3041</div><div style="font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;">Fax. +48 (61) 843 3023</div>

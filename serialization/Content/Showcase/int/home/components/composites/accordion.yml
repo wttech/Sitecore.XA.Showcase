@@ -205,6 +205,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{609F6A00-A262-4B2F-9109-772844922EB2}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161012T121842Z
@@ -225,13 +228,15 @@ Languages:
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Accordion
@@ -246,4 +251,5 @@ Languages:
       Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{A752282B-621E-4E1A-A363-B6767565A066}\" />"
+      Value: |
+        <image mediaid="{A752282B-621E-4E1A-A363-B6767565A066}" />

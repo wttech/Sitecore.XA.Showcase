@@ -1,0 +1,27 @@
+﻿---
+ID: "5e5e89e6-68ae-4043-b48c-e71d4d49fa90"
+Parent: "4b67b9b8-3515-4670-b753-10e69be0f845"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T145333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p>Where should we start?</p>
+        <p>First of all you can use Sitecore to wireframe your site. There is a dedicated theme which you can use to build your site and fill it with lorem ipsum and fake images (they are replaced by some dummy image so they do not distract you).&nbsp;</p>
+        <p>You can build layout for your site and put components around it. Add navigation and social icons to the header and copyright to the footer. Add promos to homepage and divide your pages to main content and sidebar. Add more promos and other page elements. All without leaving your browser.</p>
+        <p>When your site is wireframed you can then export it and ask your creative agency to style it for you. When they are done, you import their work and have a ready to use SXA theme.</p>
+        <p>In the mean time the real content comes to life. Your authors fill the pages with meaningful content replacing lorem ipsum. Once the agency is done with the styles your site is probably almost ready to show to your customers.</p>
+        <p>With SXA you get a tool which will allow you to build your site faster and with less energy. Do not waste your time on building sites, go skiing with your family!</p>

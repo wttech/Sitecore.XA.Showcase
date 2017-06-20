@@ -1,0 +1,22 @@
+﻿---
+ID: "d74d1a2c-7e1a-451a-935c-ad03160405d7"
+Parent: "8f63305c-0efc-4486-897c-7c5711f6a9cf"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/context/site-selector/Data/Text 5"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170601T101656Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div><span style="font-size: 16px;">With Site and Language Selectors it is so easy now to make use of multilingual sites!</span><br /></div>

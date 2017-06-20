@@ -1,0 +1,47 @@
+﻿---
+ID: "5b60bd5d-cb42-4151-9188-236d128891cf"
+Parent: "41b1893a-7722-4662-9592-accfaa0d6aa0"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Logo/Cognifide_Logo_GREYSCALE_REV
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/5B60BD5DCB4241519188236D128891CF.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 400
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b367573c-5e85-4c98-9bbf-c5ba180b6b8d"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAZAAAACBCAMAAADZnBx0AAABFFBMVEUAAAD+/v7+/v7+/v7+/v7////////+/v7+/v7+/v7////+/v7////////+/v6tra10dHT29vb+/v7////////////+/v7+/v7+/v7+/v52dnarq6v+/v5zc3P////+/v7+/v7+/v7////+/v7////+/v7+/v7////////+/v7+/v7////+/v7+/v7////////+/v6urq7+/v7+/v7+/v7///////////////91dXWsrKz+/v7///////////////92dnb+/v7+/v51dXX+/v7+/v6tra12dnZ1dXWtra2oqKisrKx8fHytra11dXWrq6tzc3P///92dnatra2rq6u6urp9fX22trZ4eHh/f3/GxsaGhoYb6EFsAAAAUXRSTlMA/bem+fLObRUmjDYiCeVNTQXKC0GhtJ5bKvhZTB+D3trVGet3ru9GD+e7UsVKMijilDmYfV9WLh62aWM8E8CplJFr02hyjMKUcB3PlYNqPTeMS5lnAAAIqUlEQVR42uzBgQAAAACAoP2pF6kCAAAAAAAAAAAAAAAAmD37YFIaiAI4/iIJxwFBQ+4ELJRIkY5SbYeHZ69PPev3/x7ubspLISg4QR3z01FnXPYgf3b3wsX+B6quQuwvoRcLyVx7lJ/+arxZkTmE2G/Tb3MZDdwORmi6B0JWDMpCqBRydYj9ttvIySkgqQ5aJKtBArnjDUEUZA4g9tsyyCkPwJGqoa0KpmPkCnGQoD0E6aBjCaZCHCRM9EHuoVCdHM3vH8ZB9ix4hmg15MYqCPEZsm+DG1zVWSFz5C6Ax6kYdBoH2QPtpgC2M+Qy4KGKMWoc5A9II5PTYJ04yH7RcZGHOMjfooFMJw7y17iAzOU4yF/jXw/y4mLQC7C9uxSkQRi9dHStNUjBelr2fr9/Pxv+8NSgde2opEM443a/nzFgo8vINOBX8Cd02wgPog7563kAe3X122e/b8/B9vT7J5+vX67DWsbqQhs5pTcZQkC/UJWRkSuJ7romi3qviVyuUVQBWstEIlEW8ya4BR+RV8T8+UkWXMrsv5dnwHT5g3JiksQ6nocdjc0npCTT83VBtO5yJCFzo3OQgv25ev7B7/wu2O58eu/z5craIA/STSRywpdklkSX2j3w0ctNJNUprJyP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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2655
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 400 x 129
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 129
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170328T233310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Cognifide Logo

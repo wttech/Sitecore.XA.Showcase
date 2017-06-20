@@ -1,0 +1,14 @@
+﻿---
+ID: "99584554-fdec-48ed-907a-bd0e6d175da2"
+Parent: "16f1f7a6-dad9-40aa-ba27-3b7d4e4ea7e4"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Media Link/Link from Download Section/Details Area/Media/File Type
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161003T124841Z

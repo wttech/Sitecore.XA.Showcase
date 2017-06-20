@@ -1,0 +1,26 @@
+﻿---
+ID: "31ce6e28-9aa4-46c1-8892-81a2b943e087"
+Parent: "8cc6a4fb-d849-4e3c-ae3d-9a24568a5ad2"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Media Link/Default/LinkText
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: LinkText
+- ID: "d2bee344-6827-411a-8195-1e6d02312bcd"
+  Hint: IsDownloadLink
+  Type: Checkbox
+  Value: 1
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081202Z

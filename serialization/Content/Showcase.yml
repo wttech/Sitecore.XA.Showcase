@@ -11,6 +11,9 @@ SharedFields:
 - ID: "9c596379-f8d4-45d1-a064-cdf1ede2e7c7"
   Hint: Templates
   Value: "{AC73CB9E-A727-4EBF-8A60-7730F2280FBD}"
+- ID: "abfb8c52-73a8-4f60-a32a-f27dd8e1b83a"
+  Hint: Themes
+  Value: "{8A61FBE5-B85E-4479-A854-CAE04A5F8D5C}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: "-101"

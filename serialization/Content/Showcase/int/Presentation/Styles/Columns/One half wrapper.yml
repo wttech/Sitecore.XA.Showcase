@@ -1,0 +1,22 @@
+﻿---
+ID: "ad1e9136-38b4-4f0c-b315-f9491c4cf4ea"
+Parent: "f87c7f5f-c517-48e8-bb10-542e4e06d3bd"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Showcase/int/Presentation/Styles/Columns/One half wrapper
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "one-half-wrapper"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170606T142018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "fae98275-47f3-45a9-97b6-700f088cf7c1"
+Parent: "ce194cf9-27b2-4aaf-803b-263520058834"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/splitter-rows/Data"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170606T135612Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

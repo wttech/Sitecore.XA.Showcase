@@ -1,0 +1,21 @@
+﻿---
+ID: "b3ba01d7-b3ce-4f95-9198-b931bbce5463"
+Parent: "5c7efa23-88b8-41a9-bbef-3c3e3dfa54e9"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/navigation/link-list/Data/Text 7"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161005T125406Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: And here we have the same link list as one of those above but this time we are using buttons instead of text links

@@ -7,7 +7,8 @@ DB: master
 SharedFields:
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{2B4962A9-1E7F-4BD6-A8A5-F0405FA6CF31}\" ></image>"
+  Value: |
+    <image mediaid="{2B4962A9-1E7F-4BD6-A8A5-F0405FA6CF31}" ></image>
 Languages:
 - Language: en
   Fields:
@@ -22,10 +23,12 @@ Languages:
       Value: 20161117T093736Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Error 404
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{B678D615-D80A-4A00-9E4C-B13808ED821E}\" />"
+      Value: |
+        <image mediaid="{B678D615-D80A-4A00-9E4C-B13808ED821E}" />

@@ -1,0 +1,21 @@
+﻿---
+ID: "a448a4c0-d494-4c44-bcdf-433f029b542e"
+Parent: "a1fc7eac-c38e-476a-96dd-30ab8434c341"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/other/events/event-list/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T092000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<p>Event List presents your event details in a sequential way, displaying name, date, description, and optional link for each entry. Each item on the list can be edited in-place when you edit the page it appears on. You can also add, remove, and reorder your events directly when the page is in edit mode.</p>"

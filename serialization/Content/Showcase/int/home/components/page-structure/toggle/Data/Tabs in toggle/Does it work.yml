@@ -1,0 +1,41 @@
+﻿---
+ID: "378ab324-2ba9-498e-a325-e1e5627099bf"
+Parent: "0f716254-5511-45d2-9f31-956ef542fb80"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/toggle/Data/Tabs in toggle/Does it work"
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1292FC57-9F1D-48E4-943B-8B4A6EA865A1}"
+          s:par="FieldNames={5423143A-760D-4F0E-BA4D-0B02E649A778}&amp;Styles" />
+        <r
+          uid="{8D78A6A9-1A4A-438F-9951-03896182E1D1}"
+          s:par="FieldNames={2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74}&amp;Styles" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170412T203804Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: "Does it work?"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: "<p>No really? tabs in toggle?<br />That can't work, can it?</p>"

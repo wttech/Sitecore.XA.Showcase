@@ -74,13 +74,15 @@ Languages:
       Value: <p>With an out of the box set of reusable components which cover a wide range of possibilities for your website, SXA comes well equipped. For the majority of website needs you will not need to hire a developer to build code. Our components are flexible, responsive, adaptable, skinnable, and robust. Based on years of experience building website components we have packaged that experience into a product that will free your time to concentrate on content and branding.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Components
@@ -89,4 +91,5 @@ Languages:
       Value: Components
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{EB5CA14B-CA05-4205-9DC9-7E85998CEE04}\" />"
+      Value: |
+        <image mediaid="{EB5CA14B-CA05-4205-9DC9-7E85998CEE04}" />

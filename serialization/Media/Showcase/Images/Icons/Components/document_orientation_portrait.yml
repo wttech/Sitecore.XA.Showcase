@@ -1,0 +1,47 @@
+﻿---
+ID: "9b9a9522-3eb6-4232-a7e6-56ec64745092"
+Parent: "2447d3fd-c014-45f5-b60a-56ab8f05beac"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Showcase/Images/Icons/Components/document_orientation_portrait
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/9B9A95223EB64232A7E656EC64745092.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "87677352-4977-4de6-b978-c0eab9f12260"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAPFBMVEUAAABMg7dNgrhNgrmAgIBNgrhOgbeAgICAgICAgIBNgriBgYGAgICAgICAgIBNgbmCgoJNg7mAgIBNgrjw2G7VAAAAEnRSTlMAP7/T37qAdiAEyn/qq4BHN6rsyCVJAAAAtElEQVRIx+3R2w6CMBAE0G2V1gsotv//r65AnAZ20ieliU7Cy4aTYRdpNomlH0YCeCIBPDcbGNNzhDCAJXR+1OdaB5ifIGzgcs6unEPYwCvw5XwWcQNQMFVgvohxDVAQUJGQwQZa0MlFKzagt4F/vXt/V6Qia4ACQQX+IAFa8AghdEsFBAEuI07KEKAFhzlagR1sgA0EW1SAx4dMh6oAnh1BIvkk+F/pV660O2jtSpV8BbSaJ5H2NHzoGHvAAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 339
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170403T133040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Document icon

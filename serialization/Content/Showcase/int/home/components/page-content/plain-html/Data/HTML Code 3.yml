@@ -1,0 +1,22 @@
+﻿---
+ID: "100e0f3e-7cdc-4a00-83bb-e396ce04b32e"
+Parent: "91aae2c4-951e-41f4-abdc-56d3546b56cb"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/plain-html/Data/HTML Code 3"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <style>pre {    font-family: "Courier 10 Pitch", Courier, monospace;    font-size: 90%;    line-height: 140%;    white-space: pre;    white-space: pre-wrap;    white-space: -moz-pre-wrap;    white-space: -o-pre-wrap;}       code {    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;    font-size: 95%;    line-height: 140%;    white-space: pre;    white-space: pre-wrap;    white-space: -moz-pre-wrap;    white-space: -o-pre-wrap;    display: block;    padding: 0.5em 1em;    border: 1px solid #bebab0;}</style><pre><code>&lt;script&gt;<br/>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){<br/>(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),<br/>m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)<br/>})(window,document,'script','//www.google-analytics.com/analytics.js','ga');<br/><br/>ga('create', 'UA-XXXXXXXX-1', 'auto');<br/>ga('send', 'pageview');<br/><br/>&lt;/script&gt;</code></pre>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T121101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

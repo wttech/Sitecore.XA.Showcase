@@ -43,7 +43,8 @@ Languages:
       Value: "20141105T100548:635507787486772660"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: en
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
@@ -57,7 +58,8 @@ Languages:
       Value: 20141105T100548
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
     - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
       Hint: Alt
       Value: Ribes
@@ -70,7 +72,8 @@ Languages:
       Value: "20141105T100549:635507787490548148"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ja-JP"
   Versions:
   - Version: 1
@@ -80,7 +83,8 @@ Languages:
       Value: "20141105T100549:635507787491708324"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "pl-PL"
   Versions:
   - Version: 1
@@ -90,7 +94,8 @@ Languages:
       Value: "20141105T100548:635507787488257292"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr
 - Language: "ru-RU"
   Versions:
   - Version: 1
@@ -100,4 +105,5 @@ Languages:
       Value: "20141105T100548:635507787489397804"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\dawidr
+      Value: |
+        sitecore\dawidr

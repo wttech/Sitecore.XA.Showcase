@@ -1,0 +1,22 @@
+﻿---
+ID: "bc6998a8-1e19-485e-a6cd-2c6479892d99"
+Parent: "f79fbc37-4a34-4206-8ec3-65943a1eb7bd"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-structure/splitter-columns/Data/Text 11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170607T081731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <h3><span style="color: #ffffff;">5</span></h3>

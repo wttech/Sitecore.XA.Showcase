@@ -270,13 +270,15 @@ Languages:
         <p>They do not need access to nor require to possess any knowledge of Sitecore. Once they have completed branding the site they can send the package back, and using the Creative Exchange Import tool, the new skin can be applied to the site. In the mean time content production can continue in the wireframe, or a temporary theme.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "6e8f1561-3bb0-4ba5-bfc1-18a32abab6f8"
       Hint: SummaryTitle
       Value: Creative Exchange
@@ -285,4 +287,5 @@ Languages:
       Value: Creative Exchange
     - ID: "ddaa2a8d-957f-445c-86e0-3c8e51212d83"
       Hint: SummaryImage
-      Value: "<image mediaid=\"{CF03B6D7-70AF-4693-9816-5692854C175F}\" />"
+      Value: |
+        <image mediaid="{CF03B6D7-70AF-4693-9816-5692854C175F}" />

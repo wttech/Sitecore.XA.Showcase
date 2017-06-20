@@ -1,0 +1,18 @@
+﻿---
+ID: "7f6e993b-d919-4ca2-a4c2-9e04e7fb82c1"
+Parent: "ec50b5a1-e2e4-47bf-899a-6f7dd5619e4a"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/File List/All Fields/File/$Size
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $Size
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160929T081201Z

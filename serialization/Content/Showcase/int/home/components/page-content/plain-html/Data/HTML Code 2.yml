@@ -1,0 +1,22 @@
+﻿---
+ID: "52a4ac98-578b-4619-b83d-ed5f7205513d"
+Parent: "91aae2c4-951e-41f4-abdc-56d3546b56cb"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/plain-html/Data/HTML Code 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <iframe src="//slides.com/cognifide/zengarden/embed?style=light" width="300" height="225" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161017T120923Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

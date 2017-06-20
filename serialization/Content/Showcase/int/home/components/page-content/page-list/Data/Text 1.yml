@@ -1,0 +1,21 @@
+﻿---
+ID: "4f6934f0-80e8-4835-8d9f-700f4bf3601b"
+Parent: "efb5df30-ecf7-47dc-a1aa-acc429d27d73"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/Showcase/int/home/components/page-content/page-list/Data/Text 1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161006T072516Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: "<h2>Example 1: List of child pages</h2>"
