@@ -14,7 +14,8 @@ Languages:
       Value: 20170416T184809Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: "<div>While most of the metadata is entered by the content editor, there is some information that SXA is able to pull directly from the asset: a file type icon based on the file extension and file size nicely formatted in KB or MB.</div><div>In the sample above, file size was even wrapped in additional brackets to improve readability. Go ahead look at the variant selected to see how you can do this without any additional code!</div>"

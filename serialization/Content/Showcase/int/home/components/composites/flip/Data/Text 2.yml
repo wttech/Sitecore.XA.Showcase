@@ -14,7 +14,8 @@ Languages:
       Value: 20170406T091251Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: <p>Go ahead click on the Flip components below and they will show the other side. Some of them don't even need to be clicked and will transform when you simply when you hover your mouse cursor over them.</p>

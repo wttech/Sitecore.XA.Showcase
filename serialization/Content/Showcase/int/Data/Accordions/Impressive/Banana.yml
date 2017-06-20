@@ -21,10 +21,13 @@ Languages:
       Value: 20161012T132730Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<img alt=\"Banana\" height=\"352\" width=\"851\" src=\"-/media/367CD95AA24F45789ED2E345D39FB621.ashx\" />"
+      Value: |
+        <img alt="Banana" height="352" width="851" src="-/media/367CD95AA24F45789ED2E345D39FB621.ashx" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
-      Value: "<img alt=\"Banana\" height=\"352\" width=\"49\" src=\"-/media/07B9DF29997440B1B94DA5A5DB8C6E8C.ashx\" />"
+      Value: |
+        <img alt="Banana" height="352" width="49" src="-/media/07B9DF29997440B1B94DA5A5DB8C6E8C.ashx" />

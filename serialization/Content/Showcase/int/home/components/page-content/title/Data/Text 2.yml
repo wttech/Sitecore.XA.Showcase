@@ -14,7 +14,8 @@ Languages:
       Value: 20160930T114741Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: <h2>Just drag and drop ...</h2> Title is just a basic field in the Sitecore content item. But you choose where it appears on the page by simply placing it using the Drag &amp; Drop feature.

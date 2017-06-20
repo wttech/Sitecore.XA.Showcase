@@ -132,9 +132,6 @@ Languages:
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Page Content
-    - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
-      Hint: ComponentType
-      Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
       Value: |

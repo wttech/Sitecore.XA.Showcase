@@ -18,7 +18,8 @@ Languages:
       Value: 20161013T121846Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{D70862F9-BC05-4F51-A514-0C3E16BC72F7}\" ></image>"
+      Value: |
+        <image mediaid="{D70862F9-BC05-4F51-A514-0C3E16BC72F7}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: <h2>Turn around and say...</h2>

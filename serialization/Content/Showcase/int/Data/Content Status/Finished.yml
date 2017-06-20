@@ -4,6 +4,10 @@ Parent: "7cc297c3-89bb-4dbb-97a0-5fffdbc7ed86"
 Template: "d2923fee-da4e-49be-830c-e27764dfa269"
 Path: /sitecore/content/Showcase/int/Data/Content Status/Finished
 DB: master
+SharedFields:
+- ID: "f917c951-1f75-4d62-b14a-bc6888d7eeca"
+  Hint: Value
+  Value: Finished
 Languages:
 - Language: en
   Versions:
@@ -14,4 +18,5 @@ Languages:
       Value: 20170403T151433Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

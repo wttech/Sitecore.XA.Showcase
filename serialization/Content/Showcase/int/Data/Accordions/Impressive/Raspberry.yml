@@ -21,10 +21,13 @@ Languages:
       Value: 20161012T132919Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<img alt=\"Raspberry\" height=\"352\" width=\"850\" src=\"-/media/80A6AA2BB20F458B876DE631E4F34370.ashx\" />"
+      Value: |
+        <img alt="Raspberry" height="352" width="850" src="-/media/80A6AA2BB20F458B876DE631E4F34370.ashx" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
-      Value: "<img alt=\"Raspberry\" height=\"352\" width=\"50\" src=\"-/media/EE4EDBBE51994C8CB9EC11C37BD1DD17.ashx\" />"
+      Value: |
+        <img alt="Raspberry" height="352" width="50" src="-/media/EE4EDBBE51994C8CB9EC11C37BD1DD17.ashx" />

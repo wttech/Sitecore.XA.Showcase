@@ -14,10 +14,12 @@ Languages:
       Value: <p>Chose from 1 up to 5 levels to be included in the navigation.</p>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{1C99E993-EF1B-4355-BFC6-D8B703D891F4}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
+      Value: |
+        <image mediaid="{1C99E993-EF1B-4355-BFC6-D8B703D891F4}" height="" hspace="" width="" alt="test" vspace="" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161004T074910Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin

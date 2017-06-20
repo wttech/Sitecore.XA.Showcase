@@ -18,16 +18,19 @@ Languages:
       Value: 
     - ID: "22379a66-606e-4205-abee-f9ac597084dd"
       Hint: PosterImage
-      Value: "<image mediaid=\"{23EB30F1-4F0C-4002-A068-D141C4895F1D}\" />"
+      Value: |
+        <image mediaid="{23EB30F1-4F0C-4002-A068-D141C4895F1D}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161110T140933Z
     - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
       Hint: MovieThumbnail
-      Value: "<image mediaid=\"{23EB30F1-4F0C-4002-A068-D141C4895F1D}\" />"
+      Value: |
+        <image mediaid="{23EB30F1-4F0C-4002-A068-D141C4895F1D}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin 
+      Value: |
+        sitecore\admin 
     - ID: "75562c38-22f6-4b63-af7a-daf44f0730f1"
       Hint: MovieDescription
       Value: "It&rsquo;s the best invention since electricity and possibly the wheel. Come to this mega-demo session to see exactly how Sitecore Experience Accelerator allows for rapid prototyping of information architecture, wire framing and content entry. Sitecore XA allows creative designers and UI developers to implement Sitecore designs faster than ever before&ndash;up to 80% faster&ndash;&ndash;without writing any code. A Sitecore product manager will show you how Sitecore XA frees you up to do all the really compelling things that always seem to get deferred to Phase 2. (We call that &ldquo;putting the Phase 2 into Phase 1.&rdquo;)"

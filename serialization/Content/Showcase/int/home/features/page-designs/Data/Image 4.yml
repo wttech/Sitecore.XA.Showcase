@@ -17,7 +17,9 @@ Languages:
       Value: "Step 1 - All your designs"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{6AA900BC-9BAF-4F84-B247-3F9426209E68}\" />"
+      Value: |
+        <image mediaid="{6AA900BC-9BAF-4F84-B247-3F9426209E68}" />

@@ -14,13 +14,15 @@ Languages:
       Value: Trust
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{CD21909E-2EEA-41A8-8DAD-F5B1FFCB15DD}\" ></image>"
+      Value: |
+        <image mediaid="{CD21909E-2EEA-41A8-8DAD-F5B1FFCB15DD}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161121T103802Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: Is the foundation of our mission

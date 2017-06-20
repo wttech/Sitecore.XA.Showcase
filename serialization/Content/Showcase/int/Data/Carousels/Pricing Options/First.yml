@@ -18,7 +18,8 @@ Languages:
       Value: 20161013T121550Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{C50CE6E6-A52E-481E-81A0-D958B0C7D20D}\" ></image>"
+      Value: |
+        <image mediaid="{C50CE6E6-A52E-481E-81A0-D958B0C7D20D}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
       Value: <h2>Whenever someone tells you...</h2>

@@ -15,16 +15,19 @@ Languages:
     Fields:
     - ID: "22379a66-606e-4205-abee-f9ac597084dd"
       Hint: PosterImage
-      Value: "<image mediaid=\"{5B570D1C-6213-4381-8744-E4D0F00AD9D2}\" />"
+      Value: |
+        <image mediaid="{5B570D1C-6213-4381-8744-E4D0F00AD9D2}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161110T140951Z
     - ID: "4e3a41dd-afb7-4763-ba20-ff27e0beeddf"
       Hint: MovieThumbnail
-      Value: "<image mediaid=\"{5B570D1C-6213-4381-8744-E4D0F00AD9D2}\" />"
+      Value: |
+        <image mediaid="{5B570D1C-6213-4381-8744-E4D0F00AD9D2}" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin 
+      Value: |
+        sitecore\admin 
     - ID: "75562c38-22f6-4b63-af7a-daf44f0730f1"
       Hint: MovieDescription
       Value: At Sitecore we help marketers truly own their customers' experiences with brands. We want marketers to deliver extraordinary experiences customers value, each time, every time they engage with brands, and to own the experience. We call it Experience Marketing, and we pioneered it.

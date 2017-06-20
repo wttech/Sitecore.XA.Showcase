@@ -14,10 +14,13 @@ Languages:
       Value: 20161011T073736Z
     - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
       Hint: ImageCaption
-      Value: "The \"Designing\" interface for a given Content Type"
+      Value: |
+        The "Designing" interface for a given Content Type
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{5A8EEB44-F93B-4617-9FDE-60FF31AA0001}\" />"
+      Value: |
+        <image mediaid="{5A8EEB44-F93B-4617-9FDE-60FF31AA0001}" />

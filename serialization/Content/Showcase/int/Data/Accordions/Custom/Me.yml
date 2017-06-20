@@ -26,7 +26,8 @@ Languages:
         <p>Vivamus id libero eu est venenatis pharetra. Mauris hendrerit auctor suscipit. Nullam id neque in enim suscipit blandit sit amet ac orci. Cras eu consequat enim, in viverra erat. Donec ut eros vel sapien fringilla vehicula non et massa. Quisque quis sem posuere, ultrices ante quis, maximus quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ullamcorper nisi ut sem maximus rutrum. Nam auctor odio ut metus.</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
       Value: Me

@@ -14,10 +14,12 @@ Languages:
       Value: <p>Desktop Middle</p><p>Tablet &amp; Phone #1 row</p>
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{79723A5C-F74F-4796-9F72-7B232C9AB227}\" />"
+      Value: |
+        <image mediaid="{79723A5C-F74F-4796-9F72-7B232C9AB227}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170407T223305Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin

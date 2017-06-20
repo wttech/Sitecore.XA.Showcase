@@ -15,7 +15,8 @@ Languages:
     Fields:
     - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
       Hint: RedirectUrl
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{DF3A4F2D-F48F-4449-8DF7-D5210E180CFA}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{DF3A4F2D-F48F-4449-8DF7-D5210E180CFA}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161104T094005Z
@@ -24,7 +25,8 @@ Languages:
       Value: Home Pages
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "99b95f25-2a1d-406c-b587-97dd6e1f2fb6"
       Hint: Title
       Value: Home Pages

@@ -17,7 +17,9 @@ Languages:
       Value: Hey Presto, you have added or updated your theme.
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{2D8C5849-A9D6-4C26-AB76-6E82E375007A}\" />"
+      Value: |
+        <image mediaid="{2D8C5849-A9D6-4C26-AB76-6E82E375007A}" />

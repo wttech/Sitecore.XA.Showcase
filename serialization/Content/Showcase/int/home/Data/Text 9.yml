@@ -14,7 +14,9 @@ Languages:
       Value: 20161017T094652Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<p style=\"text-align: center;\"><br />Do not waste your time trying to get familiar with an&nbsp;advanced technology, focus only on what's important to your visitors - quality content. By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can constantly be validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you into a particular way of working.</p>"
+      Value: |
+        <p style="text-align: center;"><br />Do not waste your time trying to get familiar with an&nbsp;advanced technology, focus only on what's important to your visitors - quality content. By allowing the authors to start entering real content into a wireframe environment, built on Sitecore with SXA, your UI and creatives can be working with real content, and the project board can constantly be validating the work. For those interested in Content Strategy, this might be the tool you have been looking for to facilitate your approach without boxing you into a particular way of working.</p>

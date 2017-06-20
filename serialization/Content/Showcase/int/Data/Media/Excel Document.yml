@@ -17,7 +17,9 @@ Languages:
       Value: Download
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
       Hint: File
-      Value: "<file mediaid=\"{59CDDE3D-7D43-4A81-89EF-3FD589B7F253}\" src=\"-/media/59CDDE3D7D434A8189EF3FD589B7F253.ashx\" />"
+      Value: |
+        <file mediaid="{59CDDE3D-7D43-4A81-89EF-3FD589B7F253}" src="-/media/59CDDE3D7D434A8189EF3FD589B7F253.ashx" />

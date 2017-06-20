@@ -21,7 +21,9 @@ Languages:
       Value: 20161013T121859Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{5399F2EB-3D84-4603-8D63-AE78A768E416}\" ></image>"
+      Value: |
+        <image mediaid="{5399F2EB-3D84-4603-8D63-AE78A768E416}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
-      Value: "<h2>\"Watch me!\"</h2>"
+      Value: |
+        <h2>"Watch me!"</h2>

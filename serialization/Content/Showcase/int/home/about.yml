@@ -44,6 +44,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: "{458C2764-7BF9-4F40-9172-DD423962D419}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161006T085125Z
@@ -52,22 +55,26 @@ Languages:
       Value: <p>We are always happy to hear from you.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<h1 style=\"text-align: center;\">What is this site?</h1>"
+      Value: |
+        <h1 style="text-align: center;">What is this site?</h1>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: About
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{876B1BCA-A03A-43F8-BD99-7259D8DB20FF}\" />"
+      Value: |
+        <image mediaid="{876B1BCA-A03A-43F8-BD99-7259D8DB20FF}" />
     - ID: "e6aaaa02-c8a0-45dc-bdf8-abdadee5eeac"
       Hint: NavigationImage
       Value: 

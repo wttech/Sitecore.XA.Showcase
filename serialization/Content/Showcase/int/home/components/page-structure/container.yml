@@ -133,7 +133,8 @@ Languages:
         </ul>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Container
@@ -142,4 +143,5 @@ Languages:
       Value: Page Structure
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{25BCA304-862B-4D6A-8A1E-4CEA8F515598}\" />"
+      Value: |
+        <image mediaid="{25BCA304-862B-4D6A-8A1E-4CEA8F515598}" />

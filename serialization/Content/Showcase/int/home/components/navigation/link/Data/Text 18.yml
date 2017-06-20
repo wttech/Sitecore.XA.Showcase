@@ -14,7 +14,8 @@ Languages:
       Value: 20161003T111741Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: "<p>If your webpage needs a link to a document, or to any other asset stored in the Media Library, please take a look at the Media Link component. This dedicated component allows you to display additional file metadata: e.g. longer description, custom image, size of the asset, etc. The better you present your asset, the more likely is your user to follow the link.</p>"

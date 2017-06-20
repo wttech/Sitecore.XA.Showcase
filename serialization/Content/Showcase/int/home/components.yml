@@ -26,7 +26,8 @@ SharedFields:
   Value: 75
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{A688FE08-060F-487E-9D63-9B96DE6DDECA}\" />"
+  Value: |
+    <image mediaid="{A688FE08-060F-487E-9D63-9B96DE6DDECA}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -102,13 +103,15 @@ Languages:
         <p>You can browse the components by category or simply use the navigation at the top.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Components
@@ -117,4 +120,5 @@ Languages:
       Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{EB5CA14B-CA05-4205-9DC9-7E85998CEE04}\" />"
+      Value: |
+        <image mediaid="{EB5CA14B-CA05-4205-9DC9-7E85998CEE04}" />

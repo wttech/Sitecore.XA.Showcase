@@ -7,7 +7,8 @@ DB: master
 SharedFields:
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{01459A9E-1E29-4C84-B896-15F91E313E8D}\" ></image>"
+  Value: |
+    <image mediaid="{01459A9E-1E29-4C84-B896-15F91E313E8D}" ></image>
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -170,10 +171,12 @@ Languages:
       Value: 20161117T093715Z
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<h1 class=\"title-with-fallback field-title\" style=\"color: #747474; margin: 1em 0px 10px; padding: 0px 0px 11px; border: none;\">Meet The Team</h1>"
+      Value: |
+        <h1 class="title-with-fallback field-title" style="color: #747474; margin: 1em 0px 10px; padding: 0px 0px 11px; border: none;">Meet The Team</h1>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Meet The Team

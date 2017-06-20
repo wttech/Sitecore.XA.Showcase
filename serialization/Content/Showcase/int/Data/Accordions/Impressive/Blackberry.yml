@@ -21,10 +21,13 @@ Languages:
       Value: 20161012T132820Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<img alt=\"Blackberry\" height=\"352\" width=\"850\" src=\"-/media/9DF5CE4501104EF4B79FEABDF7F23991.ashx\" />"
+      Value: |
+        <img alt="Blackberry" height="352" width="850" src="-/media/9DF5CE4501104EF4B79FEABDF7F23991.ashx" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
-      Value: "<img alt=\"Blackberry\" height=\"352\" width=\"50\" src=\"-/media/A0996B62038A4556AF5168AB460BC50E.ashx\" />"
+      Value: |
+        <img alt="Blackberry" height="352" width="50" src="-/media/A0996B62038A4556AF5168AB460BC50E.ashx" />

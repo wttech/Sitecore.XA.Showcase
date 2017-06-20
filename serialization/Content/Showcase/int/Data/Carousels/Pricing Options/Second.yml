@@ -18,7 +18,9 @@ Languages:
       Value: 20161013T121833Z
     - ID: "427ec0bd-3bf2-45b9-880f-bdb0054e7925"
       Hint: SlideImage
-      Value: "<image mediaid=\"{96A4F044-7864-4C62-BE9D-FAABEB8E64C7}\" ></image>"
+      Value: |
+        <image mediaid="{96A4F044-7864-4C62-BE9D-FAABEB8E64C7}" ></image>
     - ID: "7209159d-6b3e-4281-983e-f7f82104fa1b"
       Hint: SlideText
-      Value: "<h2>\"You can't do this\"</h2>"
+      Value: |
+        <h2>"You can't do this"</h2>

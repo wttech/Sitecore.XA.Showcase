@@ -14,7 +14,8 @@ Languages:
       Value: 20161005T120124Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "aa9c8d1c-b210-4efa-86db-83e8fa32c672"
       Hint: Title
       Value: Example Links
