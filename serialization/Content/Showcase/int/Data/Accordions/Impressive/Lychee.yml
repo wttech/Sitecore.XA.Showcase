@@ -21,10 +21,13 @@ Languages:
       Value: 20161012T132849Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<img alt=\"Lychee\" height=\"352\" width=\"850\" src=\"-/media/BE5E2CF18AF14F5483A842802A54769D.ashx\" />"
+      Value: |
+        <img alt="Lychee" height="352" width="850" src="-/media/BE5E2CF18AF14F5483A842802A54769D.ashx" />
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
-      Value: "<img alt=\"Lychee\" height=\"352\" width=\"50\" src=\"-/media/C9835F24688746EBBD85DE684FAABBE8.ashx\" />"
+      Value: |
+        <img alt="Lychee" height="352" width="50" src="-/media/C9835F24688746EBBD85DE684FAABBE8.ashx" />

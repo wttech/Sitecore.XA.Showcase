@@ -37,7 +37,8 @@ Languages:
       Value: 20161013T072408Z
     - ID: "70181515-2aab-4710-91f4-52a08151693e"
       Hint: Heading
-      Value: "<p><em class=\"fa fa-folder-o fa-2x\"></em> <strong>Tabs</strong></p>"
+      Value: |
+        <p><em class="fa fa-folder-o fa-2x"></em> <strong>Tabs</strong></p>
     - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
       Hint: Content
       Value: Integer luctus ante eu metus posuere, quis tincidunt tellus malesuada. Vestibulum pulvinar nisi metus, a congue turpis tempus sed. Vestibulum sagittis odio tortor. Pellentesque gravida lacus at lorem tristique suscipit. Nullam congue lorem lectus, ac euismod nisi maximus in. Aenean lectus lorem, pretium eget leo nec, commodo condimentum est. Integer sed ligula quam. Proin ut aliquam justo. Curabitur mollis porttitor nisl, fringilla rhoncus nunc pellentesque vel. Mauris posuere tortor ac mauris blandit.

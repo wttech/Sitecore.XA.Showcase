@@ -17,7 +17,9 @@ Languages:
       Value: Once you received the completed packaged from the UI developer, click the Import button in the Sitecore Experience Accelerator ribbon and follow the simple wizard.
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{B635F490-F0C5-4A17-B5C2-8BC892531F97}\" />"
+      Value: |
+        <image mediaid="{B635F490-F0C5-4A17-B5C2-8BC892531F97}" />

@@ -11,10 +11,12 @@ Languages:
     Fields:
     - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
       Hint: HtmlCode
-      Value: "<div class=\"mobile-nav\"><div class=\"mobile-nav-inner\"></div></div>"
+      Value: |
+        <div class="mobile-nav"><div class="mobile-nav-inner"></div></div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161219T095207Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin

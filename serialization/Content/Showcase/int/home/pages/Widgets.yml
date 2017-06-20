@@ -11,7 +11,8 @@ Languages:
     Fields:
     - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
       Hint: RedirectUrl
-      Value: "<link text=\"\" anchor=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{C18BDD92-F3D0-4C1C-A7F2-555E2595437F}\" />"
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C18BDD92-F3D0-4C1C-A7F2-555E2595437F}" />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161117T093506Z
@@ -26,4 +27,5 @@ Languages:
       Value: "Customize!"
     - ID: "e6aaaa02-c8a0-45dc-bdf8-abdadee5eeac"
       Hint: NavigationImage
-      Value: "<image mediaid=\"{4DCA781F-C7A5-464B-9B2C-F90037E9A420}\" ></image>"
+      Value: |
+        <image mediaid="{4DCA781F-C7A5-464B-9B2C-F90037E9A420}" ></image>

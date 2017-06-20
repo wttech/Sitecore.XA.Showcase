@@ -7,7 +7,8 @@ DB: master
 SharedFields:
 - ID: "cc37392f-2007-47a8-87f2-0f60b31bd0c5"
   Hint: NavigationIcon
-  Value: "<image mediaid=\"{D18FE65C-8E0D-42D8-B8D2-1A50091E1A98}\" ></image>"
+  Value: |
+    <image mediaid="{D18FE65C-8E0D-42D8-B8D2-1A50091E1A98}" ></image>
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Type: layout
@@ -84,7 +85,8 @@ Languages:
       Value: 20161117T093703Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Contact Page 2

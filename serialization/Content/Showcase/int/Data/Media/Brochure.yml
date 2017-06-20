@@ -14,16 +14,19 @@ Languages:
       Value: 20161003T114317Z
     - ID: "413f42d9-9868-418a-9a0e-770202b9ccc4"
       Hint: CustomImage
-      Value: "<image mediaid=\"{FA8C9D42-20FF-4D43-BDB1-0F43C5505F10}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" />"
+      Value: |
+        <image mediaid="{FA8C9D42-20FF-4D43-BDB1-0F43C5505F10}" height="" hspace="" width="" alt="test" vspace="" />
     - ID: "58deef8c-1a88-449e-b165-bfe3be9b53b7"
       Hint: LinkText
       Value: Download
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "74a012f7-d87b-456e-a447-6f392c69c48f"
       Hint: File
-      Value: "<file mediaid=\"{FA8C9D42-20FF-4D43-BDB1-0F43C5505F10}\" src=\"-/media/FA8C9D4220FF4D43BDB10F43C5505F10.ashx\" />"
+      Value: |
+        <file mediaid="{FA8C9D42-20FF-4D43-BDB1-0F43C5505F10}" src="-/media/FA8C9D4220FF4D43BDB10F43C5505F10.ashx" />
     - ID: "75797cec-589f-47e2-b416-45cff546eee1"
       Hint: Description
       Value: Sitecore logo with tagline

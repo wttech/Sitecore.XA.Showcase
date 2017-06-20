@@ -14,7 +14,9 @@ Languages:
       Value: 20161003T101059Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link id=\"{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}\" querystring=\"\" target=\"\" url=\"/Showcase/int/home/about\" class=\"success\" linktype=\"internal\" />"
+      Value: |
+        <link id="{D94D1F25-C0CF-4D0D-B809-7FC32E9A759E}" querystring="" target="" url="/Showcase/int/home/about" class="success" linktype="internal" />

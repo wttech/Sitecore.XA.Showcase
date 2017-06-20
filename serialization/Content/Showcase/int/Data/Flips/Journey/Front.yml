@@ -14,7 +14,8 @@ Languages:
       Value: 20161013T103732Z
     - ID: "b64a5f49-1b79-4f86-aecd-c5a2c0defeed"
       Hint: Content
-      Value: "<img height=\"657\" alt=\"boy-flying\" width=\"1024\" src=\"-/media/B0793444D23A4D22B2D77FBD35D8C029.ashx\">"
+      Value: |
+        <img height="657" alt="boy-flying" width="1024" src="-/media/B0793444D23A4D22B2D77FBD35D8C029.ashx">
     - ID: "fd8fdb4a-8022-453c-aff5-8e68d3d3eb5f"
       Hint: Heading
       Value: 

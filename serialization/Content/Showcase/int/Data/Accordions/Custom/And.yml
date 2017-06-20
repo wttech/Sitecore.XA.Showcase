@@ -21,10 +21,12 @@ Languages:
       Value: 20161013T062024Z
     - ID: "5a236869-e375-49c0-a92d-0c2f1db7788f"
       Hint: Content
-      Value: "<span style=\"color: #000000;\">Hmm... is this not enough?</span>"
+      Value: |
+        <span style="color: #000000;">Hmm... is this not enough?</span>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
       Value: And

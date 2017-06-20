@@ -14,7 +14,8 @@ Languages:
       Value: 20161110T140848Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin 
+      Value: |
+        sitecore\admin 
     - ID: "d3bf9175-3c00-4bd5-978b-d27df8c41482"
       Hint: Title
       Value: Sitecore Experience Accelerator

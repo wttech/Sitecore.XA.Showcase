@@ -132,13 +132,15 @@ Languages:
         <p>Find detailed information on our documentation page.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Image
@@ -147,4 +149,5 @@ Languages:
       Value: Media
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{08191EBD-31BF-4F7D-89F7-FB02AD0EA6A4}\" />"
+      Value: |
+        <image mediaid="{08191EBD-31BF-4F7D-89F7-FB02AD0EA6A4}" />

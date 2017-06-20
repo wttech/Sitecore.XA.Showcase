@@ -63,16 +63,19 @@ Languages:
       Value: <p>Couple of examples showing how Home page, About Us page and many more pages can look like.</p>
     - ID: "2e5f1d40-2ea6-4bfe-add9-98b3575e4b6e"
       Hint: Content
-      Value: "<p style=\"text-align: justify;\">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with the platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>"
+      Value: |
+        <p style="text-align: justify;">To show you how easy and fast building site with <b>Sitecore Experience Accelerator</b> is we have decided to share some example arrangement of real pages. You will be amazed how many real use cases <b>SXA</b> is able to deliver. Everything you can see comes with the platform out of the box, just imagine how easy and friendly creating a page process could be if you have <b>SXA</b>, there are no limits.</p>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "4ebd9126-778d-4872-b874-664d8ea4121e"
       Hint: ContentStatus
       Value: Finished
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Pages
@@ -81,4 +84,5 @@ Languages:
       Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{25052009-56A2-4C81-85FA-14266D155B24}\" />"
+      Value: |
+        <image mediaid="{25052009-56A2-4C81-85FA-14266D155B24}" />

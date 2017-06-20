@@ -24,7 +24,8 @@ Languages:
       Value: "Yes, you can customize it and there are more options than you probably expected. Animation style, animation speed, hover opening, multiple openings and more. Just a few clicks, and done!"
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "7240053b-9140-48ac-acea-abfccd7761a1"
       Hint: Heading
       Value: "Can I customize?"

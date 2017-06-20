@@ -14,7 +14,9 @@ Languages:
       Value: 20170416T184443Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<div>All three links below are showing the same content, but they are rendered using different <a href=\"~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z\">rendering variants</a>. Read more about <a href=\"~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z\">rendering variants</a> to learn how you can effectively reuse your content.</div><p><br /></p><div>By the way, as usual, we encourage you to change any of these and see how it affects the others. Imagine if you had a typo and would have to search through the entire page just to fix it!</div>"
+      Value: |
+        <div>All three links below are showing the same content, but they are rendered using different <a href="~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z">rendering variants</a>. Read more about <a href="~/link.aspx?_id=065DCE2FB46C47D09661248220F9F49C&amp;_z=z">rendering variants</a> to learn how you can effectively reuse your content.</div><p><br /></p><div>By the way, as usual, we encourage you to change any of these and see how it affects the others. Imagine if you had a typo and would have to search through the entire page just to fix it!</div>

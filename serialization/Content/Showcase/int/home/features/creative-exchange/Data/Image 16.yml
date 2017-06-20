@@ -14,7 +14,9 @@ Languages:
       Value: 20170404T223116Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
       Hint: Image
-      Value: "<image mediaid=\"{79F9E616-F8BD-45A1-914C-07AC7A5A2D51}\" />"
+      Value: |
+        <image mediaid="{79F9E616-F8BD-45A1-914C-07AC7A5A2D51}" />

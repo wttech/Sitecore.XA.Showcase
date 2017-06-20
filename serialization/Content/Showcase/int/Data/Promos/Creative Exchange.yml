@@ -14,16 +14,19 @@ Languages:
       Value: "Export your whole site as a package and skin it offline in your preferred tools. Then re-import the package to create or update your theme."
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{CF03B6D7-70AF-4693-9816-5692854C175F}\" ></image>"
+      Value: |
+        <image mediaid="{CF03B6D7-70AF-4693-9816-5692854C175F}" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20161011T102910Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
       Hint: PromoText2
       Value: test
     - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
       Hint: PromoLink
-      Value: "<link text=\"\" linktype=\"internal\" class=\"\" title=\"\" target=\"\" querystring=\"\" id=\"{CB380895-FA6E-4981-9A46-B9EC169EBA18}\" />"
+      Value: |
+        <link text="" linktype="internal" class="" title="" target="" querystring="" id="{CB380895-FA6E-4981-9A46-B9EC169EBA18}" />

@@ -14,7 +14,8 @@ Languages:
       Value: 20170422T183410Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: "<p>Now that you have your sticky note in place - you can type a message to whoever is working on the content or styling with you. They will see it as soon as they open the page for editing.</p><p>They will also know who left it and when as this information is displayed at the bottom of your sticky note.</p>"

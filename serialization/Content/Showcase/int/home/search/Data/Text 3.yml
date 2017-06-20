@@ -14,7 +14,9 @@ Languages:
       Value: 20161212T161103Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
-      Value: "<p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">The great thing is that you do not need a developer or administrator to set up your search solution. Your content is automatically and immediately made available for searching, regardless of your site structure, page types, or volume of content. SXA includes components for handling both search criteria input and presenting results in a flexible and customizable way.</p><p style=\"font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;\">Numerous components are available for you to build up a great search experience for your visitors. Your basic search solution can consist of text search query box, pagination, results ordering - and of course - the results list itself. However, a number of filters can be placed on your search page to allow users to specify their precise search criteria.</p>"
+      Value: |
+        <p style="font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;">The great thing is that you do not need a developer or administrator to set up your search solution. Your content is automatically and immediately made available for searching, regardless of your site structure, page types, or volume of content. SXA includes components for handling both search criteria input and presenting results in a flexible and customizable way.</p><p style="font-weight: normal; font-style: normal; font-size: 16px; font-family: ProximaNova-Light, Arial, Helvetica, sans-serif;">Numerous components are available for you to build up a great search experience for your visitors. Your basic search solution can consist of text search query box, pagination, results ordering - and of course - the results list itself. However, a number of filters can be placed on your search page to allow users to specify their precise search criteria.</p>

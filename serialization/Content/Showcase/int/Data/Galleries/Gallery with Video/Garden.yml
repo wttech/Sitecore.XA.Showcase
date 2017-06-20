@@ -21,7 +21,9 @@ Languages:
       Value: 20161014T122452Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "cbdaab5f-3f7a-4072-8b7f-6a325a4a2205"
       Hint: Image
-      Value: "<link linktype=\"media\" target=\"\" id=\"{B71B0E5C-DD59-44C0-B712-C6CB146C175E}\" />"
+      Value: |
+        <link linktype="media" target="" id="{B71B0E5C-DD59-44C0-B712-C6CB146C175E}" />

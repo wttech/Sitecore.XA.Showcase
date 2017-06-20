@@ -145,9 +145,6 @@ Languages:
     - ID: "b3692756-6823-4b81-97a0-cc336e74aaba"
       Hint: Section
       Value: Page Content
-    - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
-      Hint: ComponentType
-      Value: 
     - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
       Hint: TwitterCardType
       Value: 

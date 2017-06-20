@@ -37,7 +37,8 @@ Languages:
       Value: 20161013T072411Z
     - ID: "70181515-2aab-4710-91f4-52a08151693e"
       Hint: Heading
-      Value: "<p><em class=\"fa fa-cogs fa-2x\"></em> <strong>Are</strong></p>"
+      Value: |
+        <p><em class="fa fa-cogs fa-2x"></em> <strong>Are</strong></p>
     - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
       Hint: Content
       Value: Donec consectetur, velit et mattis facilisis, enim ante euismod sapien, vitae suscipit neque sapien id orci. Praesent blandit congue eros, sed finibus mauris finibus eget. Nulla ipsum orci, sodales ac pellentesque ac, dignissim in dolor. Nam fringilla, diam sit amet lacinia tincidunt, tellus enim tempor nunc, nec iaculis diam turpis a felis. Ut commodo metus non ligula interdum porta a ac diam. Nulla rhoncus, ligula at sodales efficitur, tellus elit facilisis sem, sit amet luctus tellus sapien et felis. Nullam tincidunt.

@@ -14,7 +14,8 @@ Languages:
       Value: 20170423T223834Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "b3635965-6786-457c-9dee-28de73c0a331"
       Hint: Text
       Value: Our video component integrates with YouTube, so you do not need tons of megabytes to host your videos. In fact, you can upload all your high definition videos to YouTube and use our component to show them.

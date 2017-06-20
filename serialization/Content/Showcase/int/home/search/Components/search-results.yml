@@ -48,16 +48,16 @@ Languages:
         </ul>
     - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
       Hint: StickyNotes
-      Value: "{\"items\":[]}"
+      Value: |
+        {"items":[]}
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\Admin
+      Value: |
+        sitecore\Admin
     - ID: "7b443a45-f000-4206-a0e1-f9cc4a28f25b"
       Hint: Title
       Value: Search Results
-    - ID: "c5b58f4c-96d6-4e3d-bc3c-3dd464ee9a14"
-      Hint: ComponentType
-      Value: 
     - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
       Hint: OpenGraphImageUrl
-      Value: "<image mediaid=\"{3F9741D7-43A6-4573-B3DF-C005D0D2AC69}\" />"
+      Value: |
+        <image mediaid="{3F9741D7-43A6-4573-B3DF-C005D0D2AC69}" />

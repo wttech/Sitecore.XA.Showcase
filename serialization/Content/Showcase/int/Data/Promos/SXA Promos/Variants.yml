@@ -14,13 +14,16 @@ Languages:
       Value: Change the way the component looks like with just a single selection. Display different fields by selecting one of the available variants.
     - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
       Hint: PromoIcon
-      Value: "<image mediaid=\"{9E82020B-8DFF-465D-84C2-BC6B44841CF5}\" height=\"\" hspace=\"\" width=\"\" alt=\"test\" vspace=\"\" ></image>"
+      Value: |
+        <image mediaid="{9E82020B-8DFF-465D-84C2-BC6B44841CF5}" height="" hspace="" width="" alt="test" vspace="" ></image>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160930T123908Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
       Hint: PromoLink
-      Value: "<link querystring=\"\" target=\"\" linktype=\"internal\" id=\"{065DCE2F-B46C-47D0-9661-248220F9F49C}\" url=\"/Showcase/int/home/features/rendering-variants\" />"
+      Value: |
+        <link querystring="" target="" linktype="internal" id="{065DCE2F-B46C-47D0-9661-248220F9F49C}" url="/Showcase/int/home/features/rendering-variants" />

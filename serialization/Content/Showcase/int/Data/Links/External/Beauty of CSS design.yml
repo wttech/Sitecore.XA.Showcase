@@ -14,7 +14,9 @@ Languages:
       Value: 20161003T100316Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
-      Value: sitecore\admin
+      Value: |
+        sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
-      Value: "<link linktype=\"external\" text=\"Beauty of CSS design\" url=\"http://www.csszengarden.com/\" anchor=\"\" target=\"\" />"
+      Value: |
+        <link linktype="external" text="Beauty of CSS design" url="http://www.csszengarden.com/" anchor="" target="" />
