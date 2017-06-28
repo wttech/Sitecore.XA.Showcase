@@ -1,0 +1,26 @@
+﻿---
+ID: "7ce96743-d25e-4414-85fc-f5aded49465b"
+Parent: "95576f7e-7260-4a81-a79d-0b9f276514a1"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Event List/Default/Event List Time/EventEnd
+DB: master
+BranchID: "34c38ec6-d380-4bb0-93ab-52f08aecfbfa"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: EventEnd
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T085124Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: to 

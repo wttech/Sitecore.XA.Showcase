@@ -1,0 +1,30 @@
+﻿---
+ID: "f17521a6-25b0-4766-9c12-e4722516ef67"
+Parent: "9582b7c7-37a0-4175-99b4-6d3e171e319f"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/RichText/Default/Text
+DB: master
+BranchID: "e4acb01a-2a91-4200-b9ce-205b2a5aa488"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Text
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T085155Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

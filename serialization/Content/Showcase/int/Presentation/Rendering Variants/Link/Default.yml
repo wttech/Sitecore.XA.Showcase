@@ -1,0 +1,19 @@
+﻿---
+ID: "40d8d1c8-b148-440f-8b46-cd117b920cbe"
+Parent: "8cb86c61-2a14-4880-a35a-d406e2867559"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Showcase/int/Presentation/Rendering Variants/Link/Default
+DB: master
+BranchID: "4d660f84-930a-437f-9457-e9c4cd8f674c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T085147Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
