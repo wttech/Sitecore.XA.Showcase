@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "33d9005e-1f71-415f-b107-53b965c3b037"
   Hint: SiteMediaLibrary
-  Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"
+  Value: "{8A61FBE5-B85E-4479-A854-CAE04A5F8D5C}"
 - ID: "d7264a2b-e343-4613-a71a-1727f50dbc15"
   Hint: ThemesFolder
   Value: "{0E50C8EF-B43F-4DA4-BE04-B579AF444CD8}"

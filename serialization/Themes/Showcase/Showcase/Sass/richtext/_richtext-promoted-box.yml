@@ -1,0 +1,35 @@
+﻿---
+ID: "014c888a-2483-4798-a312-5d33fd15d799"
+Parent: "81609137-e437-4fd4-9660-48127b394168"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Showcase/Showcase/Sass/richtext/_richtext-promoted-box"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/014C888A24834798A3125D33FD15D799.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "12d532e8-f9c8-459b-bdd4-0acd01d3bb28"
+  Value: LnByb21vdGVkLWJveCB7DQoJbWF4LXdpZHRoOiA5NjBweDsNCgkvLyBtYXJnaW46IDAgYXV0bzsNCgkvLyBmbG9hdDogbm9uZTsNCg0KCSYucHJvbW8geyANCgkJZmxvYXQ6IGxlZnQ7CQkNCgl9DQoNCgk+IC5jb21wb25lbnQtY29udGVudCB7DQoJCUBpbmNsdWRlIGJveC1zaXppbmcoYm9yZGVyLWJveCk7DQoJCXBvc2l0aW9uOiByZWxhdGl2ZTsNCgkJYmFja2dyb3VuZDogI2ZmZjsNCgkJYm9yZGVyLXdpZHRoOiAxcHg7DQoJCWJvcmRlci1jb2xvcjogI2U4ZTZlNjsNCgkJYm9yZGVyLXRvcC13aWR0aDogM3B4Ow0KCQlib3JkZXItdG9wLWNvbG9yOiAkZ3JlZW4tbGlnaHQ7DQoJCWJvcmRlci1zdHlsZTogc29saWQ7DQoJCXBhZGRpbmc6IDI1cHg7DQoJCW1hcmdpbjogMCAwIDMwcHggMDsNCg0KCQlAaW5jbHVkZSByZXNwb25kLXRvKGFsbC1tb2JpbGUpIHsNCgkJCW1hcmdpbjogMCAxMHB4IDMwcHggMTBweDsNCgkJfQ0KDQoJCSY6YmVmb3JlIHsNCgkJCUBpbmNsdWRlIG9wYWNpdHkoMC43KTsNCgkJCUBpbmNsdWRlIGJveC1zaGFkb3coMCAxN3B4IDEwcHggcmdiYSgwLDAsMCwgMC43KSk7DQoJCQlAaW5jbHVkZSB0cmFuc2Zvcm0ocm90YXRlKC0zZGVnKSk7DQoJCQlwb3NpdGlvbjogYWJzb2x1dGU7DQoJCQlib3R0b206IDE1cHg7DQoJCQlsZWZ0OiAxMHB4Ow0KCQkJei1pbmRleDogLTE7DQoJCQloZWlnaHQ6IDIwJTsNCgkJCW1heC1oZWlnaHQ6IDEwMHB4Ow0KCQkJbWF4LXdpZHRoOiA0NjBweDsNCgkJCXdpZHRoOiA2MCU7DQoJCQljb250ZW50OiAiIjsNCgkJfQ0KDQoJCSY6YWZ0ZXIgew0KCQkJQGluY2x1ZGUgb3BhY2l0eSgwLjcpOw0KCQkJQGluY2x1ZGUgYm94LXNoYWRvdygwIDE3cHggMTBweCByZ2JhKDAsMCwwLCAwLjcpKTsNCgkJCUBpbmNsdWRlIHRyYW5zZm9ybShyb3RhdGUoM2RlZykpOw0KCQkJcG9zaXRpb246IGFic29sdXRlOw0KCQkJYm90dG9tOiAxNXB4Ow0KCQkJbGVmdDogYXV0bzsNCgkJCXJpZ2h0OiAxMHB4Ow0KCQkJei1pbmRleDogLTE7DQoJCQloZWlnaHQ6IDIwJTsNCgkJCW1heC1oZWlnaHQ6IDEwMHB4Ow0KCQkJbWF4LXdpZHRoOiA0NjBweDsNCgkJCXdpZHRoOiA2MCU7DQoJCQljb250ZW50OiAiIjsNCgkJfQ0KCX0NCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1114
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170410T133335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

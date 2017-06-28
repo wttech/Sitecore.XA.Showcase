@@ -1,0 +1,44 @@
+﻿---
+ID: "956bfeff-54c7-4e5e-b857-91a142c25481"
+Parent: "5c436aba-a30f-4498-a26a-38139ca1cbce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Images/flags/dm
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/956BFEFF54C74E5EB85791A142C25481.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "65a21380-8f8b-4530-96d0-0e01c5de630d"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAABDlBMVEUAAAAQiwAQiQAUeAgUhAUNfwANfgASeASr16WEgogsLCkdjgGGsQCrjQBRQgARiQEQhgEUhQXJz8gpKCayrgYfggZNPwN7owCdggATggUPfAEUZwkPeALa4NnHwgHa4dnEvwGiy51+fYI/lzOTt45ycnY/lzMPjAAMiwBFpjjd5N2HtACtjwAMigAtLCrlKw7OQQrUOwxFoDIqLCrbMhvUTBqIYg/RTQvAgAOEqwEmiQHIxAAckQDewbPdvays2qeNgISvOVyRQla0hlSwQEOyekHEVzlTWjjKUSppLSNvLyHFOxtoYhPdNg3ZLg3PMwyrVQqlXAmzRQi/RAjEdwfIggYmgwMdhwJdQwBXQwDkvRv/AAAAJ3RSTlMA/v5YWVlXRv7+/v7+/v7z81pYWFhYWFhYR0cJCf7+/f1ZWVlYWFfiRpsXAAAAy0lEQVQY022PRZbCABAFSchM0MEGd4d4cHd3l/tfhN+PBRtqVa823d/wnUjQxXGc99+XSnLAFYwghhwMsMb+zCaGcPCIP2wedNqPgSlPML8U5QJoXc6L6Y2Mpei3iaLYPGqVinZoQm1+xIBdkqRGXZ2M1HoDag8geiyKUl7q6nC+01dlRbF4EN1RQRC6VXW92Vd70LgbMV0EpZq21bVaiTz3vi7Lhdb1NBvfYXT98+fT3P/8GXKywJqgRWROWhTmjQDbsxkjwYcNX3kBHYge8oHOlIcAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 593
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

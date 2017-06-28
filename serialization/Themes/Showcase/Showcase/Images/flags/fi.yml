@@ -1,0 +1,44 @@
+﻿---
+ID: "b1379a77-103e-403a-a289-186623a3e087"
+Parent: "5c436aba-a30f-4498-a26a-38139ca1cbce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Images/flags/fi
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B1379A77103E403AA289186623A3E087.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "02c688a6-328a-4d6a-8f71-9d3647bc4dc1"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAAAgVBMVEUAAAD8/Pvu7u7W1tUGXcnq6en5+fkCY9gBYNahveAIV7j9/f3L3vUQa9r4+Pj09PS7zOKNqcvp6enm5ubd3d3Pz8+1tbWpyO6bv+yWt+Db29vZ2dn///8AYtoDZNuy0PQQbNzN4fitzPOew/HR4/ifxPEKaNyLuO5/sOx4rOtupupxiMOPAAAAHHRSTlMA/llYWFj9/v5YWP7+/vPzWFhHR0ZGCf39WQoJLuI9iAAAAI1JREFUGNN1zdcOhCAQhWFRFMRet9FE1y3v/4AO4I2JfnfzJ5MTnHu2YfjAGKeh174gdmXGZ0KI4cjKyg5ijDh/CyEN91B8FVOj1F8I8VOeSSFiIqWEKHcE20jFAXWx0HqFY9VeYWOdT8sXvj/L5OT1vj4f1q9iXyXoTim9ocSpeojjEEUNY6yJvGEMTm261xL6hzAavQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 379
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161240Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "6f047f60-a385-46b3-9585-d8d7b72ce227"
+Parent: "24dae316-de48-4491-b0fc-658b8970b401"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Sass/fontawesome
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170418T082016Z

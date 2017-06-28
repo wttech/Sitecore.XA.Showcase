@@ -8,9 +8,6 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: "-/media/82734F8E4A494437A36F5FFC03586694.ashx?h=16&thn=1&w=16"
-- ID: "1a25c485-c7f4-4488-ad5a-b8d72e4a66df"
-  Hint: Model
-  Value: 
 - ID: "22eac599-f13b-4607-a89d-c091763a467d"
   Hint: Width
   Value: 640
@@ -24,9 +21,6 @@ SharedFields:
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: image/jpeg
-- ID: "7798cd59-76dc-4869-8bda-2952a64b8687"
-  Hint: Make
-  Value: 
 - ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
   Hint: Extension
   Value: jpg

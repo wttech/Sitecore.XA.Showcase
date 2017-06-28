@@ -1,0 +1,44 @@
+﻿---
+ID: "ee538aec-3cea-4d40-9d1a-07fe10fca305"
+Parent: "5c436aba-a30f-4498-a26a-38139ca1cbce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Images/flags/hm
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/EE538AEC3CEA4D409D1A07FE10FCA305.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e8f970ef-4506-455a-a33f-b471a950247a"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAABLFBMVEUAAAAAAGQHB1kCAl4EBFkEBGEYGm8AAF1zc6meS2MsLncJCU2Xh67KlaTUipNvW5FDOYKHSXKpT2dGHmNXV5htPG8BAWIBAWQBAWLOucSSh6l3d6flmpZjT4JKL2ysVmYGB2O6QUnEIR9NTYPTbGoODWOSTWQCAlgAAGbUIiEBAWcKCmwAAGMlJXwODm5ER5IyMoQhIXkFBWmska/KfIkbG3YPEnLkcXC5XG7FQUvXRkizs9Hixc3HrsK6psCQkb3XqrbvqqllZKHZl5/Skp3rmppWVprdk5mqe5l5ZJdQUJaNX4lIP4fnhoZgSIXlgoNXQIE9MX22ZnvHanfVbXPOanMXF3O+YHBFKG8YEW1sNms3GWamS2VBFV3LR058FUDVLy/bJSHQEhLPCwsUlzGYAAAAKHRSTlMA/VhXRllZWf1ZWAn+/v7+/v7+/v3z8/LyWllZWVlZWVlZWVhIRwoJfAEUmwAAAMtJREFUGNNty8VyAkEUhWGadCZI3N0Tmu4exd3d3f3934E7SMGCf3EWX9UxHO7/98nyaf4SBPPryzGEbYB/d06HfO27vDo/FRGl9AEDvl1kU8GmPxkL5WoEQkeA33ZovoCZTaisrvHD26h4/NOSp9Xp07TIVyjI4UzBO45EnVU3vCVVx+ezetc99KmKI1EmhCsmHd9vekQbjBiX4kVCGGM6niCyl9hGG2QuuuMt5gOujUjaGvE9F28ltEozKfwRA1qxcdePxYithoMtAceEIkTZNdcoAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 624
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

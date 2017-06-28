@@ -1,0 +1,44 @@
+﻿---
+ID: "7e0b90dc-0d08-4ef1-8e66-8fc49fd506b3"
+Parent: "5c436aba-a30f-4498-a26a-38139ca1cbce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Images/flags/au
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/7E0B90DC0D084EF18E668FC49FD506B3.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "376e3945-14b8-4513-905b-54a15a8bb62f"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAABFFBMVEUAAAAAAGQHB1kAAF0EBGIEBFoAAFx8eKsxMIIoKH0XGHQKCmoBAWNkQHMJCU2ljKyYgKbNjJmBYY+WYINhRYAoKn+VVHfWIyBjY6AkJHpyRHUBAWKkmLV+eqaNaYpERYjdh4WEU3YTF28NE2x8PWStQVDHIh5DQ34aGmXVfXwWFmmEQFsCAlgAAGYAAGUNDW0EBGkREXHUICBcN3Xc3OpVVZpPT5bCe4w6OooiInqNSnG7RFSamsKWlsDhs7vTp7S0jafjnqJkZKLqnZ6BbJzjlJffjZKWapCncI5CQo7ghok2NofNeYWya4NLN33acXYcHHbSanI2H24wHW1YK2l6LFnUUFTVREeMGDrbIx/SFRTPDQ2e35ukAAAALXRSTlMA/VhXWUZZ/v7+/v3yWQn+/v7+/v7+/v79/fPzWllZWVlZWVlZWVlYWEhICgn38v54AAAAyUlEQVQY023P1XJCMRCAYUKbYoW6F3fJ5gju7u7y/u9BNgxww3+TzDeRWcPt4tF/fyDos3uc9zKaEBj7fTF9Ft4zTx/AsEcq0Ps2bEw2/VpXFwLAyJ3A0Jem7Q+attsypmRVkGh/rbRm63K7MxZYz53Q/ZzR84V0dTQHfJRbEV35hbJccWtTN/8Ag9434gPBD/BUOguMc5tEeWkwVRhmUckZIZUscjSxvyBLJUsqrqpyQvpHCOHmHBHZTBYiJ3JQ47VwxEgdhpsdAV1sIXTue4AxAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 603
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161228Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

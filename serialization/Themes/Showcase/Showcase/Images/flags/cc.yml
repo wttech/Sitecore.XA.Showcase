@@ -1,0 +1,44 @@
+﻿---
+ID: "2b1593bb-f275-497d-85ed-154134cba59d"
+Parent: "5c436aba-a30f-4498-a26a-38139ca1cbce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Showcase/Showcase/Images/flags/cc
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2B1593BBF275497D85ED154134CBA59D.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "74c7ba34-ec22-4a42-9bba-6b1a173c715c"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAABIFBMVEUAAAAAAGQICFoBAV0EBFoEBWMBAWMkI3AAAFpCQYswMIEPD224q79QPnsUF229REoJCU25lazGmapiV5NOTZMvLX63ZnpCK3R8P2zKTlXIPkaAgLFqaqR8Qm5qaJqAXIKGR2rTamnDLCxsbJbZeXYdGGahSlgCAlgAAGYCAmcREXALDG0GBmnVLy8hIXocHXgXFnPXMC+srM6NgKxYWJyvfprWi5NISpM6OokrK4CPSm8PBGPgXl7QU1nPQkfTHx7j4+/d3evWw9LLu867rsjowsePiLSdiK3tqalqaqWReaPknaBjX53ZkZnglJi/fI58XY5KQIjKdoPOd4IjKIBXL28wHm9SKmuqQlrZVVffV1Z0JFPURUjaQkKxKDrPDw/1y3E5AAAAKHRSTlMA/lhXRlnzWVn+/f1ZWVlZCf7+/v7+/v7+/v79/fNZWVlZWVhISAoJLqRnjQAAANBJREFUGNNt0MViwkAUheFeOpDi1N1buBMP7u7uLu//FkwIsuFffrtzLs7n/XO4OPeX2fntcJlZxMfw/z0csL7EHx9u7qiehTB03oaq+eWgVQr0RKSIcMnwR5IkbZPRJG2dEGqKge7nVHKeWSVnqWlCjPAGcpFiI5TuFNrdGEVA1abjx3V/dJ+ODyvhuoII0TcdP5/GqC4mKDTLMiIviDpeAaIoR3ncFePhgKo/F8R9R1T82SBlQAVqILEAgM1qB5b9VYbdIg8xnfrlTMRz/qMt3KMgddAZAqIAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 617
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170331T161233Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
